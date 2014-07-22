@@ -8,4 +8,4 @@ The files for this project are publicly available at the municipality of Anchora
     1. http://www.muni.org/Departments/it/GIS2/Pages/MOAGISData.aspx (Shapefile)
     2. http://dnr.alaska.gov/parks/aktrails/explore/astgglearthmap.htm (KMZ) 
 
-We are adopting the geojson open format for this project to develop new tools to explore local trails. 
+We are adopting the geojson open format for this project in order to complete the open trails system specification (http://www.codeforamerica.org/specifications/trails/spec.html). 
