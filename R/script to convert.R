@@ -4,7 +4,9 @@ require(httr)
 source("R/togeojson.R")
 
 #file to convert
-file <- "DNR_Trails_KMZ/chugachstatepark.kmz"
+file <- "Muni_Trails_Shapefile/trails.shp"
 
 #convert kmz to geojson
-togeojson(file, "R/Chugach_State_Park_Trails.geojson")
+togeojson(file, "R/Anchorage_Muni_Trails.geojson")
+
+
