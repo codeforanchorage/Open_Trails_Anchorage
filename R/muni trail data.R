@@ -5,6 +5,9 @@ require("plyr")
 
 setwd(paste(getwd(), "Muni_Trails_Shapefile" , sep = "/"))
 
+setwd("C:/Users/chthompson/Desktop/Open_Trails_Anchorage/Muni_Trails_Shapefile")
+ogrListLayers(".")
+
 anc_trails = readOGR(dsn=".", layer="trails")
 anc_trails@data$id = rownames(anc_trails@data)
 anc_trails.points = fortify(anc_trails, region="id")
