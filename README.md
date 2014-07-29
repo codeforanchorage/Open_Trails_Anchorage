@@ -20,3 +20,15 @@ This specification requires five files:
 - `stewards.csv`
 - `areas.geojson`
 
+Getting Started (development)
+-----------------------------
+
+From the project directory, run:
+
+    docker build -t codeforanchorage/ota:latest .
+
+This will set up a Docker-based development environment image. To run an
+interactive session in the environment:
+
+    docker -i -t codeforanchorage/ota:latest /bin/bash
+
