@@ -30,5 +30,5 @@ From the project directory, run:
 This will set up a Docker-based development environment image. To run an
 interactive session in the environment:
 
-    docker -v /path/to/project:/proj -i -t codeforanchorage/ota /bin/bash
+    docker -v /path/to/project:/project -i -t codeforanchorage/ota /bin/bash
 
