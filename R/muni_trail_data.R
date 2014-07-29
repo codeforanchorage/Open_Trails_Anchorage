@@ -20,7 +20,10 @@ ggplot(anc_trails.df) +
     geom_path(color="white") +
     coord_equal() +
     scale_fill_brewer("anc_trails Ecoregion")
-#trail names
+
+# trail names
 levels(anc_trails@data$TRAIL_NAME)
-#data from named trails
+
+# data from named trails
 anc_trails@data[!is.na(anc_trails@data$TRAIL_NAME),]
+
