@@ -13,6 +13,7 @@ RUN Rscript -e "install.packages('rgdal', repos='http://cran.rstudio.com/')"
 RUN Rscript -e "install.packages('maptools', repos='http://cran.rstudio.com/')"
 RUN Rscript -e "install.packages('ggplot2', repos='http://cran.rstudio.com/')"
 RUN Rscript -e "install.packages('plyr', repos='http://cran.rstudio.com/')"
+RUN Rscript -e "install.packages('ggmap', repos='http://cran.rstudio.com/')"
 
 VOLUME ["/project"]
 
