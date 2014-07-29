@@ -1,12 +1,11 @@
-#install.packages("httr")
 require(httr)
 
-source("R/togeojson.R")
+source("togeojson.R")
 
-#file to convert
-file <- "Muni_Trails_Shapefile/trails.shp"
+# file to convert
 
-#convert kmz to geojson
-togeojson(file, "R/Anchorage_Muni_Trails.geojson")
+file <- "../data/Muni_Trails_Shapefile/trails.shp"
 
+# convert kmz to geojson
+togeojson(file, "../data/Muni_Trails_Shapefile/Anchorage_Muni_Trails.geojson")
 
