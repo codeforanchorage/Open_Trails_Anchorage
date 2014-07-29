@@ -3,9 +3,7 @@ require("maptools")
 require("ggplot2")
 require("plyr")
 
-setwd(paste(getwd(), "Muni_Trails_Shapefile" , sep = "/"))
-
-setwd("C:/Users/chthompson/Desktop/Open_Trails_Anchorage/Muni_Trails_Shapefile")
+setwd("../data/Muni_Trails_Shapefile")
 ogrListLayers(".")
 
 anc_trails = readOGR(dsn=".", layer="trails")
