@@ -1,19 +1,34 @@
 Open Trails Anchorage
 =====================
 
-Convert the GIS files for trails around anchorage into geojson
+Converts existing Anchorage trail data to geojson format.
 
-The files for this project are publicly available at the municipality of Anchorage and Alaska Department of Natural Resources websites at 
+The files for this project are publicly available at the Municipality of Anchorage
+and Alaska Department of Natural Resources websites at:
 
-    1. http://www.muni.org/Departments/it/GIS2/Pages/MOAGISData.aspx (Shapefile)
-    2. http://dnr.alaska.gov/parks/aktrails/explore/astgglearthmap.htm (KMZ) 
+- http://www.muni.org/Departments/it/GIS2/Pages/MOAGISData.aspx (Shapefile)
+- http://dnr.alaska.gov/parks/aktrails/explore/astgglearthmap.htm (KMZ)
 
-We are adopting the geojson open format for this project in order to complete the open trails system specification (http://www.codeforamerica.org/specifications/trails/spec.html). 
+We are adopting the geojson open format for this project in order to complete the
+Open Trails System specification
+(http://www.codeforamerica.org/specifications/trails/spec.html).
 
-This specification requires five files 
+This specification requires five files:
+- `trail_segement.geojson`
+- `named_trails.csv`
+- `trailheads.geojson`
+- `stewards.csv`
+- `areas.geojson`
 
-     1. trail_segement.geojson
-     2. named_trails.csv
-     3. trailheads.geojson
-     4. stewards.csv
-     5. areas.geojson
+Getting Started (development)
+-----------------------------
+
+From the project directory, run:
+
+    docker build -t codeforanchorage/ota:latest .
+
+This will set up a Docker-based development environment image. To run an
+interactive session in the environment:
+
+    docker -v /path/to/project:/project -i -t codeforanchorage/ota /bin/bash
+

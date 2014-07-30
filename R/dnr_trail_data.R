@@ -3,12 +3,10 @@ require("maptools")
 require("ggplot2")
 require("plyr")
 
-#tkml <- getKMLcoordinates(kmlfile="DNR_Trails_KMZ/doc.kml", ignoreAltitude=T)
+# TODO: is this still needed?
+# tkml <- getKMLcoordinates(kmlfile="DNR_Trails_KMZ/doc.kml", ignoreAltitude=T)
 
-setwd(paste(getwd(), "DNR_Trails_KMZ", sep = "/"))
-setwd("C:/Users/chthompson/Desktop/Open_Trails_Anchorage/DNR_Trails_KMZ")
-#see more layers in the kml file for chugach state par
-#ogrListLayers("doc.kml")
+setwd("../data/DNR_Trails_KMZ")
 
 Trails     <- readOGR(dsn = "doc.kml", layer = "Trails")
 Trailheads <- readOGR(dsn = "doc.kml", layer = "Trailheads")
@@ -22,7 +20,9 @@ Trails.points = fortify(Trails, region="id")
 Trails.df = join(Trails.points, Trails@data, by="id")
 
 head(Trails.df)
-head(anc_trails.df)
+# TODO: are we missing some data here?
+# head(anc_trails.df)
 
+# TODO: is this still needed?
+# rbind.fill(df1, df2)
 
-rbind.fill(df1, df2)

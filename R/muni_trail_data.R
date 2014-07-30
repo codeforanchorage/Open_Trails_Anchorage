@@ -3,9 +3,7 @@ require("maptools")
 require("ggplot2")
 require("plyr")
 
-setwd(paste(getwd(), "Muni_Trails_Shapefile" , sep = "/"))
-
-setwd("C:/Users/chthompson/Desktop/Open_Trails_Anchorage/Muni_Trails_Shapefile")
+setwd("../data/Muni_Trails_Shapefile")
 ogrListLayers(".")
 
 anc_trails = readOGR(dsn=".", layer="trails")
@@ -22,7 +20,10 @@ ggplot(anc_trails.df) +
     geom_path(color="white") +
     coord_equal() +
     scale_fill_brewer("anc_trails Ecoregion")
-#trail names
+
+# trail names
 levels(anc_trails@data$TRAIL_NAME)
-#data from named trails
+
+# data from named trails
 anc_trails@data[!is.na(anc_trails@data$TRAIL_NAME),]
+
