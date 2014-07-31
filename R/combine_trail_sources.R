@@ -4,13 +4,19 @@ require("ggplot2")
 require("plyr")
 require("ggmap")
 
-setwd("../data/DNR_Trails_KMZ")
+# EXCUSE ME GOOD SIR OR MADAM
+# Use Rstudio to load the R Project file.  It will bring the working directory to the directory the file is in and load any .Rdata files for the project. 
+
+# The layer arguement in readOGR doesn't like directory paths or extensions. So the
+# working directory needs to be changed. 
+oldWD <- getwd()
+setwd(paste0(oldWD, "/data/DNR_Trails_KMZ"))
 chugach_trails     <- readOGR(dsn = "doc.kml", layer = "Trails")
 chugach_trails@data$id = rownames(chugach_trails@data)
 chugach_trails.points = fortify(chugach_trails, region="id")
 chugach_trails.df = join(chugach_trails.points, chugach_trails@data, by="id")
 
-setwd("../Muni_Trails_Shapefile")
+setwd(paste0(oldWD, "/data/Muni_Trails_Shapefile"))
 anc_trails <- readOGR(dsn=".", layer="trails")
 anc_trails <- spTransform(anc_trails, CRS("+init=epsg:4326")) 
 anc_trails@data$id = rownames(anc_trails@data)
@@ -21,7 +27,7 @@ head(chugach_trails.df)
 head(anc_trails.df)
 
 # remove empty description field
-chugach_trails.df <- chugach_trails.df[,1:7]
+chugach_trails.df <- chugach_trails.df[, colnames(chugach_trails.df) != "Description"]
 colnames(chugach_trails.df)[7] <- "TRAIL_NAME"
 all_trails <- rbind.fill(chugach_trails.df, anc_trails.df)
 NA_trails <- all_trails[which((is.na(all_trails$TRAIL_NAME))),]

@@ -1,3 +1,5 @@
+#This file is just for exploring the dnr file. Eventually, we are going to need to create trailheads.geojson with the Trailheads layer of the kml. 
+
 require("rgdal")
 require("maptools")
 require("ggplot2")
