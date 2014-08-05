@@ -57,7 +57,7 @@ for(i in seq(dim(dat)[1])) {
 }
 # write trail_segments.geojson
 fileConn<-file("output files/trail_segments.geojson")
-writeLines(toJSON(trail_segments), fileConn)
+writeLines(toJSON(trail_segments, digits = 5), fileConn)
 close(fileConn)
 # Two segments are left out.
 for(i in seq(length(lines))) {
@@ -109,7 +109,7 @@ for(i in seq(dim(dat)[1])) {
 
 # write trail_segments.geojson
 fileConn<-file("output files/trailheads.geojson")
-writeLines(toJSON(trailheads), fileConn)
+writeLines(toJSON(trailheads, digits = 5), fileConn)
 close(fileConn)
 
 # Create stewards.csv
