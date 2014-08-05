@@ -18,7 +18,9 @@ This specification requires five files:
 - `named_trails.csv`
 - `trailheads.geojson`
 - `stewards.csv`
-- `areas.geojson`
+- `areas.geojson` (optional)
+
+As the project develops, you can see these files in Anchorage_Trails.zip. 
 
 Getting Started (development)
 -----------------------------
