@@ -5,8 +5,6 @@ require("ggplot2")
 require("plyr")
 require("ggmap")
 
-
-# EXCUSE ME GOOD SIR OR MADAM
 # Use Rstudio to load the R Project file.  It will bring the working directory to the directory the file is in and load any .Rdata files for the project. 
 
 # The layer arguement in readOGR doesn't like directory paths or extensions. So the
@@ -22,10 +20,21 @@ anc_trails <- spTransform(anc_trails, CRS("+init=epsg:4326"))
 
 setwd(oldWD)
 
+#trail variables are in dat as a dataframe. trail segments are in lines as a list. Both need to be manipulated for cleaning 
 dat <- rbind.fill(data.frame(TRAIL_NAME = chugach_trails@data$TRAIL_NAME), anc_trails@data)
 dat <- cbind(dat, new_id = seq(dim(dat)[1]))
 
 lines <- c(chugach_trails@lines, anc_trails@lines)
+
+##########DATA CLEANING############
+
+#remove trail names with "Unnamed" or NA
+cleaning_vector <- dat$TRAIL_NAME != "Unnamed" & !is.na(dat$TRAIL_NAME)
+
+dat  <- dat[cleaning_vector,]
+lines<- lines[cleaning_vector]
+
+###################################
 
 dat$MANAGEMENT <- as.character(dat$MANAGEMENT)
 dat$MANAGEMENT[is.na(dat$MANAGEMENT)] <- "NA"
