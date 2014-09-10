@@ -4,6 +4,7 @@ require("maptools")
 require("ggplot2")
 require("plyr")
 require("ggmap")
+library("stringr")
 
 # Use Rstudio to load the R Project file.  It will bring the working directory to the directory the file is in and load any .Rdata files for the project. 
 
@@ -29,11 +30,26 @@ lines <- c(chugach_trails@lines, anc_trails@lines)
 ##########DATA CLEANING############
 
 #remove trail names with "Unnamed" or NA
-cleaning_vector <- dat$TRAIL_NAME != "Unnamed" & !is.na(dat$TRAIL_NAME)
+cleaning_vector <- dat$TRAIL_NAME != "Unnamed" | !is.na(dat$TRAIL_NAME)
 
 dat  <- dat[cleaning_vector,]
 lines<- lines[cleaning_vector]
 
+#remove all trails on roads
+road_trails <- str_detect(dat$TRAIL_NAME, "Ave Trail") | 
+               str_detect(dat$TRAIL_NAME, "Hwy") |
+               str_detect(dat$TRAIL_NAME, "Street Trail") |
+               str_detect(dat$TRAIL_NAME, "Blvd.") |
+               str_detect(dat$TRAIL_NAME, "Ave. Trail") 
+
+dat  <- dat[!road_trails,]
+
+new_lines <- list()
+for(i in which(!road_trails)) {
+    new_lines[which(road_trails == i)]  <- lines[[i]]
+}
+lines <- new_lines
+rm(new_lines)
 ###################################
 
 dat$MANAGEMENT <- as.character(dat$MANAGEMENT)
@@ -117,7 +133,7 @@ for(i in seq(dim(dat)[1])) {
 # write trail_segments.geojson
 fileConn<-file("output files/trailheads.geojson")
 writeLines(toJSON(trailheads, digits = 9), fileConn)
-close(fileConn)geojson")
+close(fileConn)
 
 # Create stewards.csv
 stewards <- data.frame(name = managers,
