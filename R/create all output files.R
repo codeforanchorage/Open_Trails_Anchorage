@@ -33,7 +33,7 @@ lines <- c(chugach_trails@lines, anc_trails@lines)
 cleaning_vector <- dat$TRAIL_NAME != "Unnamed" | !is.na(dat$TRAIL_NAME)
 
 dat  <- dat[cleaning_vector,]
-lines<- lines[cleaning_vector]
+lines <- lines[cleaning_vector]
 
 #remove all trails on roads
 road_trails <- str_detect(dat$TRAIL_NAME, "Ave Trail") | 
@@ -43,13 +43,8 @@ road_trails <- str_detect(dat$TRAIL_NAME, "Ave Trail") |
                str_detect(dat$TRAIL_NAME, "Ave. Trail") 
 
 dat  <- dat[!road_trails,]
+lines <- lines[!road_trails]
 
-new_lines <- list()
-for(i in which(!road_trails)) {
-    new_lines[which(road_trails == i)]  <- lines[[i]]
-}
-lines <- new_lines
-rm(new_lines)
 ###################################
 
 dat$MANAGEMENT <- as.character(dat$MANAGEMENT)

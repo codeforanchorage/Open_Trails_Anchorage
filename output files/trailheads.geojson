@@ -1,110 +1,2294 @@
 {
  "type": "FeatureCollection",
 "features": [
- null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
+ {
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Abes",
+"id": null,
+"trail_ids": 1,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.14071,  60.970723 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Albert Loop",
+"id": null,
+"trail_ids": 2,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.273478,  61.232794 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Alder",
+"id": null,
+"trail_ids": 3,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.714505,   61.12697 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Alder 2",
+"id": null,
+"trail_ids": 4,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.707855,  61.127817 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Anchorage Overlook",
+"id": null,
+"trail_ids": 5,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.683243,  61.103533 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Ballpark",
+"id": null,
+"trail_ids": 6,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.639317,  61.105821 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Bear Point",
+"id": null,
+"trail_ids": 7,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.365574,  61.406056 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Bird Ridge",
+"id": null,
+"trail_ids": 8,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.475942,  60.976147 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Bird Creek",
+"id": null,
+"trail_ids": 9,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.403849,  61.024493 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Bird Point Interp",
+"id": null,
+"trail_ids": 10,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.346534,  60.929112 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Bird Ridge Interp",
+"id": null,
+"trail_ids": 11,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.479836,  60.978913 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Bird Valley",
+"id": null,
+"trail_ids": 12,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.433487,  60.974056 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Blacktail Ptarmigan Rocks",
+"id": null,
+"trail_ids": 13,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.493223,  61.335963 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Blueberry Hollow",
+"id": null,
+"trail_ids": 14,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.69363,  61.123637 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Blueberry Loop",
+"id": null,
+"trail_ids": 15,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.683211,  61.103005 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Bold Ridge",
+"id": null,
+"trail_ids": 16,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.021555,  61.375287 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Cali Creek",
+"id": null,
+"trail_ids": 17,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.135206,  60.967987 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Connector 1",
+"id": null,
+"trail_ids": 18,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.273337,  61.233688 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Connector 2",
+"id": null,
+"trail_ids": 19,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.268303,    61.2264 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Crow Pass",
+"id": null,
+"trail_ids": 20,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.116118,  61.028207 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Denali View",
+"id": null,
+"trail_ids": 21,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.706309,  61.123878 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Dew Mound",
+"id": null,
+"trail_ids": 22,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.270206,  61.230308 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Eagle River Greenbelt",
+"id": null,
+"trail_ids": 23,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.530515,  61.296565 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Eagle River North Fork Access",
+"id": null,
+"trail_ids": 24,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.379326,  61.276367 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "East Fork Eklutha River",
+"id": null,
+"trail_ids": 25,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -148.97247,   61.31499 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Eklutna Lakeside",
+"id": null,
+"trail_ids": 26,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -148.974875,  61.285063 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Eklutna ATV Access",
+"id": null,
+"trail_ids": 27,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.136819,  61.410593 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Eklutna Lake Spillway",
+"id": null,
+"trail_ids": 28,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.13543,  61.409517 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Eklutna Spillway",
+"id": null,
+"trail_ids": 29,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.13543,  61.409517 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "ER Access1",
+"id": null,
+"trail_ids": 30,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.282167,  61.220916 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "ER Access2",
+"id": null,
+"trail_ids": 31,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.28229,  61.221855 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "ER Access3",
+"id": null,
+"trail_ids": 32,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.287074,  61.231236 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Falls Creek",
+"id": null,
+"trail_ids": 33,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.575927,  60.984346 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Flattop Peak",
+"id": null,
+"trail_ids": 34,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.676564,   61.09599 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Flattop Peak Alternate",
+"id": null,
+"trail_ids": 35,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.676337,  61.093019 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Four Corners Loop",
+"id": null,
+"trail_ids": 36,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.265803,  61.224023 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Gasline",
+"id": null,
+"trail_ids": 37,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.676153,  61.107303 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Golden Grass",
+"id": null,
+"trail_ids": 38,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.707637,  61.140266 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Grand View",
+"id": null,
+"trail_ids": 39,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.688434,  61.072439 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Hanging Valley",
+"id": null,
+"trail_ids": 40,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.418332,  61.208614 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Hemlock Knob",
+"id": null,
+"trail_ids": 41,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.690485,   61.11679 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Hidden Lake",
+"id": null,
+"trail_ids": 42,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.591501,  61.089601 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Indian Creek Pass",
+"id": null,
+"trail_ids": 43,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.483909,  61.081824 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Indian To Bird Bike",
+"id": null,
+"trail_ids": 44,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.170621,  60.943745 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Lake Spur HV",
+"id": null,
+"trail_ids": 45,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.361745,  61.202717 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Little Loop",
+"id": null,
+"trail_ids": 46,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.692053,   61.13969 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Little Omalley",
+"id": null,
+"trail_ids": 47,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.657858,   61.10226 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Long Lake",
+"id": null,
+"trail_ids": 48,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.581879,  61.132685 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Lost Cabin Valley",
+"id": null,
+"trail_ids": 49,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.714169,  61.151535 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "McHugh Lake",
+"id": null,
+"trail_ids": 50,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.58618,  61.039198 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Meadow Creek",
+"id": null,
+"trail_ids": 51,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.420003,  61.324163 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Middle Fork Loop",
+"id": null,
+"trail_ids": 52,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.668466,    61.1025 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Mile High Ridge",
+"id": null,
+"trail_ids": 53,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.462548,  61.318298 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Mile High Saddle",
+"id": null,
+"trail_ids": 54,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.464797,   61.31347 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Mountain Meadow",
+"id": null,
+"trail_ids": 55,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.267766,  61.215676 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Mt Baldy",
+"id": null,
+"trail_ids": 56,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.511898,  61.337368 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Mt Eklutna",
+"id": null,
+"trail_ids": 57,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.377781,  61.391293 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Muktuk Marstib Memorial",
+"id": null,
+"trail_ids": 58,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.53812,  61.240914 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Near Point",
+"id": null,
+"trail_ids": 59,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.680206,  61.146846 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "North Fork",
+"id": null,
+"trail_ids": 60,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.675564,  61.152366 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Panorama View",
+"id": null,
+"trail_ids": 61,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.699438,  61.134184 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Peak Spor RR",
+"id": null,
+"trail_ids": 62,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.506158,  61.248942 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Penguin Peak",
+"id": null,
+"trail_ids": 63,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.423939,  60.979886 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Penguin Creek",
+"id": null,
+"trail_ids": 64,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.406509,  60.990257 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Peters Valley",
+"id": null,
+"trail_ids": 65,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.412564,  61.397395 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Picnic Loop",
+"id": null,
+"trail_ids": 66,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.710329,  61.112389 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Powerline",
+"id": null,
+"trail_ids": 67,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.49978,  60.999838 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Powerline Access",
+"id": null,
+"trail_ids": 68,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.683117,  61.103058 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Ptarmigan Valley",
+"id": null,
+"trail_ids": 69,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.467867,  61.389369 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Ptarmigan Pass",
+"id": null,
+"trail_ids": 70,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.608153,   61.07138 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Public Use Cabin",
+"id": null,
+"trail_ids": 71,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.269647,  61.221395 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Rabbit Lake",
+"id": null,
+"trail_ids": 72,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [  -149.6776,   61.07935 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Rapids Camp Loop",
+"id": null,
+"trail_ids": 73,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.265396,  61.209502 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Rapids Camp Yurt",
+"id": null,
+"trail_ids": 74,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.265976,  61.209882 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "River Loop",
+"id": null,
+"trail_ids": 75,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.284497,  61.225477 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "River Loop Yurt",
+"id": null,
+"trail_ids": 76,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.281769,  61.221295 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "RL Interp",
+"id": null,
+"trail_ids": 77,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.271619,  61.230839 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "RL Interp 2",
+"id": null,
+"trail_ids": 78,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [  -149.2719,  61.230681 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "RL Interp 3",
+"id": null,
+"trail_ids": 79,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.273382,   61.23265 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Rodak Nature Loop",
+"id": null,
+"trail_ids": 80,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.270553,  61.233007 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Rondevous Peak",
+"id": null,
+"trail_ids": 81,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.532959,  61.246937 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Rondevous Ridge",
+"id": null,
+"trail_ids": 82,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.540182,  61.242926 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Ship Lake Pass",
+"id": null,
+"trail_ids": 83,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.610975,  61.087588 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Silver Fern",
+"id": null,
+"trail_ids": 84,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.705728,  61.116244 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Snowmobile Entrance",
+"id": null,
+"trail_ids": 85,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.710628,  61.112117 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Snowmobile Exit",
+"id": null,
+"trail_ids": 86,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.695924,  61.112235 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "South Fork ER",
+"id": null,
+"trail_ids": 87,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.455977,  61.232545 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "South Fork Rim",
+"id": null,
+"trail_ids": 88,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.712937,  61.137648 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Spencer",
+"id": null,
+"trail_ids": 89,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.708546,  61.140959 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Spencer Loop",
+"id": null,
+"trail_ids": 90,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.699447,  61.143967 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Spur 1",
+"id": null,
+"trail_ids": 91,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.139579,   60.97007 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Spur 2",
+"id": null,
+"trail_ids": 92,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.146898,  60.982286 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Thunderbird Falls",
+"id": null,
+"trail_ids": 93,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.37045,  61.449082 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Track 3",
+"id": null,
+"trail_ids": 94,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.731018,  61.018792 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Track 7",
+"id": null,
+"trail_ids": 95,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.733184,  61.018255 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Turnagain Arm",
+"id": null,
+"trail_ids": 96,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.604403,  60.984871 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Turnagain Arm Interpretive",
+"id": null,
+"trail_ids": 97,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.784675,  61.044991 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Twin Peaks",
+"id": null,
+"trail_ids": 98,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.135165,  61.410408 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "White Spruce",
+"id": null,
+"trail_ids": 99,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.714476,  61.122064 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Williwaw Lakes",
+"id": null,
+"trail_ids": 100,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.663447,  61.117455 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Wolverine Peak",
+"id": null,
+"trail_ids": 101,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.680206,  61.146846 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Wolverine Bowl",
+"id": null,
+"trail_ids": 102,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.710569,  61.139035 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Wolverine Bowl Loop",
+"id": null,
+"trail_ids": 103,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.698381,  61.142875 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollections",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": "Yurt Classrom",
+"id": null,
+"trail_ids": 104,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometery": {
+ "type": "Point",
+"coordinates": [ -149.273455,  61.234001 ] 
+} 
+} 
+},
 null,
 null,
 null,
