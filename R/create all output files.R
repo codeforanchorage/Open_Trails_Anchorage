@@ -30,19 +30,27 @@ lines <- c(chugach_trails@lines, anc_trails@lines)
 ##########DATA CLEANING############
 
 remove trail names with "Unnamed" or NA
-cleaning_vector <- dat$TRAIL_NAME == "Unnamed" | is.na(dat$TRAIL_NAME)
+cleaning_vector <-  is.na(dat$TRAIL_NAME) #| dat$TRAIL_NAME == "Unnamed" 
 
 dat  <- dat[!cleaning_vector,]
 lines <- lines[!cleaning_vector]
 
 remove all trails on roads
 road_trails <- str_detect(dat$TRAIL_NAME, "Ave Trail") | 
-               str_detect(dat$TRAIL_NAME, "Hwy") |
                str_detect(dat$TRAIL_NAME, "Street Trail") |
                str_detect(dat$TRAIL_NAME, "Bvld.") |
                str_detect(dat$TRAIL_NAME, "Ave. Trail") |
                str_detect(dat$TRAIL_NAME, "Road") |
-               str_detect(dat$TRAIL_NAME, "Rd.") 
+               str_detect(dat$TRAIL_NAME, "Rd.") |
+               str_detect(dat$TRAIL_NAME, "ROAD") |
+               str_detect(dat$TRAIL_NAME, "St.") |
+               str_detect(dat$TRAIL_NAME, "Jewell Lake") |
+               str_detect(dat$TRAIL_NAME, "Dimond (South Side)") |
+               str_detect(dat$TRAIL_NAME, "Dimond (North Side)") |
+               str_detect(dat$TRAIL_NAME, "Macinnes St. Trail") |
+               str_detect(dat$TRAIL_NAME, "Lake Otis Pkwy. Trail") |
+               str_detect(dat$TRAIL_NAME, "St Trail") 
+
 
 dat  <- dat[!road_trails,]
 lines <- lines[!road_trails]
