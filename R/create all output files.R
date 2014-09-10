@@ -25,14 +25,6 @@ setwd(oldWD)
 dat <- rbind.fill(data.frame(TRAIL_NAME = chugach_trails@data$TRAIL_NAME), anc_trails@data)
 dat <- cbind(dat, new_id = seq(dim(dat)[1]))
 
-##########DATA CLEANING############
-
-#remove trail names with "Unnamed" or NA
-dat <- dat[dat$TRAIL_NAME != "Unnamed",]
-dat <- dat[!is.na(dat$TRAIL_NAME),]
-
-###################################
-
 lines <- c(chugach_trails@lines, anc_trails@lines)
 
 dat$MANAGEMENT <- as.character(dat$MANAGEMENT)
@@ -116,7 +108,7 @@ for(i in seq(dim(dat)[1])) {
 # write trail_segments.geojson
 fileConn<-file("output files/trailheads.geojson")
 writeLines(toJSON(trailheads, digits = 9), fileConn)
-close(fileConn)
+close(fileConn)geojson")
 
 # Create stewards.csv
 stewards <- data.frame(name = managers,
