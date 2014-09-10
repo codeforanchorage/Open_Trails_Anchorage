@@ -29,18 +29,20 @@ lines <- c(chugach_trails@lines, anc_trails@lines)
 
 ##########DATA CLEANING############
 
-#remove trail names with "Unnamed" or NA
-cleaning_vector <- dat$TRAIL_NAME != "Unnamed" | !is.na(dat$TRAIL_NAME)
+remove trail names with "Unnamed" or NA
+cleaning_vector <- dat$TRAIL_NAME == "Unnamed" | is.na(dat$TRAIL_NAME)
 
-dat  <- dat[cleaning_vector,]
-lines <- lines[cleaning_vector]
+dat  <- dat[!cleaning_vector,]
+lines <- lines[!cleaning_vector]
 
-#remove all trails on roads
+remove all trails on roads
 road_trails <- str_detect(dat$TRAIL_NAME, "Ave Trail") | 
                str_detect(dat$TRAIL_NAME, "Hwy") |
                str_detect(dat$TRAIL_NAME, "Street Trail") |
-               str_detect(dat$TRAIL_NAME, "Blvd.") |
-               str_detect(dat$TRAIL_NAME, "Ave. Trail") 
+               str_detect(dat$TRAIL_NAME, "Bvld.") |
+               str_detect(dat$TRAIL_NAME, "Ave. Trail") |
+               str_detect(dat$TRAIL_NAME, "Road") |
+               str_detect(dat$TRAIL_NAME, "Rd.") 
 
 dat  <- dat[!road_trails,]
 lines <- lines[!road_trails]
@@ -79,7 +81,7 @@ for(i in seq(dim(dat)[1])) {
 fileConn<-file("output files/trail_segments.geojson")
 writeLines(toJSON(trail_segments, digits = 9), fileConn)
 close(fileConn)
-# Two segments are left out.
+# Two segments are left out without cleaning. One is left out with cleaning. 
 for(i in seq(length(lines))) {
     if(length(lines[[i]]@Lines) != 1)
     {print(i)} 
