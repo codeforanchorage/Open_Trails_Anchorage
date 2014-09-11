@@ -49,7 +49,9 @@ road_trails <- str_detect(dat$TRAIL_NAME, "Ave Trail") |
                str_detect(dat$TRAIL_NAME, "Dimond (North Side)") |
                str_detect(dat$TRAIL_NAME, "Macinnes St. Trail") |
                str_detect(dat$TRAIL_NAME, "Lake Otis Pkwy. Trail") |
-               str_detect(dat$TRAIL_NAME, "St Trail") 
+               str_detect(dat$TRAIL_NAME, "St Trail") |
+               str_detect(dat$TRAIL_NAME, "Pkwy") |
+               str_detect(dat$TRAIL_NAME, "Dr.") 
 
 
 dat  <- dat[!road_trails,]
@@ -110,7 +112,7 @@ trailheads <- list(type = "FeatureCollection",
 
 for(i in seq(dim(dat)[1])) {
 
-  trailheads$features[[i]] <- list(type = "FeatureCollections",
+  trailheads$features[[i]] <- list(type = "FeatureCollection",
                                    features = list(type = "Feature",
                                            properties = list(name = as.character(dat$TRAIL_NAME[i]),
                                                              id = dat$ROUTEID[i],
@@ -136,7 +138,7 @@ for(i in seq(dim(dat)[1])) {
 
 
 # write trail_segments.geojson
-fileConn<-file("output files/trailheads.geojson")
+fileConn<-file("output files/open trail standard/trailheads.geojson")
 writeLines(toJSON(trailheads, digits = 9), fileConn)
 close(fileConn)
 
@@ -153,5 +155,5 @@ stewards <- data.frame(name = managers,
 write.csv(stewards, file = "output files/stewards.csv")
 
 zip_dir <- c("output files")
-zip("anchorage_trails.zip", files = paste(zip_dir, list.files(zip_dir), sep = "/"))
+zip("open_trails_anchorage_trails.zip", files = paste(zip_dir, list.files(zip_dir), sep = "/"))
 
