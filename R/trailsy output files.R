@@ -117,8 +117,6 @@ trailheads <- list(type = "FeatureCollection",
 for(i in seq(dim(dat)[1])) {
     
     trailheads$features[[i]] <- list(type = "Feature",
-                                     geometry = list(type = "Point",
-                                                      coordinates = lines[[i]]@Lines[[1]]@coords[1,]),
                                      properties = list(name = as.character(dat$TRAIL_NAME[i]),
                                                        trail1 = as.character(dat$TRAIL_NAME[i]),
                                                                        id = dat$ROUTEID[i],
@@ -130,7 +128,9 @@ for(i in seq(dim(dat)[1])) {
                                                                        source = "TestOrganization",
                                                                        restrooms = character(),
                                                                        kiosk = character(),
-                                                                       osm_tags = character())
+                                                                       osm_tags = character()),
+                                     geometry = list(type = "Point",
+                                                     coordinates = lines[[i]]@Lines[[1]]@coords[1,]),
                                      )
     
 }
@@ -159,4 +159,4 @@ stewards <- data.frame(name = managers,
 write.csv(stewards, file = "output files/trailsy standard/stewards.csv")
 
 zip_dir <- c("output files/trailsy standard")
-zip("output files/open_trails_anchorage_trails.zip", files = paste(zip_dir, list.files(zip_dir), sep = "/"))
+zip("output files/trailsy_files.zip", files = paste(zip_dir, list.files(zip_dir), sep = "/"))

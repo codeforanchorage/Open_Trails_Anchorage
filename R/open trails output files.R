@@ -124,7 +124,7 @@ for(i in seq(dim(dat)[1])) {
                                                              restrooms = character(),
                                                              kiosk = character(),
                                                              osm_tags = character()),
-                                           geometery = list(type = "Point",
+                                           geometry = list(type = "Point",
                                                             coordinates = lines[[i]]@Lines[[1]]@coords[1,])
                            )
   )
