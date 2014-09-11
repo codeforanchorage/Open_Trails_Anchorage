@@ -90,7 +90,7 @@ for(i in seq(dim(dat)[1])) {
     )
 }
 # write trail_segments.geojson
-fileConn<-file("output files/trail_segments.geojson")
+fileConn<-file("output files/trailsy standard/trail_segments.geojson")
 writeLines(toJSON(trail_segments, digits = 9), fileConn)
 close(fileConn)
 # Two segments are left out without cleaning. One is left out with cleaning. 
@@ -107,7 +107,7 @@ named_trails <- data.frame(id = dat$ROUTEID,
                            description = "TestDescription",
                            part_of = dat$SYSTEM_NAM)
 # write named_trails.csv
-write.csv(named_trails, file = "output files/named_trails.csv")
+write.csv(named_trails, file = "output files/trailsy standard/named_trails.csv")
 
 
 trailheads <- list(type = "FeatureCollection",
@@ -156,7 +156,7 @@ stewards <- data.frame(name = managers,
                        license = "none"
 )
 # write stewards.csv
-write.csv(stewards, file = "output files/stewards.csv")
+write.csv(stewards, file = "output files/trailsy standard/stewards.csv")
 
-zip_dir <- c("output files")
-zip("open_trails_anchorage_trails.zip", files = paste(zip_dir, list.files(zip_dir), sep = "/"))
+zip_dir <- c("output files/trailsy standard")
+zip("output files/open_trails_anchorage_trails.zip", files = paste(zip_dir, list.files(zip_dir), sep = "/"))

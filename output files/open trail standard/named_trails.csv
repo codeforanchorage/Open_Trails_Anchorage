@@ -1,0 +1,4393 @@
+"","name","segment_ids","id","description","part_of"
+"1","Abes",1,NA,"",NA
+"2","Albert Loop",2,NA,"",NA
+"3","Alder",3,NA,"",NA
+"4","Alder 2",4,NA,"",NA
+"5","Anchorage Overlook",5,NA,"",NA
+"6","Ballpark",6,NA,"",NA
+"7","Bear Point",7,NA,"",NA
+"8","Bird Ridge",8,NA,"",NA
+"9","Bird Creek",9,NA,"",NA
+"10","Bird Point Interp",10,NA,"",NA
+"11","Bird Ridge Interp",11,NA,"",NA
+"12","Bird Valley",12,NA,"",NA
+"13","Blacktail Ptarmigan Rocks",13,NA,"",NA
+"14","Blueberry Hollow",14,NA,"",NA
+"15","Blueberry Loop",15,NA,"",NA
+"16","Bold Ridge",16,NA,"",NA
+"17","Cali Creek",17,NA,"",NA
+"18","Connector 1",18,NA,"",NA
+"19","Connector 2",19,NA,"",NA
+"20","Crow Pass",20,NA,"",NA
+"21","Denali View",21,NA,"",NA
+"22","Dew Mound",22,NA,"",NA
+"23","Eagle River Greenbelt",23,NA,"",NA
+"24","Eagle River North Fork Access",24,NA,"",NA
+"25","East Fork Eklutha River",25,NA,"",NA
+"26","Eklutna Lakeside",26,NA,"",NA
+"27","Eklutna ATV Access",27,NA,"",NA
+"28","Eklutna Lake Spillway",28,NA,"",NA
+"29","Eklutna Spillway",29,NA,"",NA
+"30","ER Access1",30,NA,"",NA
+"31","ER Access2",31,NA,"",NA
+"32","ER Access3",32,NA,"",NA
+"33","Falls Creek",33,NA,"",NA
+"34","Flattop Peak",34,NA,"",NA
+"35","Flattop Peak Alternate",35,NA,"",NA
+"36","Four Corners Loop",36,NA,"",NA
+"37","Gasline",37,NA,"",NA
+"38","Golden Grass",38,NA,"",NA
+"39","Grand View",39,NA,"",NA
+"40","Hanging Valley",40,NA,"",NA
+"41","Hemlock Knob",41,NA,"",NA
+"42","Hidden Lake",42,NA,"",NA
+"43","Indian Creek Pass",43,NA,"",NA
+"44","Indian To Bird Bike",44,NA,"",NA
+"45","Lake Spur HV",45,NA,"",NA
+"46","Little Loop",46,NA,"",NA
+"47","Little Omalley",47,NA,"",NA
+"48","Long Lake",48,NA,"",NA
+"49","Lost Cabin Valley",49,NA,"",NA
+"50","McHugh Lake",50,NA,"",NA
+"51","Meadow Creek",51,NA,"",NA
+"52","Middle Fork Loop",52,NA,"",NA
+"53","Mile High Ridge",53,NA,"",NA
+"54","Mile High Saddle",54,NA,"",NA
+"55","Mountain Meadow",55,NA,"",NA
+"56","Mt Baldy",56,NA,"",NA
+"57","Mt Eklutna",57,NA,"",NA
+"58","Muktuk Marstib Memorial",58,NA,"",NA
+"59","Near Point",59,NA,"",NA
+"60","North Fork",60,NA,"",NA
+"61","Panorama View",61,NA,"",NA
+"62","Peak Spor RR",62,NA,"",NA
+"63","Penguin Peak",63,NA,"",NA
+"64","Penguin Creek",64,NA,"",NA
+"65","Peters Valley",65,NA,"",NA
+"66","Picnic Loop",66,NA,"",NA
+"67","Powerline",67,NA,"",NA
+"68","Powerline Access",68,NA,"",NA
+"69","Ptarmigan Valley",69,NA,"",NA
+"70","Ptarmigan Pass",70,NA,"",NA
+"71","Public Use Cabin",71,NA,"",NA
+"72","Rabbit Lake",72,NA,"",NA
+"73","Rapids Camp Loop",73,NA,"",NA
+"74","Rapids Camp Yurt",74,NA,"",NA
+"75","River Loop",75,NA,"",NA
+"76","River Loop Yurt",76,NA,"",NA
+"77","RL Interp",77,NA,"",NA
+"78","RL Interp 2",78,NA,"",NA
+"79","RL Interp 3",79,NA,"",NA
+"80","Rodak Nature Loop",80,NA,"",NA
+"81","Rondevous Peak",81,NA,"",NA
+"82","Rondevous Ridge",82,NA,"",NA
+"83","Ship Lake Pass",83,NA,"",NA
+"84","Silver Fern",84,NA,"",NA
+"85","Snowmobile Entrance",85,NA,"",NA
+"86","Snowmobile Exit",86,NA,"",NA
+"87","South Fork ER",87,NA,"",NA
+"88","South Fork Rim",88,NA,"",NA
+"89","Spencer",89,NA,"",NA
+"90","Spencer Loop",90,NA,"",NA
+"91","Spur 1",91,NA,"",NA
+"92","Spur 2",92,NA,"",NA
+"93","Thunderbird Falls",93,NA,"",NA
+"94","Track 3",94,NA,"",NA
+"95","Track 7",95,NA,"",NA
+"96","Turnagain Arm",96,NA,"",NA
+"97","Turnagain Arm Interpretive",97,NA,"",NA
+"98","Twin Peaks",98,NA,"",NA
+"99","White Spruce",99,NA,"",NA
+"100","Williwaw Lakes",100,NA,"",NA
+"101","Wolverine Peak",101,NA,"",NA
+"102","Wolverine Bowl",102,NA,"",NA
+"103","Wolverine Bowl Loop",103,NA,"",NA
+"104","Yurt Classrom",104,NA,"",NA
+"105","Chester Creek Trail",106,-1,"","Chester Creek Trail"
+"106","Chester Creek Trail",111,-1,"","Chester Creek Trail"
+"107","Out H To Cutoff",144,7,"","Mirror Lake Ski Trails"
+"108","In Cutoff To H",145,9,"","Mirror Lake Ski Trails"
+"109","Inbound",146,11,"","Mirror Lake Ski Trails"
+"110","Out H To Cutoff",147,12,"","Mirror Lake Ski Trails"
+"111","Outbound",148,13,"","Mirror Lake Ski Trails"
+"112","2.5 Km",151,17,"","Mirror Lake Ski Trails"
+"113","Inbound",152,22,"","Mirror Lake Ski Trails"
+"114","Outbound",153,23,"","Mirror Lake Ski Trails"
+"115","Go Again",154,27,"","Mirror Lake Ski Trails"
+"116","Inbound",155,30,"","Mirror Lake Ski Trails"
+"117","2.5 Km",156,32,"","Mirror Lake Ski Trails"
+"118","Mirror Lake Park",157,35,"","Mirror Lake Ski Trails"
+"119","Outbound",159,39,"","Mirror Lake Ski Trails"
+"120","N Connect",160,40,"","Mirror Lake Ski Trails"
+"121","Outbound",162,42,"","Mirror Lake Ski Trails"
+"122","Mirror Lake Park",163,43,"","Mirror Lake Ski Trails"
+"123","School Track",164,44,"","Mirror Lake Ski Trails"
+"124","School Track",165,45,"","Mirror Lake Ski Trails"
+"125","S Connect",166,46,"","Mirror Lake Ski Trails"
+"126","Mize Loop",176,2866,"","Kincaid Ski Trails"
+"127","Chalet Loop",177,2869,"","Kincaid Ski Trails"
+"128","Mize Loop",178,2871,"","Kincaid Ski Trails"
+"129","Sullivan Nature Trail",179,973,"","Chester Creek Trail"
+"130","Sullivan Nature Trail",180,976,"","Chester Creek Trail"
+"131","Tikishla Park Trail",181,981,"",NA
+"132","Chester Creek Trail",182,-1,"","Chester Creek Trail"
+"133","Chester Creek Trail",183,-1,"","Chester Creek Trail"
+"134","Bridge Loop",184,96,"","Beech Lake Ski Trails"
+"135","Christy Loop",185,99,"","Beech Lake Ski Trails"
+"136","Bridge Loop",186,101,"","Beech Lake Ski Trails"
+"137","Bridge Loop",187,105,"","Beech Lake Ski Trails"
+"138","Fish Creek",188,1569,"",NA
+"139","Fish Creek",189,1570,"",NA
+"140","Tour Of Anchorage",190,1572,"","Tour of Anchorage"
+"141","Tour Of Anchorage",191,1587,"","Tour of Anchorage"
+"142","Tour Of Anchorage",192,1588,"","Tour of Anchorage"
+"143","Campbell Creek Trail",193,-6,"","Campbell Creek Trail"
+"144","HILL",199,0,"","Beach Lake Sled Dog"
+"145","HILL",200,0,"","Beach Lake Sled Dog"
+"146","Tikishla Park Trail",214,1115,"",NA
+"147","Coyote Trail",222,2959,"",NA
+"148","Tank Trail",223,2962,"",NA
+"149","Tikishla Park Trail",224,1082,"",NA
+"150","Tikishla Park Trail",225,1083,"",NA
+"151","Tikishla Park Trail",226,1085,"",NA
+"152","Chester Creek Trail",227,-1,"","Chester Creek Trail"
+"153","Chester Creek Trail",228,-1,"","Chester Creek Trail"
+"154","Centennial",229,439,"","Centennial Park Trails"
+"155","Centennial",230,440,"","Centennial Park Trails"
+"156","Centennial",231,441,"","Centennial Park Trails"
+"157","Ship Creek",232,451,"",NA
+"158","Tank Trail",233,644,"",NA
+"159","UAA Ski",234,1272,"",NA
+"160","Tank Trail",235,858,"",NA
+"161","Coastal Trail",236,-2,"","Coastal Trail"
+"162","Coastal Trail",237,1923,"","Coastal Trail"
+"163","Campbell Creek Trail",238,-6,"","Campbell Creek Trail"
+"164","Bartlett",239,334,"","Bartlett Ski Trails"
+"165","Inner Loop Trail",240,2571,"",NA
+"166","14 Mile Loop",241,2572,"",NA
+"167","Homecoming/poleline",242,2573,"",NA
+"168","Homecoming/poleline",243,2279,"",NA
+"169","Homecoming/poleline",244,2280,"",NA
+"170","Homecoming/poleline",245,2281,"",NA
+"171","Homecoming/poleline",246,2283,"",NA
+"172","Homecoming/poleline",247,2284,"",NA
+"173","Rondy Cut Off Trail",248,2285,"",NA
+"174","Homecoming/poleline",249,2286,"",NA
+"175","Homecoming/poleline",250,2287,"",NA
+"176","Centennial",251,412,"","Centennial Park Trails"
+"177","Centennial",252,414,"","Centennial Park Trails"
+"178","Centennial",253,416,"","Centennial Park Trails"
+"179","Centennial",254,417,"","Centennial Park Trails"
+"180","Abbott Loop Trail",255,3274,"","Abbott Loop Trail"
+"181","Campbell Creek Trail",256,-6,"","Campbell Creek Trail"
+"182","Campbell Creek Trail",257,-6,"","Campbell Creek Trail"
+"183","Campbell Creek Trail",258,-6,"","Campbell Creek Trail"
+"184","Campbell Creek Trail",259,-6,"","Campbell Creek Trail"
+"185","Abbott Loop Trail",260,3280,"","Abbott Loop Trail"
+"186","Ice Box",261,3282,"","Kincaid Ski Trails"
+"187","Corral Loop",262,112,"","Beech Lake Ski Trails"
+"188","Corral Loop",263,115,"","Beech Lake Ski Trails"
+"189","Corral Loop",264,119,"","Beech Lake Ski Trails"
+"190","Corral Loop",265,121,"","Beech Lake Ski Trails"
+"191","Christy Loop",266,140,"","Beech Lake Ski Trails"
+"192","Christy Loop",267,144,"","Beech Lake Ski Trails"
+"193","Beaver Pl. Trail",269,759,"",NA
+"194","Russian Jack Spur",270,1173,"",NA
+"195","Tank Trail",271,361,"",NA
+"196","Hornet's Nest",272,0,"","Mt Bike Single Track"
+"197","Janice's Jive",273,0,"","Mt Bike Single Track"
+"198","Unnamed",276,1514,"",NA
+"199","Baxter Bog",278,1401,"",NA
+"200","Glenn Hwy Trail",280,-5,"","Glenn Hwy Trail"
+"201","Centennial",281,377,"","Centennial Park Trails"
+"202","Glenn Hwy Trail",282,-5,"","Glenn Hwy Trail"
+"203","Centennial",283,379,"","Centennial Park Trails"
+"204","Centennial",285,383,"","Centennial Park Trails"
+"205","Centennial",286,384,"","Centennial Park Trails"
+"206","Glenn Hwy Trail",288,-5,"","Glenn Hwy Trail"
+"207","Glenn Hwy Trail",289,-5,"","Glenn Hwy Trail"
+"208","Centennial",290,388,"","Centennial Park Trails"
+"209","Centennial",291,389,"","Centennial Park Trails"
+"210","Centennial",292,390,"","Centennial Park Trails"
+"211","Centennial",293,391,"","Centennial Park Trails"
+"212","Centennial",294,392,"","Centennial Park Trails"
+"213","Centennial",295,393,"","Centennial Park Trails"
+"214","Chester Creek Trail",298,1148,"",NA
+"215","The Hive",303,0,"","Mt Bike Single Track"
+"216","Junkyard",305,76,"","Beech Lake Ski Trails"
+"217","Junkyard",314,87,"","Beech Lake Ski Trails"
+"218","Junkyard",315,88,"","Beech Lake Ski Trails"
+"219","Bridge Loop",316,89,"","Beech Lake Ski Trails"
+"220","Chester Creek Trail",337,-1,"","Chester Creek Trail"
+"221","Sullivan Nature Trail",343,183,"","Chester Creek Trail"
+"222","Coastal Trail",348,-2,"","Coastal Trail"
+"223","Outgoing Trail",358,1834,"",NA
+"224","Outgoing Trail",360,1837,"",NA
+"225","Fish Creek",392,1573,"",NA
+"226","Fish Creek",393,1577,"",NA
+"227","Fish Creek",394,1578,"",NA
+"228","Tour Of Anchorage",395,1582,"","Tour of Anchorage"
+"229","Chester Creek Trail",397,-1,"","Chester Creek Trail"
+"230","Tikishla Park Trail",398,1134,"",NA
+"231","Queen Bee Loop",399,0,"","Mt Bike Single Track"
+"232","Chester Creek Trail",400,1148,"",NA
+"233","Chester Creek Trail",402,1148,"",NA
+"234","Upper Gasline Trail",404,3626,"",NA
+"235","Unnamed",407,496,"",NA
+"236","Unnamed",409,1592,"",NA
+"237","Tour Of Anchorage",410,1617,"","Tour of Anchorage"
+"238","Homecoming/poleline",411,2366,"",NA
+"239","Homecoming/poleline",413,2369,"",NA
+"240","Beaver Dam Trail",414,2370,"",NA
+"241","Arlene's Way",415,2371,"","Kincaid Ski Trails"
+"242","Unnamed",419,1553,"",NA
+"243","Chester Creek Trail",420,-1,"","Chester Creek Trail"
+"244","Chester Creek Trail",423,-1,"","Chester Creek Trail"
+"245","Unnamed",425,1560,"",NA
+"246","Fish Creek",429,1244,"",NA
+"247","Fish Creek",431,1253,"",NA
+"248","Hornet's Nest",432,0,"","Mt Bike Single Track"
+"249","Unnamed",436,155,"",NA
+"250","Russian Jack Spur",437,1167,"",NA
+"251","Mt. View Sch. Trail",438,1619,"",NA
+"252","Unnamed",439,158,"",NA
+"253","Janice's Jive",440,0,"","Mt Bike Single Track"
+"254","Unnamed",441,3625,"",NA
+"255","Unnamed",442,482,"",NA
+"256","Chester Creek Trail",444,-1,"","Chester Creek Trail"
+"257","Unnamed",445,1605,"",NA
+"258","Unnamed",446,4468,"",NA
+"259","Chester Creek Trail",448,-1,"","Chester Creek Trail"
+"260","Chester Creek Trail",449,-1,"","Chester Creek Trail"
+"261","Chester Creek Trail",451,-1,"","Chester Creek Trail"
+"262","Mize Loop",454,2666,"","Kincaid Ski Trails"
+"263","Coyote Trail",455,2667,"",NA
+"264","Viewpoint Trail",456,2668,"","Tour of Anchorage"
+"265","Chester Creek Trail",457,1141,"","Chester Creek Trail"
+"266","Lake Loop",458,2671,"","Kincaid Ski Trails"
+"267","Mize Loop",459,2674,"","Kincaid Ski Trails"
+"268","Unnamed",460,1604,"",NA
+"269","Tour Of Anchorage",461,537,"","Tour of Anchorage"
+"270","Unnamed",464,4776,"",NA
+"271","Mchugh Creek Pedestrian",468,4203,"",NA
+"272","Mchugh Creek Pedestrian",469,4204,"",NA
+"273","Tank Trail",470,1920,"",NA
+"274","Coastal Trail",472,-2,"","Coastal Trail"
+"275","Bartlett",473,335,"","Bartlett Ski Trails"
+"276","Bartlett",474,337,"","Bartlett Ski Trails"
+"277","Bartlett",475,338,"","Bartlett Ski Trails"
+"278","Bartlett",476,339,"","Bartlett Ski Trails"
+"279","Bartlett",477,341,"","Bartlett Ski Trails"
+"280","Bragaw",478,363,"",NA
+"281","Unnamed",479,1049,"","Russian Jack Ski Trails"
+"282","Coastal Trail",481,-2,"","Coastal Trail"
+"283","The Hive",483,0,"","Mt Bike Single Track"
+"284","Janice's Jive",485,0,"","Mt Bike Single Track"
+"285","Queen Bee Loop",486,0,"","Mt Bike Single Track"
+"286","Chester Creek Trail",487,1122,"","Chester Creek Trail"
+"287","Unnamed",488,1553,"",NA
+"288","Upper Gasline Trail",490,3722,"","Hillside Ski Trails"
+"289","Unnamed",491,1559,"",NA
+"290","Tour Of Anchorage",494,1548,"","Tour of Anchorage"
+"291","Unnamed",497,1613,"",NA
+"292","Beaver Pl. Trail",498,1128,"",NA
+"293","Unnamed",503,1557,"",NA
+"294","Wonder Park Sch. Trail",504,543,"",NA
+"295","Unnamed",506,3969,"",NA
+"296","Chester Creek Trail",507,-1,"","Chester Creek Trail"
+"297","Chester Creek Trail",508,-1,"","Chester Creek Trail"
+"298","Yellow Jacket",509,0,"","Mt Bike Single Track"
+"299","Russian Jack Spur",511,1199,"",NA
+"300","Russian Jack Spur",513,1037,"","Russian Jack Ski Trails"
+"301","Shield's Trail",517,2220,"",NA
+"302","Chester Creek Trail",518,1127,"",NA
+"303","Unnamed",519,1599,"",NA
+"304","Unnamed",523,1609,"",NA
+"305","Baxter Bog",524,1400,"",NA
+"306","Rondy Cut Off Trail",525,2229,"",NA
+"307","Old Rondy Trail",526,2230,"","Tour of Anchorage"
+"308","Beaver Pl. Trail",527,1175,"",NA
+"309","Unnamed",529,1439,"",NA
+"310","Hornet's Nest",530,0,"","Mt Bike Single Track"
+"311","Goose Lake Trail",531,1265,"",NA
+"312","Unnamed",532,4404,"",NA
+"313","Unnamed",533,540,"",NA
+"314","Russian Jack Spur",539,1037,"","Russian Jack Ski Trails"
+"315","Unnamed",541,3941,"",NA
+"316","Chester Creek Trail",544,1161,"","Chester Creek Trail"
+"317","Tikishla Park Trail",546,1006,"",NA
+"318","Unnamed",547,1057,"",NA
+"319","Chester Creek Trail",549,-1,"","Chester Creek Trail"
+"320","New Seward Hwy. Trail",554,3917,"",NA
+"321","Chester Creek Trail",556,-1,"","Chester Creek Trail"
+"322","Chester Creek Trail",558,-1,"","Chester Creek Trail"
+"323","Chester Creek Trail",559,-1,"","Chester Creek Trail"
+"324","Dimond (South Side)",563,4384,"",NA
+"325","Tikishla Park Trail",565,899,"",NA
+"326","Chester Creek Trail",566,1111,"","Chester Creek Trail"
+"327","Unnamed",569,3322,"",NA
+"328","Old Seward Hwy. Trail",571,3113,"",NA
+"329","Tikishla Park Trail",572,908,"",NA
+"330","Chester Creek Trail",574,-1,"","Chester Creek Trail"
+"331","Chester Creek Trail",575,-1,"","Chester Creek Trail"
+"332","Old Seward Hwy. Trail",578,4785,"",NA
+"333","Rover's Run Trail",579,4331,"",NA
+"334","Spencer Loop",584,3442,"","Hillside Ski Trails"
+"335","Chalet Loop",587,2890,"","Kincaid Ski Trails"
+"336","Eight Mile Trail",588,2891,"",NA
+"337","2.5 Km Loop",590,2893,"",NA
+"338","RABBIT CREEK PARK TRAIL",595,0,"",NA
+"339","Unnamed",596,4006,"",NA
+"340","Unnamed",597,4007,"",NA
+"341","Abbott Trail",598,3700,"","Abbott Trail"
+"342","Abbott Trail",599,3714,"","Abbott Trail"
+"343","Seward Hwy. Trail",600,3914,"",NA
+"344","Nordic Trail",604,4226,"","Girdwood Trails"
+"345","Appendix",607,266,"","Beech Lake Ski Trails"
+"346","Moose Meadow Trail",608,4240,"","Girdwood Trails"
+"347","Alyeska Highway Trail",609,4259,"","Girdwood Trails"
+"348","Campbell Creek Trail",610,-6,"","Campbell Creek Trail"
+"349","Campbell Creek Trail",612,3260,"","Campbell Creek Trail"
+"350","Lake Loop",615,2935,"","Kincaid Ski Trails"
+"351","Glenn Hwy Trail",621,-5,"","Glenn Hwy Trail"
+"352","Campbell Creek Trail",622,1696,"","Campbell Creek Trail"
+"353","Old Seward Hwy. Trail",623,3928,"",NA
+"354","Glenn Hwy Trail",625,-5,"","Glenn Hwy Trail"
+"355","Glenn Hwy Trail",626,-5,"","Glenn Hwy Trail"
+"356","Glenn Hwy Trail",627,-5,"","Glenn Hwy Trail"
+"357","Bartlett",628,331,"","Bartlett Ski Trails"
+"358","Bartlett",629,332,"","Bartlett Ski Trails"
+"359","Glenn Hwy Trail",631,-5,"","Glenn Hwy Trail"
+"360","Glenn Hwy Trail",632,-5,"","Glenn Hwy Trail"
+"361","Unnamed",633,4752,"",NA
+"362","RABBIT CREEK PARK TRAIL",634,0,"",NA
+"363","Dimond (South Side)",636,3400,"",NA
+"364","Dimond (South Side)",637,3400,"",NA
+"365","Chester Creek Trail",638,-1,"","Chester Creek Trail"
+"366","Coastal Trail",639,-2,"","Coastal Trail"
+"367","Russian Jack Spur",643,1048,"","Russian Jack Ski Trails"
+"368","Unnamed",645,590,"",NA
+"369","Unnamed",646,1438,"",NA
+"370","Unnamed",648,1508,"",NA
+"371","Unnamed",649,766,"",NA
+"372","Upper Gasline Trail",651,3626,"",NA
+"373","Tank Trail",653,1234,"",NA
+"374","UAA Ski",654,1236,"",NA
+"375","Unnamed",656,3953,"",NA
+"376","Unnamed",657,4656,"",NA
+"377","Unnamed",659,1537,"",NA
+"378","Chester Creek Trail",661,1153,"","Chester Creek Trail"
+"379","Russian Jack Spur",662,1079,"","Russian Jack Ski Trails"
+"380","Unnamed",663,3941,"",NA
+"381","Beaver Pl. Trail",665,3963,"",NA
+"382","Tour Of Anchorage",667,534,"","Tour of Anchorage"
+"383","Beaver Pl. Trail",668,1023,"",NA
+"384","Unnamed",669,1036,"",NA
+"385","Goose Lake Trail",670,1443,"",NA
+"386","Upper Gasline Trail",673,3722,"","Hillside Ski Trails"
+"387","Moose Ridge Loop",675,2724,"",NA
+"388","2.1 Km Loop",676,2725,"",NA
+"389","4.5km Loop",677,2726,"",NA
+"390","2.5 Km Loop",681,2925,"",NA
+"391","Mt. View Sch. Trail",682,1619,"",NA
+"392","Mize Loop",683,2928,"","Kincaid Ski Trails"
+"393","Unnamed",684,1603,"",NA
+"394","The Hive",686,0,"","Mt Bike Single Track"
+"395","The Hive",687,0,"","Mt Bike Single Track"
+"396","Unnamed",688,4414,"",NA
+"397","Tikishla Park Trail",690,1081,"",NA
+"398","Tank Trail",691,837,"",NA
+"399","Coastal Trail",693,-2,"","Coastal Trail"
+"400","Tank Trail",694,1101,"",NA
+"401","Coastal Trail",695,-2,"","Coastal Trail"
+"402","Gruening Sch. Trail",699,3965,"",NA
+"403","Tank Trail",700,2932,"",NA
+"404","Unnamed",709,1078,"",NA
+"405","Unnamed",711,1233,"",NA
+"406","Tank Trail",715,477,"",NA
+"407","Chester Creek Trail",716,-1,"","Chester Creek Trail"
+"408","Chester Creek Trail",719,-1,"","Chester Creek Trail"
+"409","Fish Creek",720,1287,"",NA
+"410","Fish Creek",721,1531,"",NA
+"411","Unnamed",726,3686,"",NA
+"412","Unnamed",729,3736,"",NA
+"413","Campbell Creek Trail",730,-6,"","Campbell Creek Trail"
+"414","Glenn Hwy Trail",733,-5,"","Glenn Hwy Trail"
+"415","Glenn Hwy Trail",735,-5,"","Glenn Hwy Trail"
+"416","Dimond (South Side)",736,4559,"",NA
+"417","Tank Trail",738,356,"",NA
+"418","Tank Trail",739,357,"",NA
+"419","Tank Trail",740,359,"",NA
+"420","Campbell Creek Trail",742,2864,"","Campbell Creek Trail"
+"421","Campbell Creek Trail",743,3250,"","Campbell Creek Trail"
+"422","Unnamed",745,3118,"","Campbell Creek Trail"
+"423","Rondy Cut Off Trail",747,2282,"",NA
+"424","Homecoming/poleline",748,2294,"",NA
+"425","Homecoming/poleline",749,2291,"",NA
+"426","Old Three Mile Trail",750,2087,"",NA
+"427","Campbell Creek Trail",751,-6,"","Campbell Creek Trail"
+"428","Glenn Hwy Trail",752,-5,"","Glenn Hwy Trail"
+"429","Unnamed",754,2139,"",NA
+"430","Campbell Creek Trail",755,2110,"","Campbell Creek Trail"
+"431","Campbell Creek Trail",757,3600,"","Campbell Creek Trail"
+"432","Coastal Trail",766,-2,"","Coastal Trail"
+"433","Unnamed",767,1416,"",NA
+"434","Chester Creek Trail",768,-1,"","Chester Creek Trail"
+"435","Chester Creek Trail",770,-1,"","Chester Creek Trail"
+"436","Whaley Sch. Trail",771,1125,"",NA
+"437","Tikishla Park Trail",772,1138,"",NA
+"438","Chester Creek Trail",773,-1,"","Chester Creek Trail"
+"439","Chester Creek Trail",774,-1,"","Chester Creek Trail"
+"440","Tikishla Park Trail",775,1144,"",NA
+"441","Chester Creek Trail",776,-1,"","Chester Creek Trail"
+"442","Chester Creek Trail",777,-1,"","Chester Creek Trail"
+"443","Tikishla Park Trail",778,1147,"",NA
+"444","Rondy Cut Off Trail",781,2176,"",NA
+"445","Shield's Trail",782,2177,"",NA
+"446","Homestead Trail",784,3215,"","Tour of Anchorage"
+"447","Fish Creek",785,1251,"",NA
+"448","Fish Creek",787,1574,"",NA
+"449","Four Corners Connector Loop",788,3221,"","Kincaid Ski Trails"
+"450","Big Dipper",789,3222,"","Kincaid Ski Trails"
+"451","Tikishla Park Trail",791,1152,"",NA
+"452","Chester Creek Trail",798,-1,"","Chester Creek Trail"
+"453","Unnamed",802,1551,"",NA
+"454","Mahaffey/APU",803,1555,"","Tour of Anchorage"
+"455","Unnamed",805,1080,"",NA
+"456","Goose Lake Trail",806,1450,"",NA
+"457","Unnamed",807,792,"",NA
+"458","Unnamed",810,1513,"",NA
+"459","Beaver Pl. Trail",811,1150,"",NA
+"460","Mahaffey/APU",812,1552,"","Tour of Anchorage"
+"461","Tank Trail",813,640,"",NA
+"462","Unnamed",814,4530,"",NA
+"463","Unnamed",818,4287,"",NA
+"464","Chester Creek Trail",819,-1,"","Chester Creek Trail"
+"465","Unnamed",820,1612,"",NA
+"466","Unnamed",824,4701,"",NA
+"467","Centennial",826,395,"","Centennial Park Trails"
+"468","Centennial",827,397,"","Centennial Park Trails"
+"469","Upper Gasline Trail",828,3722,"","Hillside Ski Trails"
+"470","Centennial",829,400,"","Centennial Park Trails"
+"471","Centennial",834,401,"","Centennial Park Trails"
+"472","Centennial",835,402,"","Centennial Park Trails"
+"473","Old Three Mile Trail",836,2087,"",NA
+"474","Rondy Cut Off Trail",837,2228,"",NA
+"475","Rondy Cut Off Trail",838,2228,"",NA
+"476","Rondy Cut Off Trail",839,2228,"",NA
+"477","Outgoing Trail",840,2052,"",NA
+"478","Outgoing Trail",841,1932,"",NA
+"479","Outgoing Trail",842,2066,"",NA
+"480","Rondy Cut Off Trail",843,2228,"",NA
+"481","Homecoming/poleline",844,2295,"",NA
+"482","Tank Trail",849,549,"",NA
+"483","North Coastal Trail",855,-3,"","Coastal Trail"
+"484","North Coastal Trail",856,-3,"","Coastal Trail"
+"485","North Coastal Trail",860,-3,"","Coastal Trail"
+"486","Dimond (North Side)",861,3388,"",NA
+"487","Campbell Creek Trail",862,-6,"","Campbell Creek Trail"
+"488","Unnamed",863,3682,"",NA
+"489","Tank Trail",864,579,"",NA
+"490","Dimond (South Side)",866,3740,"",NA
+"491","Raspberry Parking Lot Connector",868,2958,"","Kincaid Ski Trails"
+"492","Alyeska Basin Subdivision Trails",869,4264,"","Girdwood Trails"
+"493","Alyeska Highway Trail",870,1990,"","Girdwood Trails"
+"494","Campbell Creek Trail",871,-6,"","Campbell Creek Trail"
+"495","Campbell Creek Trail",872,2599,"","Campbell Creek Trail"
+"496","The Burn Lighted Loop",874,3675,"","Hillside Ski Trails"
+"497","Tiny Creek Trails",882,4256,"","Girdwood Trails"
+"498","Old Seward Hwy. Trail",884,3977,"",NA
+"499","Unnamed",885,3952,"",NA
+"500","Unnamed",886,3702,"",NA
+"501","Dimond (South Side)",887,3739,"",NA
+"502","Campbell Creek Trail",889,1885,"","Campbell Creek Trail"
+"503","Baxter Bog",891,1409,"",NA
+"504","Coastal Trail",892,-2,"","Coastal Trail"
+"505","Fish Creek",893,1430,"",NA
+"506","Fish Creek",894,1431,"",NA
+"507","Fish Creek",895,1434,"",NA
+"508","Fish Creek",896,1435,"",NA
+"509","Coastal Trail",897,-2,"","Coastal Trail"
+"510","Unnamed",898,2219,"",NA
+"511","Unnamed",899,3444,"","Kincaid Other Trails"
+"512","Unnamed",900,175,"",NA
+"513","Unnamed",901,3779,"","Ruth Arcand Trails"
+"514","Unnamed",902,3363,"",NA
+"515","Unnamed",903,907,"",NA
+"516","Unnamed",904,181,"","Russian Jack Ski Trails"
+"517","Unnamed",905,1688,"","Kincaid Other Trails"
+"518","Unnamed",906,3676,"",NA
+"519","Unnamed",907,824,"","Russian Jack Ski Trails"
+"520","Unnamed",908,1205,"",NA
+"521","Unnamed",909,3819,"","Ruth Arcand Trails"
+"522","Unnamed",910,2980,"",NA
+"523","Unnamed",911,548,"",NA
+"524","Unnamed",912,692,"","Russian Jack Ski Trails"
+"525","Unnamed",913,4490,"",NA
+"526","Jodhpur Loop",914,3311,"","Kincaid Ski Trails"
+"527","Unnamed",915,1061,"",NA
+"528","Campbell Creek Trail",916,3335,"","Campbell Creek Trail"
+"529","Unnamed",917,2489,"",NA
+"530","Unnamed",918,2248,"",NA
+"531","Coastal Trail",919,-2,"","Coastal Trail"
+"532","Coastal Trail",920,-2,"","Coastal Trail"
+"533","Chester Creek Trail",921,-1,"","Chester Creek Trail"
+"534","Coastal Trail",922,-2,"","Coastal Trail"
+"535","Chester Creek Trail",923,-1,"","Chester Creek Trail"
+"536","Coastal Trail",924,-2,"","Coastal Trail"
+"537","Coastal Trail",925,-2,"","Coastal Trail"
+"538","Coastal Trail",929,-2,"","Coastal Trail"
+"539","Chester Creek Trail",934,-1,"","Chester Creek Trail"
+"540","Margauxs Loop",937,3058,"","Kincaid Ski Trails"
+"541","Unnamed",938,4547,"",NA
+"542","Unnamed",939,168,"",NA
+"543","Unnamed",940,223,"","Beech Lake Ski Trails"
+"544","Unnamed",941,3656,"",NA
+"545","Unnamed",942,3083,"","Kincaid Other Trails"
+"546","Unnamed",943,2611,"",NA
+"547","Mahaffey/APU",944,1423,"",NA
+"548","Unnamed",945,2330,"",NA
+"549","Chester Creek Trail",948,-1,"","Chester Creek Trail"
+"550","Coastal Trail",950,-2,"","Coastal Trail"
+"551","Campbell Creek Trail",951,-6,"","Campbell Creek Trail"
+"552","Alyeska Highway Trail",952,4258,"","Girdwood Trails"
+"553","Unnamed",955,4488,"",NA
+"554","Coastal Trail",956,-2,"","Coastal Trail"
+"555","Alyeska Highway Trail",958,4260,"","Girdwood Trails"
+"556","Raspberry Parking Lot Connector",959,2958,"","Kincaid Ski Trails"
+"557","Unnamed",960,4004,"",NA
+"558","Old Seward Hwy. Trail",962,3401,"",NA
+"559","Centennial",965,403,"","Centennial Park Trails"
+"560","Centennial",966,404,"","Centennial Park Trails"
+"561","Centennial",967,405,"","Centennial Park Trails"
+"562","Centennial",968,406,"","Centennial Park Trails"
+"563","Centennial",969,407,"","Centennial Park Trails"
+"564","Centennial",970,409,"","Centennial Park Trails"
+"565","Centennial",971,419,"","Centennial Park Trails"
+"566","Centennial",972,420,"","Centennial Park Trails"
+"567","Centennial",973,421,"","Centennial Park Trails"
+"568","Centennial",974,422,"","Centennial Park Trails"
+"569","Centennial",975,423,"","Centennial Park Trails"
+"570","Centennial",976,424,"","Centennial Park Trails"
+"571","Centennial",977,425,"","Centennial Park Trails"
+"572","Centennial",978,426,"","Centennial Park Trails"
+"573","Centennial",979,427,"","Centennial Park Trails"
+"574","Tank Trail",980,428,"",NA
+"575","Tank Trail",981,429,"",NA
+"576","Centennial",982,430,"","Centennial Park Trails"
+"577","Centennial",983,431,"","Centennial Park Trails"
+"578","Centennial",984,432,"","Centennial Park Trails"
+"579","Centennial",985,433,"","Centennial Park Trails"
+"580","Ship Creek",986,455,"",NA
+"581","Unnamed",987,1919,"",NA
+"582","Old Seward Hwy. Trail",992,3377,"",NA
+"583","Campbell Creek Trail",993,-6,"","Campbell Creek Trail"
+"584","Glacier Creek/iditarod Trail System",1000,4261,"","Girdwood Trails"
+"585","Fish Creek",1001,1775,"",NA
+"586","4.5km Loop",1003,4306,"",NA
+"587","4.5km Loop",1004,4307,"",NA
+"588","Lake Loop",1005,4309,"","Kincaid Ski Trails"
+"589","Unnamed",1006,4638,"",NA
+"590","Unnamed",1007,675,"","Russian Jack Ski Trails"
+"591","Unnamed",1008,2702,"",NA
+"592","Unnamed",1009,2501,"",NA
+"593","Unnamed",1010,4483,"",NA
+"594","Unnamed",1011,1419,"",NA
+"595","Unnamed",1012,3713,"",NA
+"596","Unnamed",1013,801,"","Russian Jack Ski Trails"
+"597","Unnamed",1014,4679,"",NA
+"598","Chester Creek Trail",1015,887,"","Chester Creek Trail"
+"599","Unnamed",1016,898,"","Russian Jack Ski Trails"
+"600","Unnamed",1017,1004,"","Russian Jack Ski Trails"
+"601","Unnamed",1018,3264,"",NA
+"602","Jodhpur Loop",1019,3240,"","Kincaid Ski Trails"
+"603","Unnamed",1020,3124,"","Kincaid Other Trails"
+"604","Unnamed",1021,4512,"","Kincaid Other Trails"
+"605","Moose Ridge Trail",1022,2504,"",NA
+"606","Unnamed",1023,4655,"",NA
+"607","Picket Spur Trail",1024,4652,"",NA
+"608","Unnnamed",1025,0,"","Hillside Trail Sysyem"
+"609","Dimond (North Side)",1026,3731,"",NA
+"610","RABBIT CREEK PARK TRAIL",1031,0,"",NA
+"611","Dimond (North Side)",1032,4673,"",NA
+"612","Preliminary Iditarod Realignment (2002)",1035,4257,"","Girdwood Trails"
+"613","North Coastal Trail",1036,-3,"","Coastal Trail"
+"614","Outgoing Trail",1038,2058,"",NA
+"615","Campbell Creek Trail",1040,-6,"","Campbell Creek Trail"
+"616","Campbell Creek Trail",1041,-6,"","Campbell Creek Trail"
+"617","Unnamed",1044,4096,"",NA
+"618","Outgoing Trail",1046,4294,"",NA
+"619","Abbott Trail",1047,3711,"","Abbott Trail"
+"620","Dimond (South Side)",1050,3739,"",NA
+"621","Unnamed",1051,681,"",NA
+"622","Jodhpur Loop",1052,3122,"","Kincaid Ski Trails"
+"623","Unnamed",1053,3212,"",NA
+"624","Unnamed",1054,1415,"",NA
+"625","Unnamed",1055,2913,"","Kincaid Other Trails"
+"626","Margauxs Loop",1056,1660,"","Kincaid Ski Trails"
+"627","Unnamed",1057,962,"","Russian Jack Ski Trails"
+"628","Unnamed",1058,4716,"",NA
+"629","Unnamed",1059,2192,"",NA
+"630","Unnamed",1060,4083,"",NA
+"631","Unnamed",1061,240,"","Beech Lake Ski Trails"
+"632","Unnamed",1062,4780,"",NA
+"633","Unnamed",1063,1394,"",NA
+"634","Unnamed",1064,4159,"",NA
+"635","Unnamed",1065,273,"","Beech Lake Ski Trails"
+"636","Old Rondy Trail",1067,2181,"","Tour of Anchorage"
+"637","Rondy Cut Off Trail",1068,2182,"",NA
+"638","Alex Sisson Loop",1069,2188,"","Kincaid Ski Trails"
+"639","Unnamed",1070,4997,"","Connors Bog Skijor"
+"640","Unnamed",1071,861,"","Russian Jack Ski Trails"
+"641","Unnamed",1072,4761,"",NA
+"642","Unnamed",1073,5000,"","Connors Bog Skijor"
+"643","Unnamed",1074,3944,"",NA
+"644","Mahaffey/APU",1075,1545,"","Tour of Anchorage"
+"645","Unnamed",1076,2549,"",NA
+"646","Unnamed",1077,3116,"","Kincaid Other Trails"
+"647","Unnamed",1078,3784,"","Ruth Arcand Trails"
+"648","Unnamed",1079,2911,"",NA
+"649","Upper Moen",1080,4125,"",NA
+"650","Little Rc Gully Route",1081,4140,"",NA
+"651","W Face Baldy",1083,4143,"",NA
+"652","Upper Moen",1086,4146,"",NA
+"653","Dimond (South Side)",1087,3420,"",NA
+"654","Campbell Creek Trail",1088,-6,"","Campbell Creek Trail"
+"655","Campbell Creek Trail",1090,3544,"","Campbell Creek Trail"
+"656","Viewpoint Trail",1091,4454,"","Tour of Anchorage"
+"657","North Gasline/powerline Trail",1093,4457,"",NA
+"658","Unnamed",1094,4460,"",NA
+"659","Campbell Creek Trail",1096,-6,"","Campbell Creek Trail"
+"660","Beaver Dam Trail",1097,1643,"",NA
+"661","Campbell Creek Trail",1099,1645,"","Campbell Creek Trail"
+"662","Unnamed",1101,373,"",NA
+"663","Dimond (South Side)",1104,4852,"",NA
+"664","Fish Creek",1105,1758,"",NA
+"665","Raspberry Parking Lot Connector",1106,2958,"","Kincaid Ski Trails"
+"666","Campbell Creek Trail",1107,1997,"","Campbell Creek Trail"
+"667","Dimond (South Side)",1108,4585,"",NA
+"668","Margauxs Loop",1110,2879,"","Kincaid Ski Trails"
+"669","Unnamed",1111,654,"",NA
+"670","Unnamed",1112,818,"",NA
+"671","Unnamed",1113,2463,"",NA
+"672","Unnamed",1114,1722,"",NA
+"673","Unnamed",1115,4676,"",NA
+"674","Unnamed",1116,2472,"",NA
+"675","Biathalon Loop",1117,1668,"","Kincaid Ski Trails"
+"676","Lekisch Dark Alley",1118,1671,"","Kincaid Ski Trails"
+"677","Lekisch Loop",1119,1672,"","Kincaid Ski Trails"
+"678","Lekisch Loop",1120,1673,"","Kincaid Ski Trails"
+"679","Andrew Lekisch Trail",1121,1677,"","Kincaid Ski Trails"
+"680","Lekisch Loop",1122,1680,"","Kincaid Ski Trails"
+"681","Lekisch Loop",1123,1686,"","Kincaid Ski Trails"
+"682","Lekisch Loop",1124,1687,"","Kincaid Ski Trails"
+"683","Campbell Creek Trail",1125,-6,"","Campbell Creek Trail"
+"684","Baxter Bog",1126,1705,"",NA
+"685","Tank Trail",1127,1707,"",NA
+"686","Unnamed",1128,1442,"",NA
+"687","Unnamed",1129,4636,"",NA
+"688","Chester Creek Trail",1130,1179,"",NA
+"689","Unnamed",1131,2577,"",NA
+"690","Unnamed",1132,3684,"",NA
+"691","Campbell Creek Trail",1133,2141,"","Campbell Creek Trail"
+"692","Unnamed",1134,2903,"","Kincaid Other Trails"
+"693","Unnamed",1135,3369,"","Kincaid Other Trails"
+"694","Unnamed",1136,167,"",NA
+"695","Unnamed",1137,4599,"",NA
+"696","Unnamed",1138,1924,"",NA
+"697","Unnamed",1139,952,"",NA
+"698","Unnamed",1140,628,"",NA
+"699","Unnamed",1141,2329,"",NA
+"700","Unnamed",1142,4610,"",NA
+"701","Mahaffey/APU",1143,1377,"",NA
+"702","Unnamed",1144,960,"",NA
+"703","Tank Trail",1145,1466,"",NA
+"704","UAA Ski",1146,1202,"",NA
+"705","UAA Ski",1147,1203,"","Tour of Anchorage"
+"706","Unnamed",1150,4379,"",NA
+"707","Campbell Creek Trail",1151,1641,"","Campbell Creek Trail"
+"708","Chester Creek Trail",1152,1213,"",NA
+"709","Unnamed",1153,2750,"","Kincaid Other Trails"
+"710","Unnamed",1154,2334,"",NA
+"711","Unnamed",1155,568,"",NA
+"712","Margauxs Loop",1156,3060,"","Kincaid Ski Trails"
+"713","Campbell Creek Trail",1157,-6,"","Campbell Creek Trail"
+"714","Shield's Trail",1158,2200,"",NA
+"715","Rondy Cut Off Trail",1159,2203,"",NA
+"716","Shield's Trail",1160,2208,"",NA
+"717","Rondy Cut Off Trail",1161,2209,"",NA
+"718","Outgoing Trail",1162,2339,"",NA
+"719","Old Rondy Trail",1163,2345,"","Tour of Anchorage"
+"720","Outgoing Trail",1164,2352,"",NA
+"721","Unnamed",1165,2470,"",NA
+"722","Unnamed",1166,1169,"",NA
+"723","Unnamed",1167,26,"",NA
+"724","Unnamed",1168,2333,"",NA
+"725","Unnamed",1169,3227,"",NA
+"726","Unnamed",1170,3690,"",NA
+"727","Unnamed",1171,164,"","Russian Jack Ski Trails"
+"728","Main",1172,4612,"","Connors Bog Skijor"
+"729","Unnamed",1173,132,"","Beech Lake Ski Trails"
+"730","Unnamed",1174,261,"","Beech Lake Ski Trails"
+"731","Unnamed",1175,2993,"",NA
+"732","Unnamed",1176,783,"","Russian Jack Ski Trails"
+"733","Unnamed",1177,1113,"",NA
+"734","Unnamed",1178,718,"",NA
+"735","Unnamed",1179,1704,"",NA
+"736","Chester Creek Trail",1180,1094,"","Chester Creek Trail"
+"737","Unnamed",1181,149,"",NA
+"738","Homecoming/poleline",1182,2358,"",NA
+"739","Old Rondy Trail",1183,2362,"","Tour of Anchorage"
+"740","Arlene's Way",1184,2376,"","Kincaid Ski Trails"
+"741","Campbell Creek Trail",1185,-6,"","Campbell Creek Trail"
+"742","Peanut Farm",1186,2168,"","Campbell Creek Trail"
+"743","4.5km Loop Trail",1187,2578,"",NA
+"744","Inner Loop Trail",1188,2579,"",NA
+"745","Arlene's Way",1189,2581,"","Kincaid Ski Trails"
+"746","Alex Sisson Loop",1190,2792,"","Kincaid Ski Trails"
+"747","Mize Loop",1191,2794,"","Kincaid Ski Trails"
+"748","Homecoming/poleline",1192,2796,"",NA
+"749","2.5 Km Loop",1193,2797,"",NA
+"750","Coastal Trail",1194,-2,"","Coastal Trail"
+"751","Unnamed",1195,4954,"","Connors Bog Skijor"
+"752","Unnamed",1196,1298,"",NA
+"753","Unnamed",1197,4440,"",NA
+"754","Unnamed",1198,1432,"",NA
+"755","Margauxs Loop",1199,1675,"","Kincaid Ski Trails"
+"756","Unnamed",1200,2685,"",NA
+"757","Unnamed",1201,1892,"",NA
+"758","Unnamed",1202,810,"",NA
+"759","Unnamed",1203,2779,"",NA
+"760","Unnamed",1204,2305,"",NA
+"761","Unnamed",1205,2497,"","Campbell Creek Trail"
+"762","Unnamed",1206,637,"",NA
+"763","Unnamed",1207,4444,"",NA
+"764","Margauxs Loop",1208,2820,"","Kincaid Ski Trails"
+"765","Unnamed",1209,2694,"",NA
+"766","Unnamed",1210,3245,"",NA
+"767","Jodhpur Loop",1211,3273,"","Kincaid Ski Trails"
+"768","Unnamed",1212,4450,"","Beech Lake Ski Trails"
+"769","Unnamed",1213,1274,"",NA
+"770","Unnamed",1214,4597,"",NA
+"771","Unnamed",1215,474,"",NA
+"772","Unnamed",1216,2615,"",NA
+"773","Unnamed",1217,774,"",NA
+"774","Abbott Trail",1218,3693,"","Abbott Trail"
+"775","Campbell Creek Trail",1219,-6,"","Campbell Creek Trail"
+"776","Tour Of Anchorage",1229,1607,"","Tour of Anchorage"
+"777","Tank Trail",1230,1626,"",NA
+"778","Tank Trail",1231,1628,"",NA
+"779","Tour Of Anchorage",1232,1630,"","Tour of Anchorage"
+"780","Campbell Creek Trail",1233,-6,"","Campbell Creek Trail"
+"781","Outgoing Trail",1234,1634,"",NA
+"782","Unnamed",1235,3370,"","Kincaid Other Trails"
+"783","Unnamed",1236,3888,"",NA
+"784","Mahaffey/APU",1237,1505,"","Tour of Anchorage"
+"785","Unnamed",1238,3025,"","Coastal Trail"
+"786","Unnamed",1239,2751,"",NA
+"787","Unnamed",1240,2240,"",NA
+"788","Unnamed",1241,538,"",NA
+"789","Unnamed",1242,1838,"",NA
+"790","Unnamed",1243,1927,"",NA
+"791","Unnamed",1244,1949,"",NA
+"792","Unnamed",1245,3131,"","Kincaid Other Trails"
+"793","Unnamed",1246,2153,"","Kincaid Other Trails"
+"794","Unnamed",1247,1702,"",NA
+"795","Unnamed",1248,107,"","Beech Lake Ski Trails"
+"796","Unnamed",1249,2951,"",NA
+"797","Unnamed",1250,2580,"",NA
+"798","Unnamed",1251,4471,"",NA
+"799","Unnamed",1252,3054,"","Kincaid Other Trails"
+"800","Mahaffey/APU",1253,1453,"","Tour of Anchorage"
+"801","Unnamed",1254,2715,"",NA
+"802","Campbell Creek Trail",1255,-6,"","Campbell Creek Trail"
+"803","Campbell Creek Trail",1256,-6,"","Campbell Creek Trail"
+"804","Beaver Dam Trail",1257,2409,"",NA
+"805","Homecoming/poleline",1258,2411,"",NA
+"806","Arlene's Way",1259,2413,"","Kincaid Ski Trails"
+"807","Sisson Loop",1260,2414,"","Kincaid Ski Trails"
+"808","Lake Loop",1261,2711,"","Kincaid Ski Trails"
+"809","Mize Loop",1262,2712,"","Kincaid Ski Trails"
+"810","4.5km Loop",1263,2714,"",NA
+"811","Campbell Creek Trail",1264,-6,"","Campbell Creek Trail"
+"812","North Gasline/powerline Trail",1265,2862,"",NA
+"813","Mize Loop",1266,2865,"","Kincaid Ski Trails"
+"814","Mize Loop",1267,2876,"","Kincaid Ski Trails"
+"815","Alex Sisson Loop",1268,2300,"","Kincaid Ski Trails"
+"816","Maximilian",1269,2301,"",NA
+"817","The Football",1270,2969,"","Kincaid Ski Trails"
+"818","The Football",1271,2970,"","Kincaid Ski Trails"
+"819","Airstrip Loop",1272,2974,"",NA
+"820","Ballfield",1273,4013,"",NA
+"821","Glen Alps/ Middle Fork",1274,4014,"",NA
+"822","Flattop",1275,4018,"",NA
+"823","Payne Path",1276,4124,"",NA
+"824","Unnamed",1277,1763,"",NA
+"825","Unnamed",1278,2105,"",NA
+"826","Unnamed",1279,502,"","Russian Jack Ski Trails"
+"827","Unnamed",1280,2968,"","Kincaid Other Trails"
+"828","Unnamed",1281,1072,"",NA
+"829","Goose Lake Trail",1282,1369,"",NA
+"830","Unnamed",1283,978,"",NA
+"831","Biathalon Loop",1284,1974,"","Kincaid Ski Trails"
+"832","Junkyard Hill",1285,1976,"","Kincaid Ski Trails"
+"833","Unnamed",1286,3849,"","Ruth Arcand Trails"
+"834","Unnamed",1287,86,"","Beech Lake Ski Trails"
+"835","Unnamed",1288,684,"",NA
+"836","Unnamed",1289,967,"",NA
+"837","Unnamed",1290,1339,"",NA
+"838","Unnamed",1291,5010,"","Connors Bog Skijor"
+"839","Unnamed",1292,4081,"",NA
+"840","Unnamed",1293,4609,"",NA
+"841","Unnamed",1294,4494,"",NA
+"842","Margauxs Loop",1295,3066,"","Kincaid Ski Trails"
+"843","Unnamed",1296,458,"",NA
+"844","Unnamed",1297,507,"",NA
+"845","Unnamed",1298,3183,"",NA
+"846","Unnamed",1299,701,"","Russian Jack Ski Trails"
+"847","Unnamed",1300,4633,"",NA
+"848","Unnamed",1301,1231,"",NA
+"849","Unnamed",1302,2624,"","Kincaid Other Trails"
+"850","Unnamed",1303,655,"","Russian Jack Ski Trails"
+"851","UAA Ski",1304,1269,"","Tour of Anchorage"
+"852","Tikishla Park Trail",1305,912,"",NA
+"853","Chester Creek Trail",1306,-1,"","Chester Creek Trail"
+"854","Sullivan Nature Trail",1307,988,"","Chester Creek Trail"
+"855","Sullivan Nature Trail",1308,996,"","Chester Creek Trail"
+"856","Tikishla Park Trail",1309,1000,"",NA
+"857","Tikishla Park Trail",1310,1002,"",NA
+"858","Unnamed",1311,3797,"","Ruth Arcand Trails"
+"859","Unnamed",1312,880,"","Russian Jack Ski Trails"
+"860","Unnamed",1313,3744,"","Ruth Arcand Trails"
+"861","Chester Creek Trail",1314,508,"","Chester Creek Trail"
+"862","Unnamed",1315,4605,"","Connors Bog Skijor"
+"863","Unnamed",1316,4413,"",NA
+"864","Unnamed",1317,1703,"",NA
+"865","Unnamed",1318,556,"",NA
+"866","Unnamed",1319,4992,"","Connors Bog Skijor"
+"867","Unnamed",1320,349,"",NA
+"868","Unnamed",1321,623,"",NA
+"869","Margauxs Loop",1322,4363,"","Kincaid Ski Trails"
+"870","Mahaffey/APU",1323,1497,"","Tour of Anchorage"
+"871","Besh Lighted Loop",1324,3525,"","Hillside Ski Trails"
+"872","Unnamed",1325,1335,"",NA
+"873","Unnamed",1326,1782,"",NA
+"874","Unnamed",1327,2924,"",NA
+"875","Unnamed",1328,1918,"",NA
+"876","Besh Lighted Loop",1329,3504,"","Hillside Ski Trails"
+"877","Unnamed",1330,4348,"",NA
+"878","Chester Creek Trail",1331,-1,"","Chester Creek Trail"
+"879","Chester Creek Trail",1332,-1,"","Chester Creek Trail"
+"880","Chester Creek Trail",1333,-1,"","Chester Creek Trail"
+"881","Chester Creek Trail",1334,-1,"","Chester Creek Trail"
+"882","Tank Trail",1335,1162,"",NA
+"883","Coastal Trail",1336,-2,"","Coastal Trail"
+"884","Fish Creek",1337,1754,"",NA
+"885","Unnamed",1338,1365,"",NA
+"886","Unnamed",1339,2217,"",NA
+"887","Unnamed",1340,2269,"",NA
+"888","Unnamed",1341,3585,"",NA
+"889","Unnamed",1342,1368,"",NA
+"890","Unnamed",1343,1460,"",NA
+"891","Unnamed",1344,1410,"",NA
+"892","Unnamed",1345,4486,"","Kincaid Other Trails"
+"893","Unnamed",1346,910,"","Russian Jack Ski Trails"
+"894","Unnamed",1347,2009,"",NA
+"895","Unnamed",1348,2328,"",NA
+"896","Unnamed",1349,883,"","Russian Jack Ski Trails"
+"897","Unnamed",1350,678,"","Russian Jack Ski Trails"
+"898","Unnamed",1351,123,"","Beech Lake Ski Trails"
+"899","Main",1352,4964,"","Connors Bog Skijor"
+"900","Unnamed",1353,849,"","Russian Jack Ski Trails"
+"901","Unnamed",1354,1045,"",NA
+"902","Unnamed",1355,627,"",NA
+"903","Unnamed",1356,280,"","Beech Lake Ski Trails"
+"904","Unnamed",1357,2698,"","Kincaid Other Trails"
+"905","Ice Box",1358,3283,"","Kincaid Ski Trails"
+"906","Fish Creek",1359,1486,"",NA
+"907","Fish Creek",1360,1487,"",NA
+"908","Tank Trail",1361,1492,"",NA
+"909","Fish Creek",1362,1501,"",NA
+"910","Unnamed",1363,911,"","Russian Jack Ski Trails"
+"911","Margauxs Loop",1364,2930,"","Kincaid Ski Trails"
+"912","Unnamed",1365,905,"",NA
+"913","Unnamed",1366,4300,"",NA
+"914","Unnamed",1367,1391,"",NA
+"915","South Fork Rim",1368,1978,"",NA
+"916","South Fork Rim",1369,1981,"",NA
+"917","Denali View",1370,1986,"",NA
+"918","Beaver Pond Trail",1371,1987,"","Girdwood Trails"
+"919","Virgin Creek Trail System",1372,1988,"","Girdwood Trails"
+"920","Beaver Pond Trail",1373,1989,"","Girdwood Trails"
+"921","Campbell Creek Trail",1374,2030,"","Campbell Creek Trail"
+"922","Coastal Trail",1375,-2,"","Coastal Trail"
+"923","Coastal Trail",1376,-2,"","Coastal Trail"
+"924","Coastal Trail",1377,2045,"","Coastal Trail"
+"925","Coastal Trail",1378,-2,"","Coastal Trail"
+"926","Coastal Trail",1379,-2,"","Coastal Trail"
+"927","Coastal Trail",1380,-2,"","Coastal Trail"
+"928","Outgoing Trail",1381,2050,"",NA
+"929","Outgoing Trail",1382,2051,"",NA
+"930","Outgoing Trail",1383,2055,"",NA
+"931","Unnamed",1384,3735,"","Ruth Arcand Trails"
+"932","Unnamed",1385,917,"","Russian Jack Ski Trails"
+"933","Unnamed",1386,4998,"","Connors Bog Skijor"
+"934","Unnamed",1387,3741,"","Ruth Arcand Trails"
+"935","Unnamed",1388,3300,"",NA
+"936","Campbell Creek Trail",1389,1648,"","Campbell Creek Trail"
+"937","Campbell Creek Trail",1390,3346,"","Campbell Creek Trail"
+"938","Unnamed",1391,3699,"",NA
+"939","Unnamed",1393,4666,"",NA
+"940","Chester Creek Trail",1396,-1,"","Chester Creek Trail"
+"941","Beaver Dam Trail",1399,2074,"",NA
+"942","Outgoing Trail",1401,2079,"",NA
+"943","Beaver Dam Trail",1402,2080,"",NA
+"944","Campbell Creek Trail",1404,-6,"","Campbell Creek Trail"
+"945","Campbell Creek Trail",1405,-6,"","Campbell Creek Trail"
+"946","Campbell Creek Trail",1409,-6,"","Campbell Creek Trail"
+"947","Unnamed",1410,3985,"",NA
+"948","Unnamed",1411,3362,"","Kincaid Other Trails"
+"949","Unnamed",1412,1857,"",NA
+"950","Unnamed",1413,3869,"","Ruth Arcand Trails"
+"951","Unnamed",1414,4824,"",NA
+"952","Unnamed",1415,904,"",NA
+"953","Campbell Creek Trail",1416,3610,"","Campbell Creek Trail"
+"954","Unnamed",1417,3429,"",NA
+"955","Unnamed",1418,3095,"",NA
+"956","Unnamed",1419,553,"",NA
+"957","Outgoing Trail",1420,2066,"",NA
+"958","Campbell Creek Trail",1422,1756,"","Tour of Anchorage"
+"959","Campbell Creek Trail",1423,-6,"","Campbell Creek Trail"
+"960","Outgoing Trail",1424,2020,"",NA
+"961","Unnamed",1425,3773,"","Ruth Arcand Trails"
+"962","Gasline Trail",1426,3342,"","Hillside Ski Trails"
+"963","Unnamed",1427,4700,"",NA
+"964","Unnamed",1428,1108,"",NA
+"965","Unnamed",1429,914,"",NA
+"966","Unnamed",1430,153,"",NA
+"967","Unnamed",1431,3608,"",NA
+"968","Unnamed",1432,577,"",NA
+"969","Unnamed",1433,3856,"","Ruth Arcand Trails"
+"970","Unnamed",1434,617,"",NA
+"971","Unnamed",1435,2341,"",NA
+"972","Unnamed",1436,487,"",NA
+"973","Unnamed",1437,366,"","Centennial Park Trails"
+"974","Unnamed",1438,3794,"","Ruth Arcand Trails"
+"975","Unnamed",1439,1051,"","Russian Jack Ski Trails"
+"976","Unnamed",1440,838,"",NA
+"977","Unnamed",1441,1073,"",NA
+"978","Unnamed",1442,943,"",NA
+"979","Unnamed",1443,4687,"",NA
+"980","Unnamed",1444,638,"","Russian Jack Ski Trails"
+"981","Unnamed",1445,1615,"",NA
+"982","Unnamed",1446,2075,"",NA
+"983","Unnamed",1447,1690,"","Kincaid Other Trails"
+"984","Unnamed",1448,3859,"","Ruth Arcand Trails"
+"985","Unnamed",1449,2468,"",NA
+"986","Tank Trail",1451,1862,"",NA
+"987","Campbell Creek Trail",1452,-6,"","Campbell Creek Trail"
+"988","Campbell Creek Trail",1453,-6,"","Tour of Anchorage"
+"989","Outgoing Trail",1455,1868,"",NA
+"990","Outgoing Trail",1456,1869,"",NA
+"991","Campbell Creek Trail",1457,-6,"","Campbell Creek Trail"
+"992","Campbell Creek Trail",1458,-6,"","Tour of Anchorage"
+"993","Outgoing Trail",1459,2066,"",NA
+"994","Outgoing Trail",1461,1884,"",NA
+"995","Old Rondy Trail",1462,2090,"","Tour of Anchorage"
+"996","Old Three Mile Trail",1463,2040,"",NA
+"997","Campbell Creek Trail",1465,-6,"","Campbell Creek Trail"
+"998","Campbell Creek Trail",1466,-6,"","Campbell Creek Trail"
+"999","Campbell Creek Trail",1467,-6,"","Campbell Creek Trail"
+"1000","Unnamed",1468,3879,"","Ruth Arcand Trails"
+"1001","Unnamed",1469,4462,"",NA
+"1002","Unnamed",1470,4973,"","Connors Bog Skijor"
+"1003","Unnamed",1471,846,"","Russian Jack Ski Trails"
+"1004","Unnamed",1472,4769,"","Kincaid Other Trails"
+"1005","Unnamed",1473,4739,"",NA
+"1006","Coastal Trail",1474,2002,"","Coastal Trail"
+"1007","Campbell Creek Trail",1475,-6,"","Campbell Creek Trail"
+"1008","Unnamed",1478,2273,"",NA
+"1009","Unnamed",1479,4505,"",NA
+"1010","Unnamed",1480,1810,"",NA
+"1011","Unnamed",1481,4698,"",NA
+"1012","Mahaffey/APU",1482,526,"",NA
+"1013","Unnamed",1483,2356,"",NA
+"1014","Unnamed",1484,1220,"",NA
+"1015","Chester Creek Trail",1486,1091,"","Chester Creek Trail"
+"1016","Peanut Farm",1487,2167,"","Campbell Creek Trail"
+"1017","Unnamed",1489,438,"",NA
+"1018","Richter Loop",1494,3440,"","Hillside Ski Trails"
+"1019","BLM Ridge",1495,3441,"","Hillside Ski Trails"
+"1020","Viewpoint Trail",1496,2830,"","Tour of Anchorage"
+"1021","Homestead Trail",1498,3389,"","Tour of Anchorage"
+"1022","14 Mile Loop",1501,2634,"",NA
+"1023","Inner Loop Trail",1503,2639,"",NA
+"1024","Woodway Loop Trail",1504,2640,"",NA
+"1025","Rover's Run Trail",1505,3002,"",NA
+"1026","Off Leash Trail",1506,3012,"",NA
+"1027","The Football",1507,3013,"","Kincaid Ski Trails"
+"1028","Campbell Creek Trail",1508,1772,"","Tour of Anchorage"
+"1029","Beaver Dam Trail",1509,2101,"",NA
+"1030","Campbell Creek Trail",1512,1772,"","Tour of Anchorage"
+"1031","Chester Creek Trail",1516,1730,"","Tour of Anchorage"
+"1032","North Gasline/powerline Trail",1517,2120,"",NA
+"1033","Unnamed",1518,3808,"","Ruth Arcand Trails"
+"1034","Tour Of Anchorage",1519,2433,"","Tour of Anchorage"
+"1035","Woodway Loop Trail",1520,2435,"",NA
+"1036","North Gasline/powerline Trail",1521,2445,"",NA
+"1037","Moose Ridge Trail",1522,2447,"",NA
+"1038","Homecoming/poleline",1523,2492,"",NA
+"1039","Lake Loop",1524,2493,"","Kincaid Ski Trails"
+"1040","Campbell Creek Trail",1525,-6,"","Campbell Creek Trail"
+"1041","Woodway Loop Trail",1526,2499,"",NA
+"1042","Mize Loop",1527,2824,"","Kincaid Ski Trails"
+"1043","Roller Coaster",1528,2825,"","Kincaid Ski Trails"
+"1044","Coastal Trail",1529,-2,"","Coastal Trail"
+"1045","Eight Mile Trail",1530,2828,"",NA
+"1046","Spencer Loop",1531,3396,"","Hillside Ski Trails"
+"1047","Grass Trail",1532,3778,"",NA
+"1048","Panorama View",1533,3780,"",NA
+"1049","Panorama View",1534,3781,"",NA
+"1050","Unnamed",1535,2404,"",NA
+"1051","Unnamed",1536,641,"","Russian Jack Ski Trails"
+"1052","Unnamed",1537,4821,"",NA
+"1053","Unnamed",1538,4343,"",NA
+"1054","Unnamed",1539,1393,"",NA
+"1055","Unnamed",1540,3961,"",NA
+"1056","Unnamed",1541,2803,"","Kincaid Other Trails"
+"1057","Unnamed",1542,4441,"",NA
+"1058","Unnamed",1543,2451,"",NA
+"1059","Unnamed",1544,926,"","Russian Jack Ski Trails"
+"1060","Jodhpur Loop",1545,1694,"","Kincaid Ski Trails"
+"1061","Unnamed",1546,138,"","Beech Lake Ski Trails"
+"1062","Unnamed",1547,4397,"",NA
+"1063","Unnamed",1548,4421,"",NA
+"1064","Unnamed",1549,4782,"",NA
+"1065","Unnamed",1550,1717,"",NA
+"1066","Unnamed",1551,2682,"",NA
+"1067","South Fork Rim",1552,3788,"",NA
+"1068","Tank Trail",1553,4298,"",NA
+"1069","Tank Trail",1554,4299,"",NA
+"1070","Tank Trail",1555,4301,"",NA
+"1071","Tank Trail",1556,4303,"",NA
+"1072","Tank Trail",1557,4304,"",NA
+"1073","Viewpoint Trail",1558,2508,"","Tour of Anchorage"
+"1074","Coastal Trail",1559,2509,"","Coastal Trail"
+"1075","Woodway Loop Trail",1560,2513,"",NA
+"1076","Coastal Trail",1561,-2,"","Coastal Trail"
+"1077","Coastal Trail",1562,2515,"","Coastal Trail"
+"1078","Coastal Trail",1563,-2,"","Coastal Trail"
+"1079","Six Mile Trail",1564,2517,"",NA
+"1080","Moose Ridge Trail",1565,2519,"",NA
+"1081","Woodway Loop Trail",1566,2528,"",NA
+"1082","Woodway Loop Trail",1567,2529,"",NA
+"1083","Homecoming/poleline",1568,2530,"",NA
+"1084","Homecoming/poleline",1569,2532,"",NA
+"1085","Woodway Loop Trail",1570,2535,"",NA
+"1086","Homecoming/poleline",1571,2537,"",NA
+"1087","Homecoming/poleline",1572,2538,"",NA
+"1088","Lake Loop",1573,2543,"","Kincaid Ski Trails"
+"1089","Unnamed",1574,1698,"",NA
+"1090","Unnamed",1575,191,"","Russian Jack Ski Trails"
+"1091","Unnamed",1576,2564,"",NA
+"1092","Unnamed",1577,3133,"","Kincaid Other Trails"
+"1093","Unnamed",1578,4422,"",NA
+"1094","Unnamed",1579,4078,"",NA
+"1095","Unnamed",1580,1819,"",NA
+"1096","Unnamed",1581,3119,"","Kincaid Ski Trails"
+"1097","Unnamed",1582,1317,"",NA
+"1098","Unnamed",1583,102,"","Beech Lake Ski Trails"
+"1099","Mahaffey/APU",1584,1504,"",NA
+"1100","Unnamed",1585,4577,"",NA
+"1101","Unnamed",1586,1382,"",NA
+"1102","Unnamed",1587,3624,"",NA
+"1103","Campbell Creek Trail",1588,-6,"","Campbell Creek Trail"
+"1104","Chester Creek Trail",1591,-1,"","Chester Creek Trail"
+"1105","Eight Mile Trail",1594,2655,"",NA
+"1106","Rover's Run Trail",1598,3003,"",NA
+"1107","Off Leash Trail",1599,3005,"",NA
+"1108","Glenn Hwy Trail",1600,-5,"","Glenn Hwy Trail"
+"1109","Chester Creek Trail",1601,196,"","Chester Creek Trail"
+"1110","Inner Lake Loop",1602,3010,"","Kincaid Ski Trails"
+"1111","Old Rondy Trail",1603,2317,"","Tour of Anchorage"
+"1112","Coastal Trail",1604,-2,"","Coastal Trail"
+"1113","Unnamed",1605,1861,"",NA
+"1114","Unnamed",1606,965,"",NA
+"1115","Margauxs Loop",1607,2868,"","Kincaid Ski Trails"
+"1116","Mahaffey/APU",1608,1383,"",NA
+"1117","Unnamed",1609,2500,"",NA
+"1118","Unnamed",1610,630,"",NA
+"1119","Unnamed",1611,629,"",NA
+"1120","Unnamed",1612,4758,"",NA
+"1121","Unnamed",1613,4420,"",NA
+"1122","Unnamed",1614,4681,"",NA
+"1123","Unnamed",1615,3092,"",NA
+"1124","Unnamed",1616,1823,"",NA
+"1125","Campbell Creek Trail",1617,2897,"","Campbell Creek Trail"
+"1126","Unnamed",1620,3678,"",NA
+"1127","Tank Trail",1622,1723,"",NA
+"1128","Dimond (South Side)",1625,3420,"",NA
+"1129","Campbell Creek Trail",1626,-6,"","Campbell Creek Trail"
+"1130","Campbell Creek Trail",1627,-6,"","Campbell Creek Trail"
+"1131","Campbell Creek Trail",1629,-6,"","Campbell Creek Trail"
+"1132","Old Rondy Trail",1630,2090,"","Tour of Anchorage"
+"1133","Unnamed",1632,4365,"","Kincaid Ski Trails"
+"1134","Campbell Creek Trail",1635,1891,"","Campbell Creek Trail"
+"1135","Glenn Hwy Trail",1636,-5,"","Glenn Hwy Trail"
+"1136","Campbell Creek Trail",1639,-6,"","Campbell Creek Trail"
+"1137","Unnamed",1643,4005,"",NA
+"1138","Campbell Creek Trail",1648,3329,"","Campbell Creek Trail"
+"1139","Campbell Creek Trail",1649,-6,"","Campbell Creek Trail"
+"1140","Campbell Creek Trail",1650,-6,"","Campbell Creek Trail"
+"1141","Unnamed",1651,2996,"","Coastal Trail"
+"1142","Old Three Mile Trail",1652,1913,"",NA
+"1143","Baxter Bog",1654,1408,"",NA
+"1144","Old Three Mile Trail",1655,1917,"",NA
+"1145","Rondy Cut Off Trail",1657,1930,"",NA
+"1146","Outgoing Trail",1658,1934,"",NA
+"1147","Outgoing Trail",1659,1936,"",NA
+"1148","Airstrip Loop",1664,1942,"",NA
+"1149","Airstrip Loop",1672,1950,"",NA
+"1150","Mize Loop",1673,1951,"","Kincaid Ski Trails"
+"1151","Alex Sisson Loop",1674,1952,"","Kincaid Ski Trails"
+"1152","Unnamed",1675,812,"","Russian Jack Ski Trails"
+"1153","Unnamed",1676,586,"",NA
+"1154","Alex Sisson Loop",1677,1955,"","Kincaid Ski Trails"
+"1155","Coastal Trail",1679,-2,"","Coastal Trail"
+"1156","Tank Trail",1682,1966,"",NA
+"1157","Dark Alley",1683,1967,"","Kincaid Ski Trails"
+"1158","Horseshoe Loop",1684,1968,"","Kincaid Ski Trails"
+"1159","Chester Creek Trail",1686,-1,"","Chester Creek Trail"
+"1160","Horseshoe Loop",1687,1972,"","Kincaid Ski Trails"
+"1161","Unnamed",1688,688,"","Russian Jack Ski Trails"
+"1162","Beaver Dam Trail",1689,2424,"",NA
+"1163","Tour Of Anchorage",1690,2425,"","Tour of Anchorage"
+"1164","Chalet Loop",1691,2844,"","Kincaid Ski Trails"
+"1165","Lake Loop",1692,2849,"","Kincaid Ski Trails"
+"1166","Lake Loop",1693,2850,"","Kincaid Ski Trails"
+"1167","Unnamed",1694,4777,"",NA
+"1168","Unnamed",1695,1204,"","Tour of Anchorage"
+"1169","Unnamed",1696,4181,"",NA
+"1170","Unnamed",1697,3350,"",NA
+"1171","Unnamed",1698,632,"",NA
+"1172","Unnamed",1699,1413,"",NA
+"1173","Unnamed",1700,4813,"",NA
+"1174","Unnamed",1701,174,"",NA
+"1175","Unnamed",1702,2812,"","Kincaid Other Trails"
+"1176","Unnamed",1703,4634,"","Kincaid Other Trails"
+"1177","Unnamed",1704,1682,"","Kincaid Other Trails"
+"1178","Unnamed",1705,841,"",NA
+"1179","Unnamed",1706,1946,"",NA
+"1180","Unnamed",1707,4342,"",NA
+"1181","Unnamed",1708,2263,"",NA
+"1182","Chalet Loop",1709,2999,"","Kincaid Ski Trails"
+"1183","Andrew Lekisch Trail",1710,3020,"","Kincaid Ski Trails"
+"1184","Moose Meadow Trail",1711,3021,"",NA
+"1185","Hillside Loop",1712,3553,"","Hillside Ski Trails"
+"1186","Abbott Trail",1713,3558,"","Abbott Trail"
+"1187","Randys Loop",1714,3564,"","Hillside Ski Trails"
+"1188","Unnamed",1716,860,"",NA
+"1189","Goose Lake Trail",1717,1227,"",NA
+"1190","Unnamed",1718,550,"",NA
+"1191","Chester Creek Trail",1719,796,"","Chester Creek Trail"
+"1192","Unnamed",1720,4672,"","Russian Jack Ski Trails"
+"1193","Unnamed",1721,3903,"","Ruth Arcand Trails"
+"1194","Unnamed",1722,4702,"",NA
+"1195","Unnamed",1723,948,"",NA
+"1196","Unnamed",1724,3339,"",NA
+"1197","Unnamed",1725,2926,"","Kincaid Other Trails"
+"1198","Margauxs Loop",1726,3153,"","Kincaid Ski Trails"
+"1199","Unnamed",1727,4279,"",NA
+"1200","Unnamed",1728,816,"","Russian Jack Ski Trails"
+"1201","Unnamed",1729,1326,"",NA
+"1202","Unnamed",1730,1899,"",NA
+"1203","Unnamed",1731,813,"","Russian Jack Ski Trails"
+"1204","Unnamed",1732,3867,"","Ruth Arcand Trails"
+"1205","Unnamed",1733,918,"","Russian Jack Ski Trails"
+"1206","Unnamed",1734,2418,"",NA
+"1207","Besh Lighted Loop",1735,3428,"","Hillside Ski Trails"
+"1208","Unnamed",1736,3873,"","Ruth Arcand Trails"
+"1209","Unnamed",1737,4827,"",NA
+"1210","Unnamed",1738,1071,"",NA
+"1211","Unnamed",1739,4730,"",NA
+"1212","Unnamed",1740,2964,"",NA
+"1213","Unnamed",1741,3852,"","Ruth Arcand Trails"
+"1214","Unnamed",1742,2434,"",NA
+"1215","Unnamed",1743,4607,"",NA
+"1216","Unnamed",1744,1013,"",NA
+"1217","Unnamed",1745,3614,"",NA
+"1218","Mahaffey/APU",1746,1449,"",NA
+"1219","Unnamed",1747,4589,"","Beech Lake Ski Trails"
+"1220","Unnamed",1748,1817,"",NA
+"1221","Unnamed",1749,624,"",NA
+"1222","Unnamed",1750,1463,"",NA
+"1223","Unnamed",1751,2710,"",NA
+"1224","Unnamed",1752,4308,"",NA
+"1225","Unnamed",1753,1494,"",NA
+"1226","Old Rondy Trail",1754,2332,"","Tour of Anchorage"
+"1227","Campbell Creek Trail",1755,-6,"","Campbell Creek Trail"
+"1228","Lekisch Loop",1756,3062,"","Kincaid Ski Trails"
+"1229","The Football",1757,3068,"","Kincaid Ski Trails"
+"1230","Lekisch Loop",1758,3074,"","Kincaid Ski Trails"
+"1231","Viewpoint Trail",1759,3076,"","Tour of Anchorage"
+"1232","Unnamed",1760,210,"",NA
+"1233","Unnamed",1761,3640,"",NA
+"1234","Unnamed",1762,2661,"",NA
+"1235","Unnamed",1763,657,"",NA
+"1236","Mahaffey/APU",1764,1503,"","Tour of Anchorage"
+"1237","Unnamed",1765,3871,"","Ruth Arcand Trails"
+"1238","Unnamed",1766,1336,"",NA
+"1239","Unnamed",1767,145,"","Beech Lake Ski Trails"
+"1240","Unnamed",1768,3858,"","Ruth Arcand Trails"
+"1241","Unnamed",1769,325,"",NA
+"1242","Unnamed",1770,520,"",NA
+"1243","Unnamed",1771,3171,"","Kincaid Ski Trails"
+"1244","Unnamed",1772,1018,"",NA
+"1245","Goose Lake Trail",1773,1258,"",NA
+"1246","Unnamed",1774,1028,"","Russian Jack Ski Trails"
+"1247","Unnamed",1775,4613,"","Connors Bog Skijor"
+"1248","Unnamed",1776,4609,"","Connors Bog Skijor"
+"1249","Unnamed",1777,780,"",NA
+"1250","Unnamed",1778,603,"",NA
+"1251","Unnamed",1779,3203,"","Kincaid Ski Trails"
+"1252","Margauxs Loop",1780,3063,"","Kincaid Ski Trails"
+"1253","Unnamed",1781,2886,"","Kincaid Other Trails"
+"1254","Unnamed",1782,3383,"",NA
+"1255","Unnamed",1783,3629,"",NA
+"1256","White Spruce",1784,3923,"",NA
+"1257","White Spruce",1785,3924,"",NA
+"1258","White Spruce",1786,3925,"",NA
+"1259","White Spruce",1787,3926,"",NA
+"1260","Elevator",1788,4127,"",NA
+"1261","Elevator",1789,4129,"",NA
+"1262","Southside Switchback",1790,4130,"",NA
+"1263","Elevator",1791,4132,"",NA
+"1264","Southside Switchback",1792,4133,"",NA
+"1265","West Face",1793,4134,"",NA
+"1266","Elevator",1794,4135,"",NA
+"1267","Airstrip Trail",1795,4136,"",NA
+"1268","W Face Baldy",1796,4137,"",NA
+"1269","Nordic Trail",1797,4757,"","Girdwood Trails"
+"1270","Unnamed",1798,1542,"",NA
+"1271","Unnamed",1799,4956,"","Connors Bog Skijor"
+"1272","Johnson Trail",1800,-4,"","Johnson Trail"
+"1273","RC Meadow 3",1801,4034,"",NA
+"1274","RC Meadow 4",1802,4035,"",NA
+"1275","North Gasline Trail",1803,3011,"",NA
+"1276","Lekisch Loop",1804,3191,"","Kincaid Ski Trails"
+"1277","Lekisch Loop",1805,3192,"","Kincaid Ski Trails"
+"1278","Lekisch Loop",1806,3197,"","Kincaid Ski Trails"
+"1279","Lekisch Loop",1807,3198,"","Kincaid Ski Trails"
+"1280","Mizes Folly",1808,3199,"","Kincaid Ski Trails"
+"1281","Richter Loop",1809,3402,"","Hillside Ski Trails"
+"1282","BLM Ridge",1810,3403,"","Hillside Ski Trails"
+"1283","Bog Trail",1811,3596,"","Hillside Ski Trails"
+"1284","Hillside Loop",1812,3598,"","Hillside Ski Trails"
+"1285","Campbell Creek Trail",1813,-6,"","Campbell Creek Trail"
+"1286","Dome Trail",1814,2234,"",NA
+"1287","Dome Trail",1815,2235,"",NA
+"1288","Unnamed",1816,159,"","Russian Jack Ski Trails"
+"1289","Unnamed",1817,3210,"",NA
+"1290","Campbell Creek Trail",1818,3287,"","Campbell Creek Trail"
+"1291","Unnamed",1819,958,"","Russian Jack Ski Trails"
+"1292","Unnamed",1820,229,"","Beech Lake Ski Trails"
+"1293","Unnamed",1821,764,"","Russian Jack Ski Trails"
+"1294","Unnamed",1822,2102,"",NA
+"1295","Unnamed",1823,2455,"","Kincaid Other Trails"
+"1296","Unnamed",1824,3065,"",NA
+"1297","Unnamed",1825,589,"",NA
+"1298","Shield's Trail",1826,2237,"",NA
+"1299","Beaver Dam Trail",1827,2243,"",NA
+"1300","Shield's Trail",1828,2244,"",NA
+"1301","Beaver Dam Trail",1829,2245,"",NA
+"1302","Shield's Trail",1830,2246,"",NA
+"1303","Beaver Dam Trail",1831,2249,"",NA
+"1304","Beaver Dam Trail",1832,2252,"",NA
+"1305","Dome Trail",1833,2253,"",NA
+"1306","Beaver Dam Trail",1834,2271,"",NA
+"1307","Old Rondy Trail",1835,2274,"","Tour of Anchorage"
+"1308","Homecoming/poleline",1836,2288,"",NA
+"1309","Homecoming/poleline",1837,2289,"",NA
+"1310","Homecoming/poleline",1838,2292,"",NA
+"1311","Homecoming/poleline",1839,2293,"",NA
+"1312","Unnamed",1840,587,"",NA
+"1313","Coastal Trail",1841,2758,"","Coastal Trail"
+"1314","Tank Trail",1842,2759,"",NA
+"1315","Woodway Loop Trail",1843,2449,"",NA
+"1316","Campbell Creek Trail",1844,-6,"","Campbell Creek Trail"
+"1317","Outgoing Trail",1845,2462,"",NA
+"1318","Viewpoint Trail",1846,2473,"","Tour of Anchorage"
+"1319","Outgoing Trail",1847,2474,"",NA
+"1320","Lake Loop",1848,2477,"","Kincaid Ski Trails"
+"1321","Airstrip Loop",1849,2478,"",NA
+"1322","Outgoing Trail",1850,2480,"",NA
+"1323","Eight Mile Trail",1851,3018,"",NA
+"1324","The Football",1852,3019,"","Kincaid Ski Trails"
+"1325","Spencer Loop",1853,3207,"",NA
+"1326","Abbott Loop Trail",1854,3211,"","Abbott Loop Trail"
+"1327","Andrew Lekisch Trail",1855,3223,"","Kincaid Ski Trails"
+"1328","Spencer Loop",1856,3446,"","Hillside Ski Trails"
+"1329","Homestead Trail",1857,3448,"","Tour of Anchorage"
+"1330","Spencer Loop",1858,3450,"","Hillside Ski Trails"
+"1331","Campbell Creek Trail",1859,-6,"","Campbell Creek Trail"
+"1332","BLM Ridge",1860,4327,"","Hillside Ski Trails"
+"1333","BLM Ridge",1861,4328,"","Hillside Ski Trails"
+"1334","Tank Trail",1862,2384,"",NA
+"1335","Homecoming/poleline",1863,2386,"",NA
+"1336","Old Rondy Trail",1864,2388,"","Tour of Anchorage"
+"1337","Sisson Loop",1865,2389,"","Kincaid Ski Trails"
+"1338","Beaver Dam Trail",1866,2390,"",NA
+"1339","Outgoing Trail",1867,2392,"",NA
+"1340","Tank Trail",1868,2394,"",NA
+"1341","North Gasline/powerline Trail",1869,2395,"",NA
+"1342","Chalet Loop",1870,2981,"","Kincaid Ski Trails"
+"1343","Airstrip Loop",1871,2983,"",NA
+"1344","Airstrip Loop",1872,2984,"",NA
+"1345","Airstrip Loop",1873,2986,"",NA
+"1346","Spencer Loop",1875,3412,"","Hillside Ski Trails"
+"1347","Spencer Loop",1876,3426,"","Hillside Ski Trails"
+"1348","Coyote Trail",1878,3026,"",NA
+"1349","Ann's Alley",1880,3575,"",NA
+"1350","Randys Loop",1881,3580,"","Hillside Ski Trails"
+"1351","Randys Loop",1882,3581,"","Hillside Ski Trails"
+"1352","Campbell Creek Trail",1883,-6,"","Campbell Creek Trail"
+"1353","Short Cut",1884,3583,"","Hillside Ski Trails"
+"1354","Randys Loop",1885,3590,"","Hillside Ski Trails"
+"1355","Junior Nordic Loop",1886,3591,"","Hillside Ski Trails"
+"1356","Hillside Loop",1887,3617,"","Hillside Ski Trails"
+"1357","Hillside Loop",1888,3620,"","Hillside Ski Trails"
+"1358","Biathalon Loop",1889,3161,"","Kincaid Ski Trails"
+"1359","Biathalon Loop",1890,3162,"","Kincaid Ski Trails"
+"1360","Biathalon Loop",1891,3168,"","Kincaid Ski Trails"
+"1361","Biathalon Loop",1892,3169,"","Kincaid Ski Trails"
+"1362","Biathalon Loop",1893,3170,"","Kincaid Ski Trails"
+"1363","Ice Box",1894,3187,"","Kincaid Ski Trails"
+"1364","Tour Of Anchorage",1895,3189,"","Tour of Anchorage"
+"1365","Abbott Loop Trail",1897,3200,"","Abbott Loop Trail"
+"1366","Elliots Climb",1901,2816,"","Kincaid Ski Trails"
+"1367","Coastal Trail",1902,-2,"","Coastal Trail"
+"1368","Coastal Trail",1903,-2,"","Coastal Trail"
+"1369","Coastal Trail",1904,2834,"","Coastal Trail"
+"1370","Chalet Loop",1905,2836,"","Kincaid Ski Trails"
+"1371","Eight Mile Trail",1906,2838,"",NA
+"1372","Tour Of Anchorage",1907,2839,"","Tour of Anchorage"
+"1373","Coastal Trail",1908,-2,"","Coastal Trail"
+"1374","Chalet Loop",1909,2858,"","Kincaid Ski Trails"
+"1375","Mize Loop",1910,2859,"","Kincaid Ski Trails"
+"1376","Chalet Loop",1911,2878,"","Kincaid Ski Trails"
+"1377","Chalet Loop",1913,2882,"","Kincaid Ski Trails"
+"1378","Coastal Trail",1914,-2,"","Coastal Trail"
+"1379","Short Cut",1916,3415,"","Hillside Ski Trails"
+"1380","Spencer Loop",1917,3419,"","Hillside Ski Trails"
+"1381","Johnson Trail",1918,-4,"","Johnson Trail"
+"1382","Johnson Trail",1919,-4,"","Johnson Trail"
+"1383","Johnson Trail",1920,-4,"","Johnson Trail"
+"1384","Johnson Trail",1921,-4,"","Johnson Trail"
+"1385","Old Rondy Trail",1922,2403,"","Tour of Anchorage"
+"1386","Tank Trail",1923,2415,"",NA
+"1387","Viewpoint Trail",1924,2416,"",NA
+"1388","Moose Track Trail",1925,2417,"",NA
+"1389","Beaver Dam Trail",1926,2419,"",NA
+"1390","Beaver Dam Trail",1927,2420,"",NA
+"1391","Old Rondy Trail",1928,2421,"","Tour of Anchorage"
+"1392","Unnamed",1929,580,"",NA
+"1393","Unnamed",1930,2408,"",NA
+"1394","Unnamed",1931,4082,"",NA
+"1395","Beaver Dam Trail",1932,2399,"",NA
+"1396","Old Rondy Trail",1933,2400,"","Tour of Anchorage"
+"1397","Campbell Creek Trail",1934,-6,"","Campbell Creek Trail"
+"1398","Tank Trail",1935,2905,"",NA
+"1399","Chalet Loop",1936,2910,"","Kincaid Ski Trails"
+"1400","Chalet Loop",1937,2914,"","Kincaid Ski Trails"
+"1401","Mize Loop",1938,2934,"","Kincaid Ski Trails"
+"1402","2.5 Km Loop",1939,2936,"",NA
+"1403","Homecoming/poleline",1940,2937,"",NA
+"1404","2.5 Km Loop",1941,2940,"",NA
+"1405","Coastal Trail",1942,-2,"","Coastal Trail"
+"1406","Mize Loop",1943,2553,"","Kincaid Ski Trails"
+"1407","Lake Loop",1944,2555,"","Kincaid Ski Trails"
+"1408","Homecoming/poleline",1945,2556,"",NA
+"1409","Airstrip Loop",1946,2558,"",NA
+"1410","Inner Loop Trail",1947,2560,"",NA
+"1411","Homecoming/poleline",1948,2562,"",NA
+"1412","Inner Loop Trail",1949,2567,"",NA
+"1413","Arlene's Way",1950,2570,"","Kincaid Ski Trails"
+"1414","Homecoming/poleline",1951,2582,"",NA
+"1415","Mize Loop",1952,2583,"","Kincaid Ski Trails"
+"1416","Homecoming/poleline",1953,2586,"",NA
+"1417","Homecoming/poleline",1954,2590,"",NA
+"1418","14 Mile Loop",1955,2594,"",NA
+"1419","Rover's Run Trail",1956,2598,"",NA
+"1420","14 Mile Loop",1957,2600,"",NA
+"1421","Inner Loop Trail",1958,2602,"",NA
+"1422","14 Mile Loop",1959,2603,"",NA
+"1423","14 Mile Loop",1960,2604,"",NA
+"1424","Lake Loop",1961,2608,"","Kincaid Ski Trails"
+"1425","Mize Loop",1962,2764,"","Kincaid Ski Trails"
+"1426","North Gasline/powerline Trail",1963,2767,"",NA
+"1427","Tank Trail",1964,2770,"",NA
+"1428","2.1 Km Loop",1965,2775,"",NA
+"1429","Homecoming/poleline",1966,2778,"",NA
+"1430","Coastal Trail",1967,-2,"","Coastal Trail"
+"1431","Chalet Loop",1968,2788,"","Kincaid Ski Trails"
+"1432","Chalet Loop",1969,2790,"","Kincaid Ski Trails"
+"1433","North Gasline Trail",1970,2791,"",NA
+"1434","Coastal Trail",1971,-2,"","Coastal Trail"
+"1435","Alex Sisson Loop",1972,2806,"","Kincaid Ski Trails"
+"1436","Moose Track Trail",1974,2612,"",NA
+"1437","Lake Loop",1975,2617,"","Kincaid Ski Trails"
+"1438","Airstrip Loop",1976,2620,"",NA
+"1439","Tank Trail",1977,2621,"",NA
+"1440","Viewpoint Trail",1978,2623,"","Tour of Anchorage"
+"1441","Moose Ridge Loop",1979,2627,"",NA
+"1442","Alex Sisson Loop",1980,2631,"","Kincaid Ski Trails"
+"1443","Inner Loop Trail",1981,2644,"",NA
+"1444","Moose Ridge Loop",1982,2645,"",NA
+"1445","Mize Loop",1983,2646,"","Kincaid Ski Trails"
+"1446","Moose Ridge Loop",1984,2650,"",NA
+"1447","Moose Ridge Loop",1985,2651,"",NA
+"1448","Lake Loop",1986,2664,"","Kincaid Ski Trails"
+"1449","2.5 Km Loop",1987,2665,"",NA
+"1450","Tank Trail",1988,2677,"",NA
+"1451","4.5km Loop Trail",1989,2680,"",NA
+"1452","2.5 Km Loop",1990,2681,"",NA
+"1453","Eight Mile Trail",1991,2687,"",NA
+"1454","Coyote Trail",1992,2689,"",NA
+"1455","Inner Lake Loop",1993,2699,"","Kincaid Ski Trails"
+"1456","Inner Lake Loop",1994,2703,"","Kincaid Ski Trails"
+"1457","Lake Loop",1995,2704,"","Kincaid Ski Trails"
+"1458","Inner Lake Loop",1997,2709,"","Kincaid Ski Trails"
+"1459","Coyote Trail",1998,2732,"",NA
+"1460","Coastal Trail",1999,2736,"","Coastal Trail"
+"1461","Tank Trail",2000,2738,"",NA
+"1462","Mize Loop",2001,2741,"","Kincaid Ski Trails"
+"1463","Homecoming/poleline",2002,2743,"",NA
+"1464","Inner Lake Loop",2003,2744,"","Kincaid Ski Trails"
+"1465","Mize Loop",2004,2745,"","Kincaid Ski Trails"
+"1466","Mize Loop",2005,2746,"","Kincaid Ski Trails"
+"1467","Elliots Climb",2006,2752,"","Kincaid Ski Trails"
+"1468","Elliots Climb",2007,2754,"","Kincaid Ski Trails"
+"1469","Mize Loop",2008,2755,"","Kincaid Ski Trails"
+"1470","Coastal Trail",2009,-2,"","Coastal Trail"
+"1471","So Baldy Traverse",2011,4733,"",NA
+"1472","Chalet Loop",2012,2900,"","Kincaid Ski Trails"
+"1473","Andrew Lekisch Trail",2013,3028,"","Kincaid Ski Trails"
+"1474","Eight Mile Trail",2014,3030,"",NA
+"1475","Lekisch Loop",2016,3178,"","Kincaid Ski Trails"
+"1476","Multi-use To Bivouc",2017,3431,"","Hillside Ski Trails"
+"1477","Spencer Loop",2018,3432,"",NA
+"1478","Abbott Trail",2019,3434,"","Abbott Trail"
+"1479","Upper Moen",2020,4447,"",NA
+"1480","Whaley Sch. Trail",2021,4285,"",NA
+"1481","Moose Track Trail",2022,4358,"",NA
+"1482","2.5 Km Loop",2023,4359,"",NA
+"1483","Mize Loop",2024,4360,"","Kincaid Ski Trails"
+"1484","2.5 Km Loop",2025,4361,"",NA
+"1485","Airstrip Loop",2026,4362,"",NA
+"1486","Lakeside Loop",2027,5007,"","Connors Bog Skijor"
+"1487","Lakeside Loop",2028,5008,"","Connors Bog Skijor"
+"1488","Spruce Loop",2029,5012,"","Connors Bog Skijor"
+"1489","Spruce Loop",2030,5013,"","Connors Bog Skijor"
+"1490","Spruce Loop",2031,5014,"","Connors Bog Skijor"
+"1491","Spruce Loop",2032,5015,"","Connors Bog Skijor"
+"1492","Inner Lake Loop",2034,3037,"","Kincaid Ski Trails"
+"1493","Chalet Loop",2035,3038,"","Kincaid Ski Trails"
+"1494","S Turns",2037,3040,"","Kincaid Ski Trails"
+"1495","Chalet Loop",2038,3043,"","Kincaid Ski Trails"
+"1496","Unnamed",2043,4805,"",NA
+"1497","Chester Creek Trail",2045,-1,"","Chester Creek Trail"
+"1498","The Football",2047,3055,"","Kincaid Ski Trails"
+"1499","Coastal Trail",2049,-2,"","Coastal Trail"
+"1500","S Turns",2051,3081,"","Kincaid Ski Trails"
+"1501","Andrew Lekisch Trail",2052,3082,"","Kincaid Ski Trails"
+"1502","Moose Meadow Trail",2055,4252,"","Girdwood Trails"
+"1503","Chester Creek Trail",2056,-1,"","Chester Creek Trail"
+"1504","Campbell Creek Trail",2060,0,"","Campbell Creek Trail"
+"1505","Campbell Creek Trail",2063,0,"","Tour of Anchorage"
+"1506","Unnamed",2065,4407,"",NA
+"1507","Old 3.9",2066,3149,"","Kincaid Ski Trails"
+"1508","Compression",2067,3150,"","Kincaid Ski Trails"
+"1509","Unnamed",2068,4647,"",NA
+"1510","Unnamed",2069,4456,"",NA
+"1511","Old Six",2070,3155,"","Kincaid Ski Trails"
+"1512","Junkyard Hill",2071,3156,"","Kincaid Ski Trails"
+"1513","Ice Box",2072,3159,"","Kincaid Ski Trails"
+"1514","Unnamed",2073,4719,"",NA
+"1515","Unnamed",2075,4276,"",NA
+"1516","Unnamed",2076,4282,"",NA
+"1517","Chalet Loop",2077,2952,"","Kincaid Ski Trails"
+"1518","Dark Alley",2079,2954,"","Kincaid Ski Trails"
+"1519","Unnamed",2080,4273,"",NA
+"1520","Wolverine Peak",2082,3733,"",NA
+"1521","Unnamed",2083,4522,"",NA
+"1522","Unnamed",2084,4391,"",NA
+"1523","Unnamed",2086,4280,"",NA
+"1524","Unnamed",2087,4277,"",NA
+"1525","Coastal Trail",2088,-2,"","Coastal Trail"
+"1526","Unnamed",2089,4269,"",NA
+"1527","Unnamed",2090,4271,"",NA
+"1528","Campbell Creek Trail",2092,2025,"","Campbell Creek Trail"
+"1529","Campbell Creek Trail",2093,-6,"","Campbell Creek Trail"
+"1530","Outgoing Trail",2094,2136,"",NA
+"1531","Campbell Creek Trail",2098,0,"","Campbell Creek Trail"
+"1532","Old Rondy Trail",2100,0,"","Tour of Anchorage"
+"1533","Campbell Creek Trail",2107,3957,"","Tour of Anchorage"
+"1534","Unnamed",2108,4714,"",NA
+"1535","Unnamed",2109,4596,"",NA
+"1536","Campbell Creek Trail",2110,-6,"","Campbell Creek Trail"
+"1537","Campbell Creek Trail",2112,-6,"","Campbell Creek Trail"
+"1538","Multi-use To Bivouc",2113,3430,"","Hillside Ski Trails"
+"1539","Short Cut",2114,3467,"","Hillside Ski Trails"
+"1540","Short Cut",2115,3468,"","Hillside Ski Trails"
+"1541","Richter Loop",2116,3475,"","Hillside Ski Trails"
+"1542","Richter Loop",2117,3480,"","Hillside Ski Trails"
+"1543","Spencer Loop",2118,3485,"","Hillside Ski Trails"
+"1544","Spencer Loop",2119,3486,"","Hillside Ski Trails"
+"1545","Campbell Creek Trail",2120,-6,"","Campbell Creek Trail"
+"1546","Spencer Loop",2121,3500,"","Hillside Ski Trails"
+"1547","Homestead Trail",2122,3501,"","Tour of Anchorage"
+"1548","Hillside Loop",2123,3506,"","Hillside Ski Trails"
+"1549","Hillside Loop",2124,3508,"","Hillside Ski Trails"
+"1550","Campbell Creek Trail",2125,-6,"","Campbell Creek Trail"
+"1551","Campbell Creek Trail",2126,-6,"","Campbell Creek Trail"
+"1552","Hillside Loop",2127,3518,"","Hillside Ski Trails"
+"1553","Spencer Loop",2128,3520,"",NA
+"1554","Randys Loop",2129,3521,"","Hillside Ski Trails"
+"1555","Grass Trail",2130,3526,"",NA
+"1556","Coyote Trail",2131,3084,"",NA
+"1557","Biathalon Loop",2132,3085,"","Kincaid Ski Trails"
+"1558","Andrew Lekisch Trail",2134,3088,"","Kincaid Ski Trails"
+"1559","Unnamed",2135,4805,"",NA
+"1560","Chalet Loop",2136,3090,"","Kincaid Ski Trails"
+"1561","Andrew Lekisch Trail",2138,3093,"","Kincaid Ski Trails"
+"1562","Lekisch Loop",2141,3096,"","Kincaid Ski Trails"
+"1563","Unnamed",2142,786,"",NA
+"1564","Chalet Loop",2143,3100,"","Kincaid Ski Trails"
+"1565","Andrew Lekisch Trail",2146,3102,"","Kincaid Ski Trails"
+"1566","Andrew Lekisch Trail",2147,3103,"","Kincaid Ski Trails"
+"1567","Old Seward Hwy. Trail",2149,3980,"",NA
+"1568","Viewpoint Trail",2150,3107,"","Tour of Anchorage"
+"1569","Horseshoe Loop",2151,3109,"","Kincaid Ski Trails"
+"1570","Old 3.9",2152,3110,"","Kincaid Ski Trails"
+"1571","Viewpoint Trail",2154,3114,"","Tour of Anchorage"
+"1572","Coyote Trail",2155,3115,"",NA
+"1573","Biathalon Loop",2157,3120,"","Kincaid Ski Trails"
+"1574","Horseshoe Loop",2158,3121,"","Kincaid Ski Trails"
+"1575","Glenn Hwy. Trail",2159,4611,"",NA
+"1576","Biathalon Loop",2160,3125,"","Kincaid Ski Trails"
+"1577","Viewpoint Trail",2161,3127,"","Tour of Anchorage"
+"1578","RABBIT CREEK PARK TRAIL",2162,0,"",NA
+"1579","Campbell Creek Trail",2163,-6,"","Campbell Creek Trail"
+"1580","Abbott Trail",2164,3681,"","Abbott Trail"
+"1581","Glenn Hwy Trail",2165,-5,"","Glenn Hwy Trail"
+"1582","Campbell Creek Trail",2166,-6,"","Campbell Creek Trail"
+"1583","Biathalon Loop",2167,3134,"","Kincaid Ski Trails"
+"1584","Near Point",2169,3137,"",NA
+"1585","Old Seward Hwy. Trail",2170,4536,"",NA
+"1586","Unnamed",2171,1836,"",NA
+"1587","Alyeska Highway Trail",2172,1994,"","Girdwood Trails"
+"1588","Unnamed",2173,134,"","Beech Lake Ski Trails"
+"1589","Unnamed",2174,3638,"",NA
+"1590","Unnamed",2175,607,"",NA
+"1591","Unnamed",2176,2737,"",NA
+"1592","Unnamed",2177,2705,"",NA
+"1593","Unnamed",2178,2312,"",NA
+"1594","Unnamed",2179,1828,"",NA
+"1595","Unnamed",2180,1307,"",NA
+"1596","Unnamed",2181,1291,"",NA
+"1597","Unnamed",2182,844,"","Russian Jack Ski Trails"
+"1598","Unnamed",2183,4318,"",NA
+"1599","Unnamed",2184,128,"","Beech Lake Ski Trails"
+"1600","Andrew Lekisch Trail",2185,3225,"","Kincaid Ski Trails"
+"1601","Lekisch Loop",2186,3266,"","Kincaid Ski Trails"
+"1602","Spencer Loop",2187,3296,"","Hillside Ski Trails"
+"1603","Lekisch Loop",2188,3297,"","Kincaid Ski Trails"
+"1604","Spencer Loop",2189,3299,"","Hillside Ski Trails"
+"1605","Lekisch Loop",2190,3302,"","Kincaid Ski Trails"
+"1606","Four Corners Connector Loop",2191,3312,"","Kincaid Ski Trails"
+"1607","Unnamed",2192,3000,"",NA
+"1608","Unnamed",2193,735,"",NA
+"1609","Unnamed",2194,743,"",NA
+"1610","Unnamed",2195,2522,"",NA
+"1611","Mahaffey/APU",2196,1392,"","Tour of Anchorage"
+"1612","Unnamed",2197,1629,"",NA
+"1613","Unnamed",2198,1627,"",NA
+"1614","Mahaffey/APU",2199,531,"","Tour of Anchorage"
+"1615","Unnamed",2200,4315,"",NA
+"1616","Spencer Short Cut",2201,3325,"","Hillside Ski Trails"
+"1617","Spencer Loop",2202,3334,"","Hillside Ski Trails"
+"1618","Campbell Creek Trail",2203,-6,"","Campbell Creek Trail"
+"1619","Ice Box",2204,3357,"","Kincaid Ski Trails"
+"1620","Chester Creek Trail",2205,936,"","Chester Creek Trail"
+"1621","Unnamed",2206,484,"",NA
+"1622","Unnamed",2207,3193,"",NA
+"1623","Unnamed",2208,894,"","Russian Jack Ski Trails"
+"1624","Gasline To Rabbit Cr Rd",2209,4084,"",NA
+"1625","Southpark Lp",2210,4086,"",NA
+"1626","Southpark Lp",2211,4088,"",NA
+"1627","Little Rabbit Creek",2212,4089,"",NA
+"1628","Little Rabbit Creek",2213,4090,"",NA
+"1629","Little Rabbit Creek",2214,4091,"",NA
+"1630","Terrace Wood Connection",2215,4092,"",NA
+"1631","Cobblestone Hill Rd",2216,4093,"",NA
+"1632","Southpark Lp",2217,4094,"",NA
+"1633","View Rock Trail",2218,4097,"",NA
+"1634","View Rock Trail",2219,4104,"",NA
+"1635","After Dinner Tr",2220,4105,"",NA
+"1636","View Rock Trail",2221,4106,"",NA
+"1637","Snow Bear Path",2222,4108,"",NA
+"1638","E 172nd Trail",2223,4111,"",NA
+"1639","X Hmstd Rd",2224,4119,"",NA
+"1640","Margeurite Hills",2225,4120,"",NA
+"1641","Payne Path",2226,4121,"",NA
+"1642","X Hmstd Rd",2227,4122,"",NA
+"1643","RC Meadow 5",2230,4808,"",NA
+"1644","Blueberry Hollow",2232,4912,"",NA
+"1645","Blueberry Hollow",2233,4913,"",NA
+"1646","Alex Sisson Loop",2234,2520,"","Kincaid Ski Trails"
+"1647","Alex Sisson Loop",2235,2520,"","Kincaid Ski Trails"
+"1648","Alex Sisson Loop",2236,2883,"","Kincaid Ski Trails"
+"1649","Alex Sisson Loop",2237,2883,"","Kincaid Ski Trails"
+"1650","Southwest",2238,4993,"","Connors Bog Skijor"
+"1651","along lake to south",2239,4995,"","Connors Bog Skijor"
+"1652","Lower Moen Hmstd",2240,4164,"",NA
+"1653","Old Hwy Trail",2241,4165,"",NA
+"1654","East Rib To Mchugh Cr",2242,4166,"",NA
+"1655","Johnson Trail",2243,-4,"","Johnson Trail"
+"1656","East Rib To Mchugh Cr",2245,4170,"",NA
+"1657","Johnson Trail",2247,-4,"","Johnson Trail"
+"1658","Johnson Trail",2249,-4,"","Johnson Trail"
+"1659","Potter Interp. Trail",2250,4175,"",NA
+"1660","Johnson Trail",2252,-4,"","Johnson Trail"
+"1661","Potter Interp. Trail",2253,4182,"",NA
+"1662","Johnson Trail",2254,-4,"","Johnson Trail"
+"1663","Johnson Trail",2255,-4,"","Johnson Trail"
+"1664","So Potter Ridge",2256,4186,"",NA
+"1665","Potter Mchugh Ridge",2257,4188,"",NA
+"1666","Johnson Trail",2258,-4,"","Johnson Trail"
+"1667","Johnson Trail",2259,-4,"","Johnson Trail"
+"1668","Grass Trail",2260,3532,"",NA
+"1669","Grass Trail",2261,3533,"",NA
+"1670","Bog Trail",2262,3545,"","Hillside Ski Trails"
+"1671","Powerline/near Point",2263,3606,"","Powerline"
+"1672","Powerline/near Point",2264,1980,"","Powerline"
+"1673","Powerline/near Point",2265,1982,"","Powerline"
+"1674","Powerline/gasline",2266,3996,"","Powerline"
+"1675","Powerline/gasline",2267,3931,"","Powerline"
+"1676","Powerline/near Point",2268,3455,"","Powerline"
+"1677","Powerline/near Point",2269,3623,"","Powerline"
+"1678","Powerline/near Point",2270,3320,"","Powerline"
+"1679","Powerline/near Point",2271,3473,"","Powerline"
+"1680","Powerline/near Point",2272,3920,"","Powerline"
+"1681","Powerline/near Point",2273,3663,"","Powerline"
+"1682","Powerline/gasline",2274,3955,"","Powerline"
+"1683","Powerline/gasline",2275,4008,"","Powerline"
+"1684","Powerline/gasline",2276,4115,"","Powerline"
+"1685","Powerline/near Point",2277,4528,"","Powerline"
+"1686","Powerline/near Point",2278,3993,"","Powerline"
+"1687","South Fork Rim",2279,3887,"",NA
+"1688","Powerline/gasline",2280,3984,"","Powerline"
+"1689","Powerline/near Point",2281,4339,"","Powerline"
+"1690","Powerline/gasline",2282,4015,"","Powerline"
+"1691","Powerline/near Point",2283,3670,"","Powerline"
+"1692","Powerline/near Point",2284,4002,"","Powerline"
+"1693","Powerline/gasline",2285,4003,"","Powerline"
+"1694","South Fork Rim",2286,3897,"",NA
+"1695","Denali View",2287,3898,"",NA
+"1696","South Fork Rim",2288,3899,"",NA
+"1697","Alder Trail",2289,3900,"",NA
+"1698","South Fork Rim",2290,3901,"",NA
+"1699","Alder Trail",2291,3902,"",NA
+"1700","Powerline/near Point",2292,4771,"","Powerline"
+"1701","Cuddy Family Midtown Park Loop",2293,0,"","Cuddy Family Midtown Park"
+"1702","Alder Trail",2294,3906,"",NA
+"1703","Bog Trail",2295,3546,"","Hillside Ski Trails"
+"1704","Cuddy Family Midtown Park Loop",2296,0,"","Cuddy Family Midtown Park"
+"1705","Hillside Loop",2297,3549,"","Hillside Ski Trails"
+"1706","Cuddy Family Midtown Park Loop",2298,0,"","Cuddy Family Midtown Park"
+"1707","Cuddy Family Midtown Park Loop",2299,0,"","Cuddy Family Midtown Park"
+"1708","Cuddy Family Midtown Park Loop",2300,0,"","Cuddy Family Midtown Park"
+"1709","Cuddy Family Midtown Park Loop",2301,0,"","Cuddy Family Midtown Park"
+"1710","Cuddy Family Midtown Park Loop",2302,0,"","Cuddy Family Midtown Park"
+"1711","Cuddy Family Midtown Park Loop",2303,0,"","Cuddy Family Midtown Park"
+"1712","Cuddy Family Midtown Park Loop",2304,0,"","Cuddy Family Midtown Park"
+"1713","Abbott Trail",2305,3685,"","Abbott Trail"
+"1714","Cuddy Family Midtown Park Loop",2306,0,"","Cuddy Family Midtown Park"
+"1715","Cuddy Family Midtown Park Loop",2307,0,"","Cuddy Family Midtown Park"
+"1716","Cuddy Family Midtown Park Loop",2308,0,"","Cuddy Family Midtown Park"
+"1717","Cuddy Family Midtown Park Loop",2309,0,"","Cuddy Family Midtown Park"
+"1718","Cuddy Family Midtown Park Loop",2310,0,"","Cuddy Family Midtown Park"
+"1719","Cuddy Family Midtown Park Loop",2311,0,"","Cuddy Family Midtown Park"
+"1720","Cuddy Family Midtown Park Loop",2312,0,"","Cuddy Family Midtown Park"
+"1721","Abbott Trail",2313,3698,"",NA
+"1722","Abbott Trail",2314,3701,"","Abbott Trail"
+"1723","Cuddy Family Midtown Park Loop",2315,0,"","Cuddy Family Midtown Park"
+"1724","Cuddy Family Midtown Park Loop",2316,0,"","Cuddy Family Midtown Park"
+"1725","Cuddy Family Midtown Park Loop",2317,0,"","Cuddy Family Midtown Park"
+"1726","Abbott Trail",2318,3706,"","Abbott Trail"
+"1727","Unnamed",2319,3826,"","Ruth Arcand Trails"
+"1728","Unnamed",2320,162,"","Russian Jack Ski Trails"
+"1729","Unnamed",2321,2213,"",NA
+"1730","Unnamed",2322,519,"",NA
+"1731","Main",2323,4963,"","Connors Bog Skijor"
+"1732","Unnamed",2324,2649,"",NA
+"1733","Unnamed",2325,1846,"",NA
+"1734","Unnamed",2326,1196,"","Coastal Trail"
+"1735","Campbell Creek Trail",2327,2873,"","Campbell Creek Trail"
+"1736","Unnamed",2328,2378,"",NA
+"1737","Unnamed",2329,2323,"",NA
+"1738","Unnamed",2330,483,"",NA
+"1739","Unnamed",2331,3719,"",NA
+"1740","Unnamed",2332,1712,"",NA
+"1741","Unnamed",2333,3841,"","Ruth Arcand Trails"
+"1742","Denali View",2334,3918,"",NA
+"1743","South Fork Rim",2335,3922,"",NA
+"1744","Tikishla Park Trail",2337,3942,"",NA
+"1745","Hillside Loop",2338,3630,"","Hillside Ski Trails"
+"1746","Hillside Loop",2339,3632,"","Hillside Ski Trails"
+"1747","Junior Nordic Loop",2340,3634,"","Hillside Ski Trails"
+"1748","Grass Trail",2341,3635,"",NA
+"1749","Panorama View",2342,3791,"",NA
+"1750","Virgin Creek Trail System",2343,4565,"","Girdwood Trails"
+"1751","The Burn Lighted Loop",2344,3641,"","Hillside Ski Trails"
+"1752","Junior Nordic Loop",2345,3642,"","Hillside Ski Trails"
+"1753","Hillside Loop",2346,3643,"","Hillside Ski Trails"
+"1754","The Burn Lighted Loop",2347,3647,"","Hillside Ski Trails"
+"1755","Abbott Trail",2348,3655,"","Abbott Trail"
+"1756","Junior Nordic Loop",2349,3657,"","Hillside Ski Trails"
+"1757","Abbott Trail",2350,3658,"",NA
+"1758","Abbott Trail",2351,3662,"","Abbott Trail"
+"1759","Hillside Loop",2352,3666,"","Hillside Ski Trails"
+"1760","South Fork Rim",2353,3669,"",NA
+"1761","Abbott Trail",2354,3673,"","Abbott Trail"
+"1762","Winner Creek Trail",2355,4237,"","Girdwood Trails"
+"1763","California Creek Trail",2356,4238,"","Girdwood Trails"
+"1764","Winner Creek Trail",2357,4239,"","Girdwood Trails"
+"1765","Moose Meadow Trail",2358,4241,"","Girdwood Trails"
+"1766","Athabascan Physics Trail",2359,4242,"","Girdwood Trails"
+"1767","Iditarod Trail",2360,4243,"","Girdwood Trails"
+"1768","Tiny Creek Trails",2361,4244,"","Girdwood Trails"
+"1769","Tiny Creek Trails",2362,4245,"","Girdwood Trails"
+"1770","Athabascan Physics Trail",2363,4246,"","Girdwood Trails"
+"1771","California Creek Trail",2364,4249,"","Girdwood Trails"
+"1772","Preliminary Iditarod Realignment (2002)",2365,4250,"","Girdwood Trails"
+"1773","Tiny Creek Trails",2366,4253,"","Girdwood Trails"
+"1774","Winner Creek Trail",2367,4254,"","Girdwood Trails"
+"1775","Preliminary Iditarod Realignment (2002)",2368,4262,"","Girdwood Trails"
+"1776","Alyeska Basin Subdivision Trails",2369,4265,"","Girdwood Trails"
+"1777","Beaver Pond Trail",2370,4266,"","Girdwood Trails"
+"1778","Virgin Creek Trail System",2371,4267,"","Girdwood Trails"
+"1779","RC Meadow 3",2372,4036,"",NA
+"1780","RC Meadow 3",2373,4038,"",NA
+"1781","RC Meadow 3",2374,4042,"",NA
+"1782","Mud Bog Trail",2375,4070,"",NA
+"1783","Connect",2376,4071,"",NA
+"1784","Mud Bog Trail",2377,4074,"",NA
+"1785","Sec 36 Hmstd Rd",2378,4079,"",NA
+"1786","School",2379,4080,"",NA
+"1787","Campbell Creek Trail",2384,-6,"","Campbell Creek Trail"
+"1788","Nordic Trail",2385,4693,"","Girdwood Trails"
+"1789","Mud Bog Trail",2387,4696,"",NA
+"1790","Campbell Creek Trail",2394,-6,"","Campbell Creek Trail"
+"1791","Campbell Creek Trail",2396,-6,"","Campbell Creek Trail"
+"1792","Campbell Creek Trail",2401,3251,"","Campbell Creek Trail"
+"1793","14 Mile Loop",2402,4804,"",NA
+"1794","Campbell Creek Trail",2403,3329,"","Campbell Creek Trail"
+"1795","Unnamed",2404,4488,"",NA
+"1796","Unnamed",2410,3737,"",NA
+"1797","Hillside Loop",2411,3696,"","Hillside Ski Trails"
+"1798","Glenn Hwy. Trail",2413,4572,"",NA
+"1799","Glenalps View Loop",2415,4010,"",NA
+"1800","Glenalps View Loop",2416,4010,"",NA
+"1801","Inbound",2417,4715,"","Mirror Lake Ski Trails"
+"1802","Inbound",2418,4715,"","Mirror Lake Ski Trails"
+"1803","Soccer Field",2419,48,"","Mirror Lake Ski Trails"
+"1804","Soccer Field",2420,48,"","Mirror Lake Ski Trails"
+"1805","Hill Topper Loop",2421,18,"","Mirror Lake Ski Trails"
+"1806","Hill Topper Loop",2422,18,"","Mirror Lake Ski Trails"
+"1807","To Lake",2423,4985,"","Connors Bog Skijor"
+"1808","Southwest",2424,4986,"","Connors Bog Skijor"
+"1809","along lake to south",2425,4987,"","Connors Bog Skijor"
+"1810","Minnesota Moose Loop",2426,5006,"","Connors Bog Skijor"
+"1811","Outgoing Trail",2428,4293,"",NA
+"1812","Campbell Creek Trail",2429,-6,"","Campbell Creek Trail"
+"1813","2.5 Km Loop",2430,4311,"",NA
+"1814","2.5 Km Loop",2431,4313,"",NA
+"1815","2.5 Km Loop",2432,4314,"",NA
+"1816","2.1 Km Loop",2433,4321,"",NA
+"1817","2.5 Km Loop",2434,4322,"",NA
+"1818","Coastal Trail",2435,-2,"","Coastal Trail"
+"1819","Coastal Trail",2436,-2,"","Coastal Trail"
+"1820","Spencer Loop",2437,4337,"","Hillside Ski Trails"
+"1821","Upper Gasline Trail",2438,4338,"",NA
+"1822","South Fork Rim",2439,4340,"",NA
+"1823","Bartlett",2440,343,"","Bartlett Ski Trails"
+"1824","Woodway Loop Trail",2441,2626,"",NA
+"1825","Woodway Loop Trail",2442,2626,"",NA
+"1826","Woodway Loop Trail",2443,2626,"",NA
+"1827","RC Meadow 5",2444,4043,"",NA
+"1828","Little Rc Gully Route",2445,4151,"",NA
+"1829","Upper Moen",2446,4155,"",NA
+"1830","Southside Switchback",2447,4156,"",NA
+"1831","Southside Switchback",2448,4157,"",NA
+"1832","Southside Switchback",2449,4160,"",NA
+"1833","North Gasline Trail",2450,4418,"",NA
+"1834","Iditarod Trail",2452,3960,"","Girdwood Trails"
+"1835","Hand Tram Trail",2453,3971,"","Girdwood Trails"
+"1836","White Spruce",2454,3978,"",NA
+"1837","Prospect/middle Fork",2455,3982,"",NA
+"1838","Middle Fork",2456,3983,"",NA
+"1839","Upper Huffman Access",2457,3997,"",NA
+"1840","Glen Alps To Powerline A",2458,4009,"",NA
+"1841","Glenalps To Powerline B",2459,4011,"",NA
+"1842","Flattop",2460,4023,"",NA
+"1843","Flattop Option",2461,4024,"",NA
+"1844","Rabbit Creek Greenbelt",2462,4025,"",NA
+"1845","RC Meadow 5",2463,4026,"",NA
+"1846","Rabbit Creek Greenbelt",2464,4027,"",NA
+"1847","Cannonrd",2465,4028,"",NA
+"1848","RC Spur",2466,4029,"",NA
+"1849","Rabbit Creek Greenbelt",2467,4030,"",NA
+"1850","RC Meadow 2",2468,4031,"",NA
+"1851","Rabbit Creek Greenbelt",2469,4032,"",NA
+"1852","Prator Spur",2470,4044,"",NA
+"1853","East Boundary Trail",2472,4047,"",NA
+"1854","RC Meadow 5",2473,4048,"",NA
+"1855","N. Picket Trail",2474,4049,"",NA
+"1856","RC Meadow 1",2475,4050,"",NA
+"1857","RC Meadow 2",2476,4051,"",NA
+"1858","RC Meadow 1",2477,4052,"",NA
+"1859","RC Meadow 1",2478,4053,"",NA
+"1860","Real Ridge",2479,4057,"",NA
+"1861","East Boundary Trail",2480,4058,"",NA
+"1862","Ridge Loop",2481,4059,"",NA
+"1863","Flattop",2482,4061,"",NA
+"1864","Real Ridge",2483,4062,"",NA
+"1865","Ridge Loop",2484,4063,"",NA
+"1866","Mud Bog Trail",2485,4064,"",NA
+"1867","Ridge Loop",2486,4065,"",NA
+"1868","Mud Bog Trail",2487,4066,"",NA
+"1869","Picket Spur Trail",2488,4067,"",NA
+"1870","Picket Spur Trail",2489,4068,"",NA
+"1871","Connect",2490,4069,"",NA
+"1872","North Gasline/powerline Trail",2491,4381,"",NA
+"1873","Ship Creek Trail",2492,0,"","Ship Creek Trail"
+"1874","Unnamed",2493,3578,"",NA
+"1875","Moose Hill",2494,4385,"","Kincaid Ski Trails"
+"1876","Randys Loop",2495,3554,"","Hillside Ski Trails"
+"1877","Randys Loop",2496,3560,"","Hillside Ski Trails"
+"1878","Unnamed",2497,3537,"","Hillside Ski Trails"
+"1879","Unnamed",2498,3603,"",NA
+"1880","Randys Loop",2499,3536,"","Hillside Ski Trails"
+"1881","Ship Creek",2500,452,"",NA
+"1882","Unnamed",2501,4581,"",NA
+"1883","Unnamed",2502,3588,"",NA
+"1884","Unnamed",2503,3569,"","Hillside Ski Trails"
+"1885","Unnamed",2504,3616,"",NA
+"1886","Abbott Trail",2505,3615,"","Abbott Trail"
+"1887","Unnamed",2506,3541,"",NA
+"1888","Unnamed",2507,3539,"",NA
+"1889","Randys Loop",2508,3536,"","Hillside Ski Trails"
+"1890","Coastal Trail",2509,-2,"","Coastal Trail"
+"1891","Ship Creek Trail",2510,0,"","Ship Creek Trail"
+"1892","Ship Creek Trail",2511,0,"","Ship Creek Trail"
+"1893","7.5 Km",2512,4482,"","Mirror Lake Ski Trails"
+"1894","Moose Ridge Loop",2513,4485,"",NA
+"1895","East Boundary Trail",2514,4493,"",NA
+"1896","In Cutoff To H",2516,4510,"","Mirror Lake Ski Trails"
+"1897","2.5 Km",2517,4529,"","Mirror Lake Ski Trails"
+"1898","Nordic Trail",2518,4737,"","Girdwood Trails"
+"1899","Unnamed",2519,4274,"",NA
+"1900","Unnamed",2520,4275,"",NA
+"1901","Dimond (North Side)",2521,3729,"",NA
+"1902","Hillside Loop",2523,3694,"","Hillside Ski Trails"
+"1903","Campbell Creek Trail",2527,2109,"","Campbell Creek Trail"
+"1904","Outgoing Trail",2528,4297,"",NA
+"1905","Campbell Creek Trail",2529,-6,"","Campbell Creek Trail"
+"1906","Unnamed",2530,4272,"",NA
+"1907","Unnamed",2531,4333,"",NA
+"1908","Unnamed",2532,4270,"",NA
+"1909","Unnamed",2533,4278,"",NA
+"1910","Unnamed",2534,1,"",NA
+"1911","Dimond (North Side)",2535,3378,"",NA
+"1912","Unnamed",2536,4332,"",NA
+"1913","Johnson Trail",2537,-4,"","Johnson Trail"
+"1914","Unnamed",2538,4682,"",NA
+"1915","Tiny Creek Trails",2542,4255,"","Girdwood Trails"
+"1916","Dimond (North Side)",2554,3380,"",NA
+"1917","Inner Lake Loop",2561,4622,"","Kincaid Ski Trails"
+"1918","Southpark Lp",2562,4626,"",NA
+"1919","Christy Loop",2563,100,"","Beech Lake Ski Trails"
+"1920","Christy Loop",2564,100,"","Beech Lake Ski Trails"
+"1921","Mama's Loop",2565,114,"","Beech Lake Ski Trails"
+"1922","Mama's Loop",2566,114,"","Beech Lake Ski Trails"
+"1923","Hill Loop",2567,293,"","Beech Lake Ski Trails"
+"1924","Bartlett",2568,330,"","Bartlett Ski Trails"
+"1925","Unnamed",2569,4281,"",NA
+"1926","Spencer Loop",2571,4791,"",NA
+"1927","Unnamed",2572,0,"",NA
+"1928","Campbell Creek Trail",2574,0,"","Campbell Creek Trail"
+"1929","Campbell Creek Trail",2575,0,"","Tour of Anchorage"
+"1930","Unnamed",2579,0,"",NA
+"1931","Campbell Creek Trail",2583,-6,"","Campbell Creek Trail"
+"1932","Abbott Trail",2585,3704,"","Abbott Trail"
+"1933","Dimond (South Side)",2589,3406,"",NA
+"1934","Campbell Creek Trail",2590,3331,"","Campbell Creek Trail"
+"1935","Unnamed",2591,4789,"",NA
+"1936","UAA Ski",2592,4978,"",NA
+"1937","SLEDING HILL",2593,4952,"","Connors Bog Skijor"
+"1938","to main",2594,4953,"","Connors Bog Skijor"
+"1939","to main",2595,4958,"","Connors Bog Skijor"
+"1940","Spruce Loop",2596,4962,"","Connors Bog Skijor"
+"1941","Along Lake",2597,4972,"","Connors Bog Skijor"
+"1942","Loop",2598,4978,"","Connors Bog Skijor"
+"1943","Loop",2599,4979,"","Connors Bog Skijor"
+"1944","To Lake",2600,4982,"","Connors Bog Skijor"
+"1945","Mchugh",2601,4193,"",NA
+"1946","Johnson Trail",2602,-4,"","Johnson Trail"
+"1947","Johnson Trail",2603,-4,"","Johnson Trail"
+"1948","Johnson Trail",2604,-4,"","Johnson Trail"
+"1949","Mchugh Creek Pedestrian",2605,4201,"",NA
+"1950","Mchugh Creek Pedestrian",2606,4202,"",NA
+"1951","Winner Creek Trail",2607,4211,"","Girdwood Trails"
+"1952","Johnson Trail",2608,-4,"","Johnson Trail"
+"1953","Johnson Trail",2609,-4,"","Johnson Trail"
+"1954","Johnson Trail",2612,-4,"","Johnson Trail"
+"1955","Johnson Trail",2613,-4,"","Johnson Trail"
+"1956","Johnson Trail",2614,-4,"","Johnson Trail"
+"1957","Heights Hill Trail",2622,4699,"",NA
+"1958","Open Bog Trail",2623,4718,"",NA
+"1959","Junkyard Hill",2625,4755,"","Kincaid Ski Trails"
+"1960","In Far To Cutoff",2627,4,"","Mirror Lake Ski Trails"
+"1961","Existing Ridge Trail",2628,21,"",NA
+"1962","U-turn Cut Thru",2629,24,"","Mirror Lake Ski Trails"
+"1963","Bottom Cut Thru",2630,36,"","Mirror Lake Ski Trails"
+"1964","Centennial",2631,436,"","Centennial Park Trails"
+"1965","Ship Creek",2632,446,"",NA
+"1966","UAA Ski",2633,209,"","Tour of Anchorage"
+"1967","Junior Nordic Loop",2634,4371,"","Hillside Ski Trails"
+"1968","Campbell Creek Trail",2635,-6,"","Campbell Creek Trail"
+"1969","Unnamed",2636,3621,"",NA
+"1970","Centennial",2637,413,"","Centennial Park Trails"
+"1971","Centennial",2638,415,"","Centennial Park Trails"
+"1972","Centennial",2639,418,"","Centennial Park Trails"
+"1973","Campbell Creek Trail",2640,-6,"","Campbell Creek Trail"
+"1974","Unnamed",2641,3725,"",NA
+"1975","Randys Loop",2643,3571,"","Hillside Ski Trails"
+"1976","Abbott Trail",2644,3602,"","Abbott Trail"
+"1977","Randys Loop",2645,3612,"","Hillside Ski Trails"
+"1978","Abbott Trail",2646,3715,"","Abbott Trail"
+"1979","Ship Creek",2647,454,"",NA
+"1980","Unnamed",2648,3661,"","Abbott Trail"
+"1981","Fish Creek",2652,1835,"",NA
+"1982","Unnamed",2653,3601,"",NA
+"1983","Ship Creek Trail",2654,0,"","Ship Creek Trail"
+"1984","Unnamed",2655,3540,"",NA
+"1985","Randys Loop",2657,3522,"","Hillside Ski Trails"
+"1986","Coastal Trail",2659,782,"","Coastal Trail"
+"1987","Randys Loop",2660,3570,"","Hillside Ski Trails"
+"1988","Randys Loop",2661,3554,"","Hillside Ski Trails"
+"1989","Ship Creek",2662,453,"",NA
+"1990","Old Rondy Trail",2663,4354,"","Tour of Anchorage"
+"1991","Moose Track Trail",2664,4355,"",NA
+"1992","Woodway Loop Trail",2665,4357,"",NA
+"1993","Abbott Trail",2667,4370,"","Abbott Trail"
+"1994","Out Cut To Far H",2668,4372,"","Mirror Lake Ski Trails"
+"1995","Randys Loop",2669,3502,"","Hillside Ski Trails"
+"1996","Unnamed",2670,3710,"","Abbott Trail"
+"1997","Randys Loop",2671,3529,"","Hillside Ski Trails"
+"1998","Ship Creek Trail",2672,0,"",NA
+"1999","Unnamed",2673,3547,"",NA
+"2000","Unnamed",2674,29,"","Mirror Lake Ski Trails"
+"2001","ER Parks & Rec/HLB Trail",2683,0,"",NA
+"2002","ER Parks & Rec/HLB Trail",2684,0,"",NA
+"2003","Along Lake",2686,4976,"","Connors Bog Skijor"
+"2004","Minnesota Moose Loop",2687,5004,"","Connors Bog Skijor"
+"2005","Minnesota Moose Loop",2688,5005,"","Connors Bog Skijor"
+"2006","Tank Trail",2689,4317,"",NA
+"2007","Tank Trail",2690,4319,"",NA
+"2008","Tank Trail",2691,4320,"",NA
+"2009","Spencer Loop",2692,4336,"","Hillside Ski Trails"
+"2010","Tour Of Anchorage",2693,4353,"","Tour of Anchorage"
+"2011","Viewpoint Trail",2694,4356,"",NA
+"2012","Lake Loop",2695,4378,"","Kincaid Ski Trails"
+"2013","Unnamed",2696,2769,"","Kincaid Other Trails"
+"2014","Unnamed",2697,842,"",NA
+"2015","Unnamed",2698,2436,"",NA
+"2016","Unnamed",2699,2476,"","Kincaid Other Trails"
+"2017","Unnamed",2700,2916,"",NA
+"2018","Unnamed",2701,3371,"","Kincaid Other Trails"
+"2019","Unnamed",2702,2684,"",NA
+"2020","Unnamed",2703,815,"","Russian Jack Ski Trails"
+"2021","Unnamed",2704,3393,"","Kincaid Other Trails"
+"2022","Unnamed",2705,2207,"",NA
+"2023","Unnamed",2706,620,"",NA
+"2024","Unnamed",2707,3653,"",NA
+"2025","Unnamed",2708,833,"",NA
+"2026","Unnamed",2709,2326,"",NA
+"2027","Hill Loop",2710,293,"","Beech Lake Ski Trails"
+"2028","Bartlett",2711,343,"","Bartlett Ski Trails"
+"2029","North Pasture",2712,4648,"","Beech Lake Ski Trails"
+"2030","North Pasture",2713,92,"","Beech Lake Ski Trails"
+"2031","Tour Of Anchorage",2714,1589,"","Tour of Anchorage"
+"2032","Unnamed",2715,1417,"",NA
+"2033","Unnamed",2716,979,"",NA
+"2034","Off Leash Trail",2717,2978,"",NA
+"2035","Chalet Loop",2718,2990,"","Kincaid Ski Trails"
+"2036","Spencer Loop",2719,3411,"","Hillside Ski Trails"
+"2037","Hillside Loop",2720,3595,"","Hillside Ski Trails"
+"2038","Biathalon Loop",2721,3163,"","Kincaid Ski Trails"
+"2039","Old Six",2722,3166,"","Kincaid Ski Trails"
+"2040","Lekisch Loop",2723,3185,"","Kincaid Ski Trails"
+"2041","Unnamed",2724,462,"",NA
+"2042","Unnamed",2725,1943,"",NA
+"2043","Unnamed",2726,957,"","Russian Jack Ski Trails"
+"2044","Unnamed",2727,4386,"",NA
+"2045","Campbell Creek Trail",2728,3556,"","Campbell Creek Trail"
+"2046","Unnamed",2729,571,"",NA
+"2047","Unnamed",2730,3214,"",NA
+"2048","Unnamed",2731,769,"",NA
+"2049","Unnamed",2732,265,"","Beech Lake Ski Trails"
+"2050","Unnamed",2733,4670,"","Kincaid Other Trails"
+"2051","Unnamed",2734,569,"",NA
+"2052","Unnamed",2735,4392,"",NA
+"2053","Unnamed",2736,1718,"",NA
+"2054","Unnamed",2737,471,"",NA
+"2055","Mahaffey/APU",2738,1386,"",NA
+"2056","Unnamed",2739,2108,"",NA
+"2057","Unnamed",2740,4799,"","Russian Jack Ski Trails"
+"2058","Unnamed",2741,866,"","Russian Jack Ski Trails"
+"2059","Unnamed",2742,3263,"","Kincaid Ski Trails"
+"2060","Jodhpur Loop",2743,3315,"","Kincaid Ski Trails"
+"2061","Powerline",2744,4970,"","Connors Bog Skijor"
+"2062","Unnamed",2745,570,"",NA
+"2063","Goose Lake Trail",2746,1224,"",NA
+"2064","Gasline Trail",2747,2073,"",NA
+"2065","Unnamed",2748,2614,"",NA
+"2066","Mahaffey/APU",2749,1308,"",NA
+"2067","Unnamed",2750,2304,"",NA
+"2068","Unnamed",2751,3099,"",NA
+"2069","Unnamed",2752,840,"",NA
+"2070","Campbell Creek Trail",2753,2061,"","Campbell Creek Trail"
+"2071","Gasline Trail",2754,1663,"",NA
+"2072","Unnamed",2755,931,"","Russian Jack Ski Trails"
+"2073","Unnamed",2756,4999,"","Connors Bog Skijor"
+"2074","Unnamed",2757,1333,"",NA
+"2075","Unnamed",2758,763,"","Russian Jack Ski Trails"
+"2076","Unnamed",2759,129,"","Beech Lake Ski Trails"
+"2077","Unnamed",2760,3196,"",NA
+"2078","Unnamed",2761,3458,"",NA
+"2079","Mahaffey/APU",2762,1491,"",NA
+"2080","Unnamed",2763,1839,"",NA
+"2081","Unnamed",2764,3771,"","Ruth Arcand Trails"
+"2082","Unnamed",2765,3894,"","Ruth Arcand Trails"
+"2083","Unnamed",2766,639,"",NA
+"2084","Unnamed",2767,3800,"","Ruth Arcand Trails"
+"2085","Unnamed",2768,3594,"",NA
+"2086","Unnamed",2769,634,"",NA
+"2087","Unnamed",2770,3817,"","Ruth Arcand Trails"
+"2088","Unnamed",2771,1193,"",NA
+"2089","Unnamed",2772,4769,"","Kincaid Other Trails"
+"2090","Unnamed",2773,706,"",NA
+"2091","Unnamed",2774,2546,"",NA
+"2092","Unnamed",2775,449,"",NA
+"2093","Unnamed",2776,4415,"",NA
+"2094","Unnamed",2777,3767,"","Ruth Arcand Trails"
+"2095","Unnamed",2778,364,"",NA
+"2096","Unnamed",2779,807,"",NA
+"2097","Unnamed",2780,3269,"","Kincaid Ski Trails"
+"2098","Unnamed",2781,3318,"",NA
+"2099","Campbell Creek Trail",2782,3331,"","Campbell Creek Trail"
+"2100","Unnamed",2783,2870,"","Kincaid Other Trails"
+"2101","Unnamed",2784,3036,"","Kincaid Ski Trails"
+"2102","Unnamed",2785,291,"",NA
+"2103","Unnamed",2786,2193,"",NA
+"2104","Unnamed",2787,2696,"",NA
+"2105","Unnamed",2788,1316,"",NA
+"2106","Unnamed",2789,873,"",NA
+"2107","Campbell Creek Trail",2790,2205,"","Campbell Creek Trail"
+"2108","Unnamed",2791,1594,"",NA
+"2109","Unnamed",2792,2642,"",NA
+"2110","Mahaffey/APU",2793,1489,"",NA
+"2111","Payne Path",2794,4721,"",NA
+"2112","2.5 Km",2795,4694,"","Mirror Lake Ski Trails"
+"2113","RC Meadow 5",2796,4800,"",NA
+"2114","Soccer Field",2797,48,"","Mirror Lake Ski Trails"
+"2115","UAA Ski",2798,4977,"",NA
+"2116","To Lake",2799,4984,"","Connors Bog Skijor"
+"2117","Lake Loop",2800,4310,"","Kincaid Ski Trails"
+"2118","Tank Trail",2801,4316,"",NA
+"2119","Spencer Loop",2802,4368,"","Hillside Ski Trails"
+"2120","Unnamed",2803,4828,"",NA
+"2121","Unnamed",2804,4989,"","Connors Bog Skijor"
+"2122","Margauxs Loop",2805,2967,"","Kincaid Ski Trails"
+"2123","Unnamed",2806,2348,"",NA
+"2124","Unnamed",2807,3142,"","Kincaid Other Trails"
+"2125","Unnamed",2808,2450,"",NA
+"2126","Unnamed",2809,828,"",NA
+"2127","Gasline Trail",2810,4367,"","Gasline Trail"
+"2128","Unnamed",2811,2909,"","Kincaid Other Trails"
+"2129","Unnamed",2812,2507,"",NA
+"2130","Unnamed",2813,856,"",NA
+"2131","Campbell Creek Trail",2814,3286,"","Campbell Creek Trail"
+"2132","Unnamed",2815,116,"","Beech Lake Ski Trails"
+"2133","Unnamed",2816,939,"","Russian Jack Ski Trails"
+"2134","Unnamed",2817,4606,"","Connors Bog Skijor"
+"2135","Unnamed",2818,3835,"","Ruth Arcand Trails"
+"2136","Margauxs Loop",2819,2810,"","Kincaid Ski Trails"
+"2137","Unnamed",2820,4684,"",NA
+"2138","Unnamed",2821,1351,"",NA
+"2139","Unnamed",2822,1444,"",NA
+"2140","Unnamed",2823,2965,"",NA
+"2141","Unnamed",2824,4388,"",NA
+"2142","Unnamed",2825,104,"","Beech Lake Ski Trails"
+"2143","Unnamed",2826,2232,"",NA
+"2144","Unnamed",2827,255,"","Beech Lake Ski Trails"
+"2145","Main",2828,4996,"","Connors Bog Skijor"
+"2146","Unnamed",2829,2361,"",NA
+"2147","Unnamed",2830,3482,"",NA
+"2148","Unnamed",2831,788,"","Russian Jack Ski Trails"
+"2149","Unnamed",2832,1352,"",NA
+"2150","Margauxs Loop",2833,2831,"","Kincaid Ski Trails"
+"2151","Unnamed",2834,676,"",NA
+"2152","Mahaffey/APU",2835,1539,"",NA
+"2153","Unnamed",2836,2446,"",NA
+"2154","Jodhpur Loop",2837,3160,"","Kincaid Ski Trails"
+"2155","Unnamed",2838,1395,"",NA
+"2156","Unnamed",2839,1288,"",NA
+"2157","Unnamed",2840,703,"",NA
+"2158","Unnamed",2841,1046,"","Russian Jack Ski Trails"
+"2159","Unnamed",2842,3387,"","Kincaid Other Trails"
+"2160","Unnamed",2843,582,"",NA
+"2161","Unnamed",2844,3964,"","Kincaid Other Trails"
+"2162","Unnamed",2845,2117,"",NA
+"2163","Unnamed",2846,2618,"","Kincaid Other Trails"
+"2164","Unnamed",2847,739,"","Russian Jack Ski Trails"
+"2165","Unnamed",2848,244,"","Beech Lake Ski Trails"
+"2166","Unnamed",2849,4658,"","Kincaid Other Trails"
+"2167","Unnamed",2850,1133,"",NA
+"2168","Unnamed",2851,1038,"",NA
+"2169","Unnamed",2852,106,"","Beech Lake Ski Trails"
+"2170","Unnamed",2853,741,"",NA
+"2171","Unnamed",2854,1580,"",NA
+"2172","Unnamed",2855,991,"","Russian Jack Ski Trails"
+"2173","Unnamed",2856,975,"","Russian Jack Ski Trails"
+"2174","Unnamed",2857,1556,"",NA
+"2175","Unnamed",2858,821,"",NA
+"2176","Unnamed",2859,749,"","Russian Jack Ski Trails"
+"2177","Unnamed",2860,4540,"",NA
+"2178","Main",2861,4959,"","Connors Bog Skijor"
+"2179","Unnamed",2862,4624,"",NA
+"2180","Unnamed",2863,263,"","Beech Lake Ski Trails"
+"2181","Unnamed",2864,288,"","Beech Lake Ski Trails"
+"2182","Unnamed",2865,1874,"",NA
+"2183","Unnamed",2866,909,"",NA
+"2184","Unnamed",2867,345,"",NA
+"2185","Unnamed",2868,1476,"",NA
+"2186","Unnamed",2869,2422,"",NA
+"2187","Unnamed",2870,4465,"",NA
+"2188","Unnamed",2871,491,"",NA
+"2189","Unnamed",2872,285,"","Beech Lake Ski Trails"
+"2190","Margauxs Loop",2873,2802,"","Kincaid Ski Trails"
+"2191","Chester Creek Trail",2874,1067,"","Chester Creek Trail"
+"2192","Chester Creek Trail",2875,172,"","Chester Creek Trail"
+"2193","Unnamed",2876,1338,"",NA
+"2194","Unnamed",2877,4227,"",NA
+"2195","Unnamed",2878,3410,"",NA
+"2196","Unnamed",2879,4654,"",NA
+"2197","Unnamed",2880,1029,"","Russian Jack Ski Trails"
+"2198","Unnamed",2881,1499,"",NA
+"2199","Unnamed",2882,1664,"",NA
+"2200","Unnamed",2883,1859,"",NA
+"2201","Jodhpur Loop",2884,1973,"","Kincaid Ski Trails"
+"2202","Unnamed",2885,1285,"",NA
+"2203","Tank Trail",2886,2262,"",NA
+"2204","Elevator",2887,4131,"",NA
+"2205","Elevator",2888,4138,"",NA
+"2206","Athabascan Physics Trail",2889,4247,"","Girdwood Trails"
+"2207","Unnamed",2890,3815,"","Ruth Arcand Trails"
+"2208","Unnamed",2891,1796,"",NA
+"2209","Unnamed",2892,1164,"","Coastal Trail"
+"2210","Margauxs Loop",2893,3053,"","Kincaid Ski Trails"
+"2211","Unnamed",2894,984,"",NA
+"2212","Unnamed",2895,3330,"","Kincaid Other Trails"
+"2213","Unnamed",2896,3904,"","Ruth Arcand Trails"
+"2214","Unnamed",2897,2491,"",NA
+"2215","Unnamed",2898,3272,"","Kincaid Ski Trails"
+"2216","Unnamed",2899,2768,"",NA
+"2217","Unnamed",2900,679,"",NA
+"2218","Unnamed",2901,4491,"",NA
+"2219","Unnamed",2902,2855,"","Kincaid Other Trails"
+"2220","Unnamed",2903,585,"",NA
+"2221","Unnamed",2904,3935,"",NA
+"2222","Gasline Trail",2905,4330,"","Gasline Trail"
+"2223","Unnamed",2906,724,"","Russian Jack Ski Trails"
+"2224","Unnamed",2907,3748,"","Ruth Arcand Trails"
+"2225","Besh Lighted Loop",2908,3599,"","Hillside Ski Trails"
+"2226","Unnamed",2909,2276,"",NA
+"2227","Unnamed",2910,1459,"",NA
+"2228","Unnamed",2911,2258,"",NA
+"2229","Unnamed",2912,565,"",NA
+"2230","Unnamed",2913,148,"",NA
+"2231","Unnamed",2914,465,"",NA
+"2232","Unnamed",2915,3039,"",NA
+"2233","Unnamed",2916,3810,"","Ruth Arcand Trails"
+"2234","Unnamed",2917,370,"","Centennial Park Trails"
+"2235","Unnamed",2918,4602,"","Connors Bog Skijor"
+"2236","Unnamed",2919,3072,"","Kincaid Ski Trails"
+"2237","Unnamed",2920,195,"",NA
+"2238","Unnamed",2921,2331,"",NA
+"2239","Mahaffey/APU",2922,528,"","Tour of Anchorage"
+"2240","Unnamed",2923,3152,"",NA
+"2241","Besh Lighted Loop",2924,3514,"","Hillside Ski Trails"
+"2242","Unnamed",2925,4551,"","Beech Lake Ski Trails"
+"2243","Chester Creek Trail",2926,173,"","Chester Creek Trail"
+"2244","Campbell Creek Trail",2927,3294,"","Campbell Creek Trail"
+"2245","Unnamed",2928,851,"",NA
+"2246","Unnamed",2929,350,"",NA
+"2247","Besh Lighted Loop",2930,3427,"","Hillside Ski Trails"
+"2248","Unnamed",2931,4112,"",NA
+"2249","Unnamed",2932,1371,"",NA
+"2250","Unnamed",2933,4695,"",NA
+"2251","Unnamed",2934,557,"",NA
+"2252","Unnamed",2935,727,"",NA
+"2253","Unnamed",2936,2336,"",NA
+"2254","Chester Creek Trail",2937,963,"","Chester Creek Trail"
+"2255","Unnamed",2938,845,"",NA
+"2256","Powerline",2939,4969,"","Connors Bog Skijor"
+"2257","Unnamed",2940,2506,"",NA
+"2258","Unnamed",2941,1691,"","Kincaid Other Trails"
+"2259","Unnamed",2942,1069,"",NA
+"2260","Unnamed",2943,3230,"",NA
+"2261","Unnamed",2944,1407,"",NA
+"2262","Chester Creek Trail",2945,4286,"",NA
+"2263","Unnamed",2946,3757,"","Ruth Arcand Trails"
+"2264","Unnamed",2947,3833,"","Ruth Arcand Trails"
+"2265","Unnamed",2948,4708,"",NA
+"2266","Unnamed",2949,1310,"","Coastal Trail"
+"2267","Unnamed",2950,3631,"",NA
+"2268","Unnamed",2951,2576,"",NA
+"2269","Unnamed",2952,563,"",NA
+"2270","Tour Of Anchorage",2953,2423,"","Tour of Anchorage"
+"2271","Moose Ridge Trail",2954,2427,"",NA
+"2272","Moose Ridge Trail",2955,2444,"",NA
+"2273","Woodway Loop Trail",2956,2490,"",NA
+"2274","Outgoing Trail",2957,2496,"",NA
+"2275","Mize Loop",2958,2822,"","Kincaid Ski Trails"
+"2276","Coastal Trail",2959,-2,"","Coastal Trail"
+"2277","Six Mile Trail",2960,2518,"",NA
+"2278","Lake Loop",2961,2534,"","Kincaid Ski Trails"
+"2279","Viewpoint Trail",2962,2454,"",NA
+"2280","Viewpoint Trail",2963,2461,"",NA
+"2281","Campbell Creek Trail",2964,-6,"","Campbell Creek Trail"
+"2282","Unnamed",2965,2077,"",NA
+"2283","Unnamed",2966,4075,"",NA
+"2284","Unnamed",2967,4697,"","Kincaid Other Trails"
+"2285","Unnamed",2968,2076,"",NA
+"2286","Unnamed",2969,2973,"","Kincaid Other Trails"
+"2287","Unnamed",2970,4753,"",NA
+"2288","Unnamed",2971,525,"",NA
+"2289","Unnamed",2972,385,"",NA
+"2290","Unnamed",2973,2971,"",NA
+"2291","Unnamed",2974,610,"",NA
+"2292","Unnamed",2975,4344,"","Russian Jack Ski Trails"
+"2293","Jodhpur Loop",2976,3333,"","Kincaid Ski Trails"
+"2294","Unnamed",2977,558,"",NA
+"2295","Unnamed",2978,4334,"","Kincaid Other Trails"
+"2296","Unnamed",2979,3633,"",NA
+"2297","Unnamed",2980,1564,"",NA
+"2298","Unnamed",2981,97,"","Beech Lake Ski Trails"
+"2299","Unnamed",2982,4641,"",NA
+"2300","Unnamed",2983,1451,"",NA
+"2301","Mahaffey/APU",2984,1512,"","Tour of Anchorage"
+"2302","Unnamed",2985,3912,"","Ruth Arcand Trails"
+"2303","Unnamed",2986,4519,"",NA
+"2304","Unnamed",2987,2895,"","Kincaid Other Trails"
+"2305","Unnamed",2988,3453,"","Kincaid Other Trails"
+"2306","Unnamed",2989,2095,"",NA
+"2307","Unnamed",2990,2377,"",NA
+"2308","Unnamed",2991,1376,"",NA
+"2309","Unnamed",2992,4644,"",NA
+"2310","Campbell Creek Trail",2993,3285,"","Campbell Creek Trail"
+"2311","Unnamed",2994,2904,"","Kincaid Other Trails"
+"2312","Unnamed",2995,3697,"",NA
+"2313","Unnamed",2996,4302,"",NA
+"2314","Hillside Loop",2997,3688,"","Hillside Ski Trails"
+"2315","Hillside Loop",2998,3692,"","Hillside Ski Trails"
+"2316","Junior Nordic Loop",3000,3636,"","Hillside Ski Trails"
+"2317","Hillside Loop",3001,3646,"","Hillside Ski Trails"
+"2318","Junior Nordic Loop",3002,3648,"","Hillside Ski Trails"
+"2319","Junior Nordic Loop",3003,3660,"","Hillside Ski Trails"
+"2320","Junior Nordic Loop",3004,3664,"","Hillside Ski Trails"
+"2321","Unnamed",3005,4402,"",NA
+"2322","Unnamed",3006,1979,"",NA
+"2323","Unnamed",3007,3609,"",NA
+"2324","Unnamed",3008,1319,"",NA
+"2325","Unnamed",3009,3151,"",NA
+"2326","Unnamed",3010,993,"",NA
+"2327","Unnamed",3011,3812,"","Ruth Arcand Trails"
+"2328","Unnamed",3012,2144,"","Kincaid Other Trails"
+"2329","Unnamed",3013,4814,"",NA
+"2330","Unnamed",3014,1452,"",NA
+"2331","Unnamed",3015,2152,"",NA
+"2332","Unnamed",3016,4618,"",NA
+"2333","Unnamed",3017,1457,"",NA
+"2334","Unnamed",3018,779,"",NA
+"2335","Unnamed",3019,4179,"",NA
+"2336","Unnamed",3020,3014,"","Coastal Trail"
+"2337","Unnamed",3021,4387,"",NA
+"2338","Unnamed",3022,794,"",NA
+"2339","Unnamed",3023,606,"",NA
+"2340","Unnamed",3024,1864,"",NA
+"2341","Unnamed",3025,884,"","Russian Jack Ski Trails"
+"2342","Unnamed",3026,3466,"",NA
+"2343","Unnamed",3027,772,"",NA
+"2344","Unnamed",3028,715,"",NA
+"2345","Chester Creek Trail",3029,1142,"","Chester Creek Trail"
+"2346","Unnamed",3030,47,"",NA
+"2347","Unnamed",3031,2431,"",NA
+"2348","Unnamed",3032,906,"",NA
+"2349","Unnamed",3033,2429,"",NA
+"2350","Unnamed",3034,1462,"",NA
+"2351","10 Ridgetop",3035,6,"","Mirror Lake Ski Trails"
+"2352","Hill Topper Loop",3036,19,"","Mirror Lake Ski Trails"
+"2353","2.5 Km",3038,31,"","Mirror Lake Ski Trails"
+"2354","Logjam Trail",3039,34,"",NA
+"2355","Unnamed",3040,289,"",NA
+"2356","Black Bear Trail",3041,4329,"",NA
+"2357","Spencer Loop",3042,3445,"",NA
+"2358","Woodway Loop Trail",3043,2396,"",NA
+"2359","Homecoming/poleline",3044,2398,"",NA
+"2360","Mize Loop",3045,2922,"","Kincaid Ski Trails"
+"2361","Mize Loop",3046,2933,"","Kincaid Ski Trails"
+"2362","Lake Loop",3047,2584,"","Kincaid Ski Trails"
+"2363","Viewpoint Trail",3048,2593,"","Tour of Anchorage"
+"2364","Moose Track Trail",3049,2597,"",NA
+"2365","Lake Loop",3050,2625,"","Kincaid Ski Trails"
+"2366","Woodway Loop Trail",3051,2629,"",NA
+"2367","Moose Track Trail",3052,2648,"",NA
+"2368","Moose Track Trail",3053,2663,"",NA
+"2369","Coastal Trail",3054,-2,"","Coastal Trail"
+"2370","Inner Loop Trail",3056,2777,"",NA
+"2371","Mize Loop",3057,2860,"","Kincaid Ski Trails"
+"2372","Airstrip Loop",3058,2884,"",NA
+"2373","Abbott Trail",3059,3418,"","Hillside Ski Trails"
+"2374","Unnamed",3060,1156,"","Coastal Trail"
+"2375","Unnamed",3061,4537,"",NA
+"2376","Unnamed",3062,4832,"",NA
+"2377","Unnamed",3063,2465,"",NA
+"2378","Unnamed",3064,3265,"",NA
+"2379","Unnamed",3065,3798,"",NA
+"2380","Unnamed",3066,687,"","Russian Jack Ski Trails"
+"2381","Unnamed",3067,2609,"",NA
+"2382","Unnamed",3068,4178,"",NA
+"2383","Unnamed",3069,4587,"",NA
+"2384","Chester Creek Trail",3070,197,"","Chester Creek Trail"
+"2385","Unnamed",3071,1330,"",NA
+"2386","Unnamed",3072,523,"",NA
+"2387","Unnamed",3073,1166,"",NA
+"2388","Margauxs Loop",3074,2784,"","Kincaid Ski Trails"
+"2389","Unnamed",3075,2929,"","Kincaid Other Trails"
+"2390","Unnamed",3076,3435,"",NA
+"2391","Unnamed",3077,4514,"",NA
+"2392","Unnamed",3078,2039,"",NA
+"2393","Unnamed",3079,1827,"",NA
+"2394","Unnamed",3080,3787,"","Ruth Arcand Trails"
+"2395","Unnamed",3081,1562,"",NA
+"2396","Unnamed",3082,4820,"",NA
+"2397","Chester Creek Trail",3083,1155,"","Chester Creek Trail"
+"2398","Unnamed",3084,3908,"","Ruth Arcand Trails"
+"2399","Unnamed",3085,1039,"",NA
+"2400","Margauxs Loop",3086,3087,"","Kincaid Ski Trails"
+"2401","Unnamed",3087,2742,"",NA
+"2402","Unnamed",3088,3734,"",NA
+"2403","Unnamed",3089,2265,"",NA
+"2404","Unnamed",3090,3786,"","Ruth Arcand Trails"
+"2405","Unnamed",3091,3130,"","Kincaid Ski Trails"
+"2406","Unnamed",3092,1275,"",NA
+"2407","Unnamed",3093,705,"","Russian Jack Ski Trails"
+"2408","Margauxs Loop",3094,3050,"","Kincaid Ski Trails"
+"2409","Mahaffey/APU",3095,1437,"","Tour of Anchorage"
+"2410","Unnamed",3096,371,"","Centennial Park Trails"
+"2411","Unnamed",3097,264,"","Beech Lake Ski Trails"
+"2412","Unnamed",3098,667,"","Russian Jack Ski Trails"
+"2413","Unnamed",3099,488,"",NA
+"2414","Unnamed",3100,187,"","Russian Jack Ski Trails"
+"2415","Unnamed",3101,3495,"",NA
+"2416","Unnamed",3102,3145,"","Kincaid Other Trails"
+"2417","Unnamed",3103,3173,"",NA
+"2418","Unnamed",3104,1008,"",NA
+"2419","Unnamed",3105,3305,"","Kincaid Other Trails"
+"2420","Unnamed",3106,473,"",NA
+"2421","Unnamed",3107,3246,"",NA
+"2422","Bartlett",3108,330,"","Bartlett Ski Trails"
+"2423","Unnamed",3109,3644,"",NA
+"2424","Unnamed",3110,1035,"",NA
+"2425","Unnamed",3111,536,"",NA
+"2426","Unnamed",3112,4703,"",NA
+"2427","Unnamed",3113,4158,"",NA
+"2428","Unnamed",3114,1960,"",NA
+"2429","Unnamed",3115,2221,"",NA
+"2430","Margauxs Loop",3116,2760,"","Kincaid Ski Trails"
+"2431","Unnamed",3117,51,"",NA
+"2432","Unnamed",3118,969,"","Russian Jack Ski Trails"
+"2433","Unnamed",3119,2495,"",NA
+"2434","Unnamed",3120,2569,"",NA
+"2435","Unnamed",3121,354,"",NA
+"2436","Unnamed",3122,3822,"","Ruth Arcand Trails"
+"2437","Unnamed",3123,1780,"",NA
+"2438","Unnamed",3124,4542,"",NA
+"2439","Unnamed",3125,3772,"","Ruth Arcand Trails"
+"2440","Unnamed",3126,1762,"",NA
+"2441","Unnamed",3127,3958,"",NA
+"2442","Unnamed",3128,1620,"",NA
+"2443","Unnamed",3129,4487,"",NA
+"2444","Mahaffey/APU",3130,1228,"",NA
+"2445","Unnamed",3131,3213,"",NA
+"2446","Unnamed",3132,4822,"",NA
+"2447","Unnamed",3133,2481,"","Kincaid Other Trails"
+"2448","Unnamed",3134,1964,"",NA
+"2449","Besh Lighted Loop",3135,3398,"","Hillside Ski Trails"
+"2450","Mahaffey/APU",3136,1292,"",NA
+"2451","Unnamed",3137,1820,"",NA
+"2452","Moose Meadow Trail",3138,3031,"",NA
+"2453","Gladys Wood Trail",3139,3361,"",NA
+"2454","Chalet Loop",3140,4364,"","Kincaid Ski Trails"
+"2455","Rover's Run Trail",3141,4366,"",NA
+"2456","Chalet Loop",3143,3042,"","Kincaid Ski Trails"
+"2457","Horseshoe Loop",3145,3108,"","Kincaid Ski Trails"
+"2458","Old 3.9",3146,3154,"","Kincaid Ski Trails"
+"2459","Off Leash Trail",3147,2985,"",NA
+"2460","Unnamed",3148,646,"",NA
+"2461","Unnamed",3149,2162,"","Kincaid Other Trails"
+"2462","Unnamed",3150,1306,"",NA
+"2463","Unnamed",3151,52,"",NA
+"2464","Unnamed",3152,4539,"",NA
+"2465","Unnamed",3153,2550,"","Kincaid Other Trails"
+"2466","Unnamed",3154,1321,"",NA
+"2467","Unnamed",3155,1077,"",NA
+"2468","Main",3156,4614,"","Connors Bog Skijor"
+"2469","Unnamed",3157,283,"","Beech Lake Ski Trails"
+"2470","Margauxs Loop",3158,2845,"","Kincaid Ski Trails"
+"2471","Run Rover Run",3159,3016,"",NA
+"2472","Abbott Trail",3160,3456,"","Abbott Trail"
+"2473","Beaver Dam Trail",3161,2393,"",NA
+"2474","Arlene's Way",3162,2397,"","Kincaid Ski Trails"
+"2475","Airstrip Loop",3163,2938,"",NA
+"2476","2.5 Km Loop",3164,2939,"",NA
+"2477","Run Rover Run",3165,2545,"",NA
+"2478","14 Mile Loop",3166,2587,"",NA
+"2479","Homecoming/poleline",3167,2589,"",NA
+"2480","Rover's Run Trail",3168,2605,"",NA
+"2481","Inner Loop Trail",3169,2610,"",NA
+"2482","Moose Ridge Loop",3170,2678,"",NA
+"2483","Unnamed",3171,2944,"",NA
+"2484","Unnamed",3172,489,"",NA
+"2485","Unnamed",3173,3271,"",NA
+"2486","Unnamed",3174,1230,"",NA
+"2487","Unnamed",3175,2147,"","Kincaid Other Trails"
+"2488","Unnamed",3176,1296,"",NA
+"2489","Chester Creek Trail",3177,1021,"","Chester Creek Trail"
+"2490","Unnamed",3178,2267,"",NA
+"2491","Unnamed",3179,1353,"",NA
+"2492","Unnamed",3180,103,"","Beech Lake Ski Trails"
+"2493","Unnamed",3181,4369,"",NA
+"2494","Unnamed",3182,850,"",NA
+"2495","Unnamed",3183,4425,"",NA
+"2496","Unnamed",3184,1372,"",NA
+"2497","Unnamed",3185,4187,"",NA
+"2498","Unnamed",3186,4735,"",NA
+"2499","Unnamed",3187,1421,"",NA
+"2500","Unnamed",3188,659,"",NA
+"2501","Unnamed",3189,3463,"",NA
+"2502","Unnamed",3190,2748,"","Kincaid Other Trails"
+"2503","Powerline",3191,4988,"","Connors Bog Skijor"
+"2504","Unnamed",3192,1229,"",NA
+"2505","North Pasture",3193,83,"","Beech Lake Ski Trails"
+"2506","Chester Creek Trail",3194,-1,"","Chester Creek Trail"
+"2507","Tikishla Park Trail",3195,1135,"",NA
+"2508","Tikishla Park Trail",3196,1084,"",NA
+"2509","Centennial",3197,442,"","Centennial Park Trails"
+"2510","Ship Creek",3198,448,"",NA
+"2511","Ship Creek",3199,450,"",NA
+"2512","Unnamed",3200,674,"",NA
+"2513","Unnamed",3201,913,"","Russian Jack Ski Trails"
+"2514","Unnamed",3202,740,"","Russian Jack Ski Trails"
+"2515","Campbell Creek Trail",3203,3557,"",NA
+"2516","Unnamed",3204,955,"",NA
+"2517","Main",3205,4981,"","Connors Bog Skijor"
+"2518","Unnamed",3206,4394,"",NA
+"2519","Unnamed",3207,2881,"","Kincaid Other Trails"
+"2520","Unnamed",3208,2953,"","Kincaid Ski Trails"
+"2521","Unnamed",3209,1479,"",NA
+"2522","Unnamed",3210,1098,"",NA
+"2523","Besh Lighted Loop",3211,3487,"","Hillside Ski Trails"
+"2524","Unnamed",3212,3004,"",NA
+"2525","Off Leash Trail",3213,2989,"",NA
+"2526","North Gasline Trail",3214,2992,"",NA
+"2527","Unnamed",3215,2872,"","Kincaid Other Trails"
+"2528","Unnamed",3216,767,"","Russian Jack Ski Trails"
+"2529","Unnamed",3217,2920,"","Kincaid Other Trails"
+"2530","Unnamed",3218,178,"",NA
+"2531","Unnamed",3219,485,"",NA
+"2532","Unnamed",3220,822,"",NA
+"2533","Unnamed",3221,776,"",NA
+"2534","Unnamed",3222,2656,"","Kincaid Other Trails"
+"2535","Unnamed",3223,1975,"","Kincaid Other Trails"
+"2536","Unnamed",3224,1465,"",NA
+"2537","Margauxs Loop",3225,2902,"","Kincaid Ski Trails"
+"2538","Unnamed",3226,799,"","Russian Jack Ski Trails"
+"2539","Chester Creek Trail",3227,935,"","Chester Creek Trail"
+"2540","Campbell Creek Trail",3228,3565,"","Campbell Creek Trail"
+"2541","Unnamed",3229,1584,"",NA
+"2542","Unnamed",3230,3457,"",NA
+"2543","Chester Creek Trail",3231,932,"","Chester Creek Trail"
+"2544","Unnamed",3232,660,"","Russian Jack Ski Trails"
+"2545","Viewpoint Trail",3234,2765,"","Tour of Anchorage"
+"2546","Coastal Trail",3235,-2,"","Coastal Trail"
+"2547","Tashas Turn (connector)",3236,2805,"","Kincaid Ski Trails"
+"2548","Spencer Loop",3237,3417,"","Hillside Ski Trails"
+"2549","Johnson Trail",3238,-4,"","Johnson Trail"
+"2550","Unnamed",3239,4713,"",NA
+"2551","Unnamed",3240,1374,"",NA
+"2552","Mahaffey/APU",3241,1403,"",NA
+"2553","Unnamed",3242,994,"",NA
+"2554","Unnamed",3243,3184,"",NA
+"2555","Unnamed",3244,554,"",NA
+"2556","Unnamed",3245,1590,"",NA
+"2557","Margauxs Loop",3246,1678,"","Kincaid Ski Trails"
+"2558","Unnamed",3247,2260,"",NA
+"2559","Unnamed",3248,3956,"",NA
+"2560","Unnamed",3249,1245,"",NA
+"2561","Unnamed",3250,2264,"",NA
+"2562","Campbell Creek Trail",3251,3347,"","Campbell Creek Trail"
+"2563","Unnamed",3252,4139,"",NA
+"2564","Unnamed",3253,4518,"","Girdwood Trails"
+"2565","Unnamed",3254,232,"","Beech Lake Ski Trails"
+"2566","Unnamed",3255,808,"",NA
+"2567","Unnamed",3256,3135,"","Kincaid Ski Trails"
+"2568","Mahaffey/APU",3257,1527,"","Tour of Anchorage"
+"2569","Jodhpur Loop",3258,3327,"","Kincaid Ski Trails"
+"2570","Unnamed",3259,2616,"","Kincaid Other Trails"
+"2571","Unnamed",3260,2448,"",NA
+"2572","Unnamed",3261,3247,"","Kincaid Other Trails"
+"2573","Unnamed",3262,4640,"",NA
+"2574","Unnamed",3263,3479,"","Kincaid Other Trails"
+"2575","Unnamed",3264,714,"",NA
+"2576","Unnamed",3265,992,"","Russian Jack Ski Trails"
+"2577","Unnamed",3266,1320,"",NA
+"2578","Unnamed",3267,4085,"",NA
+"2579","Unnamed",3268,977,"",NA
+"2580","Unnamed",3269,1565,"",NA
+"2581","Mahaffey/APU",3270,1406,"","Tour of Anchorage"
+"2582","Unnamed",3271,3911,"","Ruth Arcand Trails"
+"2583","Unnamed",3272,819,"","Russian Jack Ski Trails"
+"2584","Unnamed",3273,2322,"",NA
+"2585","Unnamed",3274,2502,"","Kincaid Other Trails"
+"2586","Unnamed",3275,4484,"",NA
+"2587","Unnamed",3276,4801,"",NA
+"2588","Hillside Loop",3277,3667,"","Hillside Ski Trails"
+"2589","Glenn Hwy. Trail",3278,4611,"",NA
+"2590","Dimond (North Side)",3280,3382,"",NA
+"2591","Hillside Loop",3282,3696,"","Hillside Ski Trails"
+"2592","Unnamed",3283,2719,"","Kincaid Other Trails"
+"2593","Dimond (South Side)",3288,4585,"",NA
+"2594","Tank Trail",3290,1043,"",NA
+"2595","Dimond (South Side)",3292,3404,"",NA
+"2596","Tour Of Anchorage",3293,1585,"","Tour of Anchorage"
+"2597","Old Rondy Trail",3294,2164,"","Tour of Anchorage"
+"2598","Unnamed",3295,376,"",NA
+"2599","Abbott Trail",3297,3716,"","Abbott Trail"
+"2600","Unnamed",3299,3828,"","Ruth Arcand Trails"
+"2601","Unnamed",3300,3683,"",NA
+"2602","Jodhpur Loop",3301,3304,"","Kincaid Ski Trails"
+"2603","Panorama View",3302,3777,"",NA
+"2604","Lekisch Loop",3303,3172,"","Kincaid Ski Trails"
+"2605","Lekisch Loop",3304,3236,"","Kincaid Ski Trails"
+"2606","BLM Ridge",3305,3248,"","Hillside Ski Trails"
+"2607","Campbell Creek Trail",3306,-6,"","Campbell Creek Trail"
+"2608","Spencer Loop",3307,3303,"","Hillside Ski Trails"
+"2609","Old Six",3308,3310,"","Kincaid Ski Trails"
+"2610","Ice Box",3309,3313,"","Kincaid Ski Trails"
+"2611","Spencer Loop",3310,3351,"","Hillside Ski Trails"
+"2612","Ice Box",3311,3359,"","Kincaid Ski Trails"
+"2613","Unnamed",3312,233,"","Beech Lake Ski Trails"
+"2614","Unnamed",3313,3256,"",NA
+"2615","Unnamed",3314,661,"","Russian Jack Ski Trails"
+"2616","Unnamed",3315,625,"",NA
+"2617","Unnamed",3316,3949,"",NA
+"2618","Unnamed",3317,2747,"","Kincaid Other Trails"
+"2619","Unnamed",3318,3462,"",NA
+"2620","Main",3319,4977,"","Connors Bog Skijor"
+"2621","Chester Creek Trail",3320,789,"","Chester Creek Trail"
+"2622","Unnamed",3321,1014,"","Russian Jack Ski Trails"
+"2623","Unnamed",3322,2676,"",NA
+"2624","Unnamed",3323,475,"",NA
+"2625","Unnamed",3324,3864,"","Ruth Arcand Trails"
+"2626","Mahaffey/APU",3325,4351,"","Tour of Anchorage"
+"2627","Unnamed",3326,805,"",NA
+"2628","Unnamed",3327,2675,"",NA
+"2629","Gasline Trail",3328,1665,"",NA
+"2630","Unnamed",3329,522,"",NA
+"2631","Unnamed",3330,514,"",NA
+"2632","Unnamed",3331,2186,"",NA
+"2633","Unnamed",3332,2225,"",NA
+"2634","Unnamed",3333,1563,"",NA
+"2635","Unnamed",3334,612,"",NA
+"2636","Unnamed",3335,2343,"",NA
+"2637","Unnamed",3336,2808,"","Kincaid Other Trails"
+"2638","Unnamed",3337,728,"","Russian Jack Ski Trails"
+"2639","Unnamed",3338,2069,"",NA
+"2640","Unnamed",3339,3224,"","Kincaid Other Trails"
+"2641","Jodhpur Loop",3340,3105,"","Kincaid Ski Trails"
+"2642","Unnamed",3341,2438,"",NA
+"2643","Unnamed",3342,1794,"",NA
+"2644","Unnamed",3343,3241,"","Kincaid Other Trails"
+"2645","Unnamed",3344,3865,"","Ruth Arcand Trails"
+"2646","Chester Creek Trail",3345,941,"",NA
+"2647","Unnamed",3346,1354,"",NA
+"2648","Unnamed",3347,761,"",NA
+"2649","Unnamed",3348,3752,"","Ruth Arcand Trails"
+"2650","Unnamed",3349,2899,"",NA
+"2651","Unnamed",3350,961,"",NA
+"2652","Unnamed",3351,2540,"","Kincaid Other Trails"
+"2653","Unnamed",3352,1109,"",NA
+"2654","Unnamed",3353,2172,"","Kincaid Ski Trails"
+"2655","Unnamed",3354,3128,"",NA
+"2656","Unnamed",3355,2211,"",NA
+"2657","Unnamed",3356,1872,"",NA
+"2658","Unnamed",3357,4507,"",NA
+"2659","Unnamed",3358,3745,"","Ruth Arcand Trails"
+"2660","Unnamed",3359,1327,"",NA
+"2661","Centennial",3360,396,"","Centennial Park Trails"
+"2662","Glenn Hwy Trail",3361,-5,"","Glenn Hwy Trail"
+"2663","Centennial",3362,410,"","Centennial Park Trails"
+"2664","Tank Trail",3363,460,"",NA
+"2665","Chester Creek Trail",3364,-1,"","Chester Creek Trail"
+"2666","2.5 Km Loop",3365,2887,"",NA
+"2667","Iditarod Trail",3366,4224,"","Girdwood Trails"
+"2668","North Gasline/powerline Trail",3368,2179,"",NA
+"2669","Tour Of Anchorage",3369,2344,"",NA
+"2670","Airstrip Loop",3370,2575,"",NA
+"2671","Unnamed",3371,2070,"",NA
+"2672","Unnamed",3372,2718,"",NA
+"2673","Unnamed",3373,493,"",NA
+"2674","Unnamed",3374,3813,"","Ruth Arcand Trails"
+"2675","Unnamed",3375,81,"","Beech Lake Ski Trails"
+"2676","Unnamed",3376,1843,"",NA
+"2677","Unnamed",3377,947,"","Russian Jack Ski Trails"
+"2678","Unnamed",3378,1293,"",NA
+"2679","Main",3379,4965,"","Connors Bog Skijor"
+"2680","Unnamed",3380,4481,"",NA
+"2681","Unnamed",3381,2867,"","Kincaid Other Trails"
+"2682","Unnamed",3382,2204,"",NA
+"2683","Unnamed",3383,3007,"","Kincaid Other Trails"
+"2684","Unnamed",3384,636,"",NA
+"2685","Unnamed",3385,260,"","Beech Lake Ski Trails"
+"2686","Unnamed",3386,3868,"","Ruth Arcand Trails"
+"2687","Unnamed",3387,621,"",NA
+"2688","Unnamed",3388,4592,"",NA
+"2689","Chester Creek Trail",3389,1060,"","Chester Creek Trail"
+"2690","Unnamed",3390,3703,"",NA
+"2691","Richter Loop",3391,3497,"","Hillside Ski Trails"
+"2692","Randys Loop",3392,3505,"","Hillside Ski Trails"
+"2693","Randys Loop",3393,3516,"","Hillside Ski Trails"
+"2694","Randys Loop",3394,3523,"","Hillside Ski Trails"
+"2695","The Burn Lighted Loop",3395,3524,"","Hillside Ski Trails"
+"2696","Hillside Loop",3396,3528,"","Hillside Ski Trails"
+"2697","South Fork Rim",3397,3889,"",NA
+"2698","South Fork Rim",3398,3909,"",NA
+"2699","White Spruce",3399,3921,"",NA
+"2700","Unnamed",3400,864,"","Russian Jack Ski Trails"
+"2701","Unnamed",3401,3033,"",NA
+"2702","Unnamed",3402,533,"",NA
+"2703","Unnamed",3403,3559,"",NA
+"2704","Unnamed",3404,4632,"","Russian Jack Ski Trails"
+"2705","Unnamed",3405,4323,"",NA
+"2706","Unnamed",3406,768,"",NA
+"2707","Unnamed",3407,793,"",NA
+"2708","Goose Lake Trail",3408,1218,"",NA
+"2709","Unnamed",3409,2215,"",NA
+"2710","Unnamed",3410,2654,"",NA
+"2711","Unnamed",3411,3175,"","Kincaid Ski Trails"
+"2712","Unnamed",3412,1897,"",NA
+"2713","Campbell Creek Trail",3413,3452,"","Campbell Creek Trail"
+"2714","Unnamed",3414,269,"",NA
+"2715","Unnamed",3415,3844,"","Ruth Arcand Trails"
+"2716","Margauxs Loop",3416,1685,"","Kincaid Ski Trails"
+"2717","Jodhpur Loop",3417,3353,"","Kincaid Ski Trails"
+"2718","Unnamed",3418,1581,"",NA
+"2719","Unnamed",3419,3202,"",NA
+"2720","Unnamed",3420,2106,"",NA
+"2721","Unnamed",3421,2459,"",NA
+"2722","Goose Lake Trail",3422,1266,"",NA
+"2723","Unnamed",3423,602,"",NA
+"2724","Unnamed",3424,1402,"",NA
+"2725","Unnamed",3425,472,"",NA
+"2726","Unnamed",3426,956,"",NA
+"2727","Unnamed",3427,689,"",NA
+"2728","Unnamed",3428,863,"",NA
+"2729","Unnamed",3429,3267,"",NA
+"2730","Unnamed",3430,2191,"","Kincaid Other Trails"
+"2731","Unnamed",3431,4756,"",NA
+"2732","Unnamed",3432,1059,"",NA
+"2733","Unnamed",3433,2798,"",NA
+"2734","Unnamed",3434,971,"",NA
+"2735","Unnamed",3435,4289,"",NA
+"2736","Unnamed",3436,4395,"","Kincaid Other Trails"
+"2737","Chester Creek Trail",3437,1055,"","Chester Creek Trail"
+"2738","Unnamed",3438,2787,"",NA
+"2739","Unnamed",3439,189,"",NA
+"2740","Unnamed",3440,2789,"","Kincaid Other Trails"
+"2741","Unnamed",3441,4453,"",NA
+"2742","Eagle River High School Trail",3442,0,"",NA
+"2743","Unnamed",3443,698,"","Russian Jack Ski Trails"
+"2744","Unnamed",3444,4458,"","Kincaid Other Trails"
+"2745","Unnamed",3445,2647,"",NA
+"2746","Unnamed",3446,2848,"","Kincaid Other Trails"
+"2747","Unnamed",3447,4741,"",NA
+"2748","Unnamed",3448,3834,"","Ruth Arcand Trails"
+"2749","Unnamed",3449,382,"","Centennial Park Trails"
+"2750","Unnamed",3450,852,"","Russian Jack Ski Trails"
+"2751","Mahaffey/APU",3451,1433,"","Tour of Anchorage"
+"2752","Chester Creek Trail",3452,-1,"","Chester Creek Trail"
+"2753","Unnamed",3454,857,"",NA
+"2754","Unnamed",3455,1666,"",NA
+"2755","Margauxs Loop",3456,2947,"","Kincaid Ski Trails"
+"2756","Unnamed",3457,1063,"",NA
+"2757","Unnamed",3458,4103,"",NA
+"2758","Powerline",3459,4975,"","Connors Bog Skijor"
+"2759","Mahaffey/APU",3460,1214,"",NA
+"2760","Unnamed",3461,186,"","Russian Jack Ski Trails"
+"2761","Unnamed",3462,3754,"","Ruth Arcand Trails"
+"2762","Unnamed",3463,4446,"","Girdwood Trails"
+"2763","Unnamed",3464,2693,"",NA
+"2764","Unnamed",3465,1427,"",NA
+"2765","Unnamed",3466,2561,"",NA
+"2766","Besh Lighted Loop",3467,3513,"","Hillside Ski Trails"
+"2767","Unnamed",3468,3144,"","Kincaid Other Trails"
+"2768","Unnamed",3469,672,"",NA
+"2769","Unnamed",3470,271,"","Beech Lake Ski Trails"
+"2770","Unnamed",3471,1700,"",NA
+"2771","Margauxs Loop",3472,3009,"","Kincaid Ski Trails"
+"2772","Unnamed",3473,497,"","Russian Jack Ski Trails"
+"2773","Unnamed",3474,1480,"",NA
+"2774","Unnamed",3475,804,"",NA
+"2775","Unnamed",3476,3064,"","Kincaid Other Trails"
+"2776","Unnamed",3477,2439,"",NA
+"2777","Unnamed",3478,1001,"",NA
+"2778","Unnamed",3479,3049,"",NA
+"2779","Margauxs Loop",3480,2856,"","Kincaid Ski Trails"
+"2780","Unnamed",3481,131,"","Beech Lake Ski Trails"
+"2781","Unnamed",3482,3775,"","Ruth Arcand Trails"
+"2782","Abbott Trail",3483,3674,"","Abbott Trail"
+"2783","Tiny Creek Trails",3484,4248,"","Girdwood Trails"
+"2784","Tiny Creek Trails",3485,4251,"","Girdwood Trails"
+"2785","Unnamed",3486,3743,"","Ruth Arcand Trails"
+"2786","Campbell Creek Trail",3487,3292,"","Campbell Creek Trail"
+"2787","Unnamed",3488,2503,"","Kincaid Other Trails"
+"2788","Unnamed",3489,3689,"",NA
+"2789","Unnamed",3490,1649,"",NA
+"2790","Unnamed",3491,3746,"","Ruth Arcand Trails"
+"2791","Unnamed",3492,117,"","Beech Lake Ski Trails"
+"2792","Unnamed",3493,3226,"",NA
+"2793","Unnamed",3494,94,"","Beech Lake Ski Trails"
+"2794","Unnamed",3495,3717,"",NA
+"2795","Unnamed",3496,355,"","Centennial Park Trails"
+"2796","Besh Lighted Loop",3497,3574,"","Hillside Ski Trails"
+"2797","Unnamed",3498,239,"","Beech Lake Ski Trails"
+"2798","Unnamed",3499,1011,"","Coastal Trail"
+"2799","Unnamed",3500,4829,"",NA
+"2800","Unnamed",3501,190,"","Russian Jack Ski Trails"
+"2801","Unnamed",3502,2359,"",NA
+"2802","Unnamed",3503,1710,"",NA
+"2803","Powerline",3504,4971,"","Connors Bog Skijor"
+"2804","Unnamed",3505,2613,"",NA
+"2805","Unnamed",3506,1314,"",NA
+"2806","Mental Health Trust Loop Trail",3507,0,"",NA
+"2807","Mental Health Trust Loop Trail",3509,0,"",NA
+"2808","Mental Health Trust Loop Trail",3510,0,"",NA
+"2809","Mental Health Trust Loop Trail",3511,0,"",NA
+"2810","Rabbit Creek Greenbelt",3518,4022,"",NA
+"2811","East Boundary Trail",3519,4076,"",NA
+"2812","Cobblestone Hill Rd",3520,4095,"",NA
+"2813","View Rock Trail",3521,4100,"",NA
+"2814","E 172nd Trail",3522,4110,"",NA
+"2815","Airstrip Trail",3524,4123,"",NA
+"2816","Southwest",3525,4991,"","Connors Bog Skijor"
+"2817","Lower Moen Hmstd",3526,4163,"",NA
+"2818","Johnson Trail",3527,-4,"","Johnson Trail"
+"2819","Johnson Trail",3528,-4,"","Johnson Trail"
+"2820","Unnamed",3529,658,"",NA
+"2821","Unnamed",3530,218,"","Beech Lake Ski Trails"
+"2822","Unnamed",3531,4675,"",NA
+"2823","Unnamed",3532,1200,"",NA
+"2824","Unnamed",3533,2387,"",NA
+"2825","Unnamed",3534,615,"",NA
+"2826","Unnamed",3535,2299,"",NA
+"2827","Unnamed",3536,4759,"",NA
+"2828","Chester Creek Trail",3537,1009,"","Chester Creek Trail"
+"2829","Unnamed",3538,1458,"",NA
+"2830","Gasline Trail",3539,3414,"","Gasline Trail"
+"2831","Unnamed",3540,736,"","Russian Jack Ski Trails"
+"2832","Unnamed",3541,693,"","Russian Jack Ski Trails"
+"2833","Unnamed",3542,2486,"",NA
+"2834","Muldoon Swamp",3543,1875,"",NA
+"2835","Muldoon Swamp",3544,1895,"",NA
+"2836","Inner Loop Trail",3545,2633,"",NA
+"2837","Woodway Loop Trail",3546,2636,"",NA
+"2838","Eight Mile Trail",3547,2637,"",NA
+"2839","Mize Loop",3548,2658,"","Kincaid Ski Trails"
+"2840","Off Leash Trail",3549,3008,"",NA
+"2841","Arlene's Way",3550,2324,"","Kincaid Ski Trails"
+"2842","Preliminary Iditarod Realignment (2002)",3551,4263,"","Girdwood Trails"
+"2843","Wagon Trail",3552,4268,"","Girdwood Trails"
+"2844","Cobblestone Hill Rd",3553,3959,"",NA
+"2845","Middle Fork",3554,3981,"",NA
+"2846","E 142nd Trail",3555,4046,"",NA
+"2847","East Boundary Trail",3556,4060,"",NA
+"2848","East Boundary Trail",3557,4073,"",NA
+"2849","Belarde",3558,4117,"",NA
+"2850","RC Meadow 5",3559,4807,"",NA
+"2851","Andrew Lekisch Trail",3561,3176,"","Kincaid Ski Trails"
+"2852","Andrew Lekisch Trail",3562,3176,"","Kincaid Ski Trails"
+"2853","Potter Interp. Trail",3563,4177,"",NA
+"2854","Johnson Trail Spur",3564,4199,"",NA
+"2855","Unnamed",3566,1622,"",NA
+"2856","Unnamed",3567,4500,"",NA
+"2857","Jodhpur Loop",3568,3143,"","Kincaid Ski Trails"
+"2858","Unnamed",3569,3086,"",NA
+"2859","Unnamed",3570,928,"","Russian Jack Ski Trails"
+"2860","Unnamed",3571,127,"","Beech Lake Ski Trails"
+"2861","Unnamed",3572,3891,"",NA
+"2862","Unnamed",3573,564,"",NA
+"2863","Unnamed",3574,4472,"",NA
+"2864","Unnamed",3575,71,"",NA
+"2865","Unnamed",3576,5003,"","Connors Bog Skijor"
+"2866","Unnamed",3577,562,"",NA
+"2867","Unnamed",3578,4288,"",NA
+"2868","Unnamed",3579,4570,"",NA
+"2869","Unnamed",3580,3029,"",NA
+"2870","Unnamed",3581,2766,"",NA
+"2871","Unnamed",3582,925,"","Russian Jack Ski Trails"
+"2872","Unnamed",3583,1446,"","Coastal Trail"
+"2873","Mahaffey/APU",3584,1226,"","Tour of Anchorage"
+"2874","Unnamed",3585,1390,"",NA
+"2875","Unnamed",3586,848,"","Russian Jack Ski Trails"
+"2876","Unnamed",3587,1937,"",NA
+"2877","Unnamed",3588,20,"","Mirror Lake Ski Trails"
+"2878","Unnamed",3589,3882,"","Ruth Arcand Trails"
+"2879","Unnamed",3590,3825,"","Ruth Arcand Trails"
+"2880","Unnamed",3591,292,"",NA
+"2881","Unnamed",3592,139,"","Beech Lake Ski Trails"
+"2882","Unnamed",3593,3718,"",NA
+"2883","Unnamed",3594,4671,"",NA
+"2884","Unnamed",3595,4154,"",NA
+"2885","Johnson Trail",3596,-4,"","Johnson Trail"
+"2886","Johnson Trail",3597,-4,"","Johnson Trail"
+"2887","Old Mchugh Creek Trail",3598,4197,"",NA
+"2888","Mchugh Creek Pedestrian",3599,4200,"",NA
+"2889","Unnamed",3600,207,"",NA
+"2890","Unnamed",3601,3174,"",NA
+"2891","Unnamed",3602,1713,"",NA
+"2892","Unnamed",3603,217,"","Beech Lake Ski Trails"
+"2893","Campbell Creek Trail",3604,3490,"","Campbell Creek Trail"
+"2894","Unnamed",3605,4373,"",NA
+"2895","Unnamed",3606,4077,"",NA
+"2896","Unnamed",3607,4815,"",NA
+"2897","Unnamed",3608,2749,"","Kincaid Other Trails"
+"2898","Unnamed",3609,730,"",NA
+"2899","Unnamed",3610,2018,"",NA
+"2900","Unnamed",3611,4811,"",NA
+"2901","Unnamed",3612,685,"","Russian Jack Ski Trails"
+"2902","Unnamed",3613,1896,"",NA
+"2903","Mahaffey/APU",3614,1412,"",NA
+"2904","Mahaffey/APU",3615,1313,"",NA
+"2905","Unnamed",3616,2692,"","Kincaid Other Trails"
+"2906","Lekisch Loop",3617,3195,"","Kincaid Ski Trails"
+"2907","Unnamed",3618,5002,"","Connors Bog Skijor"
+"2908","Unnamed",3619,4555,"",NA
+"2909","Unnamed",3620,1488,"",NA
+"2910","Unnamed",3621,3758,"","Ruth Arcand Trails"
+"2911","Unnamed",3622,1464,"",NA
+"2912","Unnamed",3623,4470,"",NA
+"2913","Unnamed",3624,2363,"",NA
+"2914","Unnamed",3625,113,"","Beech Lake Ski Trails"
+"2915","Unnamed",3626,4706,"","Russian Jack Ski Trails"
+"2916","Mahaffey/APU",3627,1399,"",NA
+"2917","Unnamed",3628,1375,"",NA
+"2918","Unnamed",3629,362,"",NA
+"2919","Unnamed",3630,3239,"",NA
+"2920","Unnamed",3631,853,"",NA
+"2921","Airstrip Loop",3632,2717,"",NA
+"2922","Fish Creek",3633,1528,"",NA
+"2923","Moose Track Trail",3634,2660,"",NA
+"2924","4.5km Loop Trail",3635,2298,"",NA
+"2925","North Gasline Trail",3636,2972,"",NA
+"2926","Ballfield",3637,4016,"",NA
+"2927","Elevator",3638,4126,"",NA
+"2928","Unnamed",3639,1757,"",NA
+"2929","Unnamed",3640,236,"","Beech Lake Ski Trails"
+"2930","Unnamed",3641,1289,"",NA
+"2931","Unnamed",3642,2484,"",NA
+"2932","Unnamed",3643,1815,"",NA
+"2933","Unnamed",3644,2525,"",NA
+"2934","Unnamed",3645,2297,"",NA
+"2935","Unnamed",3646,2919,"",NA
+"2936","Unnamed",3647,1210,"",NA
+"2937","Unnamed",3648,1020,"",NA
+"2938","Unnamed",3649,4602,"",NA
+"2939","Unnamed",3650,3091,"",NA
+"2940","Unnamed",3651,601,"",NA
+"2941","Unnamed",3652,3061,"","Kincaid Other Trails"
+"2942","Unnamed",3653,1241,"",NA
+"2943","Unnamed",3654,3831,"","Ruth Arcand Trails"
+"2944","Unnamed",3655,399,"",NA
+"2945","Unnamed",3656,4616,"","Connors Bog Skijor"
+"2946","Unnamed",3657,2014,"",NA
+"2947","Unnamed",3658,170,"",NA
+"2948","Unnamed",3659,524,"",NA
+"2949","Unnamed",3660,4736,"",NA
+"2950","Unnamed",3661,1766,"",NA
+"2951","Unnamed",3662,4480,"",NA
+"2952","Unnamed",3663,82,"",NA
+"2953","Unnamed",3664,2835,"","Kincaid Other Trails"
+"2954","Unnamed",3665,3763,"","Ruth Arcand Trails"
+"2955","Campbell Creek Trail",3666,1631,"","Campbell Creek Trail"
+"2956","Unnamed",3667,124,"","Beech Lake Ski Trails"
+"2957","Campbell Creek Trail",3668,2004,"","Campbell Creek Trail"
+"2958","Unnamed",3669,2690,"",NA
+"2959","Unnamed",3670,1165,"",NA
+"2960","Margauxs Loop",3671,3048,"","Kincaid Ski Trails"
+"2961","Unnamed",3672,185,"","Russian Jack Ski Trails"
+"2962","Unnamed",3673,2098,"",NA
+"2963","Unnamed",3674,2335,"",NA
+"2964","Unnamed",3675,2945,"",NA
+"2965","Unnamed",3676,855,"",NA
+"2966","Unnamed",3677,4812,"",NA
+"2967","Unnamed",3678,1774,"",NA
+"2968","Unnamed",3679,814,"",NA
+"2969","Unnamed",3680,2559,"",NA
+"2970","Unnamed",3681,3006,"",NA
+"2971","Andrew Lekisch Trail",3682,3206,"","Kincaid Ski Trails"
+"2972","Moose Hill",3683,3235,"","Kincaid Ski Trails"
+"2973","Unnamed",3684,135,"","Beech Lake Ski Trails"
+"2974","Unnamed",3685,2527,"",NA
+"2975","Margauxs Loop",3686,2818,"","Kincaid Ski Trails"
+"2976","Unnamed",3687,3488,"",NA
+"2977","Unnamed",3688,2021,"",NA
+"2978","Unnamed",3689,3075,"",NA
+"2979","Unnamed",3690,3855,"","Ruth Arcand Trails"
+"2980","Unnamed",3691,663,"",NA
+"2981","Unnamed",3692,4503,"","Kincaid Other Trails"
+"2982","Unnamed",3693,835,"","Russian Jack Ski Trails"
+"2983","Unnamed",3694,3070,"","Coastal Trail"
+"2984","Unnamed",3695,3907,"","Ruth Arcand Trails"
+"2985","Unnamed",3696,2430,"",NA
+"2986","Unnamed",3697,709,"","Russian Jack Ski Trails"
+"2987","Mahaffey/APU",3698,1362,"",NA
+"2988","Unnamed",3699,4419,"",NA
+"2989","Unnamed",3700,215,"","Beech Lake Ski Trails"
+"2990","Powerline",3701,4968,"","Connors Bog Skijor"
+"2991","Unnamed",3702,3652,"",NA
+"2992","Unnamed",3703,704,"",NA
+"2993","Jodhpur Loop",3704,3138,"","Kincaid Ski Trails"
+"2994","Baxter Bog",3705,1706,"",NA
+"2995","Old Three Mile Trail",3706,1935,"",NA
+"2996","2.5 Km Loop",3707,1956,"",NA
+"2997","Airstrip Loop",3708,1962,"",NA
+"2998","Campbell Creek Trail",3709,-6,"","Campbell Creek Trail"
+"2999","Coastal Trail",3710,2038,"","Coastal Trail"
+"3000","Coastal Trail",3711,-2,"","Coastal Trail"
+"3001","Culvert Trail",3712,2065,"",NA
+"3002","Outgoing Trail",3713,2083,"",NA
+"3003","Beaver Pond Trail",3714,1991,"","Girdwood Trails"
+"3004","Glacier Creek/iditarod Trail System",3715,1993,"","Girdwood Trails"
+"3005","Campbell Creek Trail",3716,-6,"","Campbell Creek Trail"
+"3006","Unnamed",3717,141,"","Beech Lake Ski Trails"
+"3007","Unnamed",3718,1070,"",NA
+"3008","Unnamed",3719,1116,"",NA
+"3009","Unnamed",3720,3790,"","Ruth Arcand Trails"
+"3010","Unnamed",3721,241,"","Beech Lake Ski Trails"
+"3011","Unnamed",3722,1047,"","Russian Jack Ski Trails"
+"3012","Unnamed",3723,669,"","Russian Jack Ski Trails"
+"3013","Gasline Trail",3724,4152,"",NA
+"3014","Unnamed",3725,1614,"",NA
+"3015","Unnamed",3726,3511,"",NA
+"3016","Unnamed",3727,1771,"",NA
+"3017","Unnamed",3728,5011,"","Connors Bog Skijor"
+"3018","Unnamed",3729,3604,"",NA
+"3019","Unnamed",3730,4707,"",NA
+"3020","Unnamed",3731,4746,"",NA
+"3021","Unnamed",3732,902,"",NA
+"3022","Unnamed",3733,4543,"",NA
+"3023","Unnamed",3734,194,"","Russian Jack Ski Trails"
+"3024","Unnamed",3735,3905,"","Ruth Arcand Trails"
+"3025","Unnamed",3736,4346,"","Russian Jack Ski Trails"
+"3026","Unnamed",3737,3158,"","Kincaid Ski Trails"
+"3027","Unnamed",3738,713,"","Russian Jack Ski Trails"
+"3028","Unnamed",3739,4818,"",NA
+"3029","Unnamed",3740,2355,"",NA
+"3030","Unnamed",3741,3216,"",NA
+"3031","Unnamed",3742,1856,"",NA
+"3032","Goose Lake Trail",3743,1225,"",NA
+"3033","Unnamed",3744,777,"",NA
+"3034","Unnamed",3745,829,"",NA
+"3035","Unnamed",3746,1493,"",NA
+"3036","Unnamed",3747,347,"",NA
+"3037","Unnamed",3748,832,"","Russian Jack Ski Trails"
+"3038","Homestead Trail",3749,3237,"","Tour of Anchorage"
+"3039","Abbott Loop Trail",3750,3238,"","Abbott Loop Trail"
+"3040","Four Corners Connector Loop",3751,3290,"","Kincaid Ski Trails"
+"3041","Mizes Folly",3752,3291,"","Kincaid Ski Trails"
+"3042","BLM Ridge",3753,3298,"","Hillside Ski Trails"
+"3043","Lekisch Loop",3754,3308,"","Kincaid Ski Trails"
+"3044","Ski Trail",3755,3321,"",NA
+"3045","Spencer Loop",3756,3324,"","Hillside Ski Trails"
+"3046","Spencer Loop",3757,3336,"","Hillside Ski Trails"
+"3047","Old 6.9 Loop (icebox/mizes Folly)",3758,3337,"","Kincaid Ski Trails"
+"3048","The Wall",3759,3338,"","Kincaid Ski Trails"
+"3049","Short Cut",3760,3477,"","Hillside Ski Trails"
+"3050","Richter Loop",3761,3498,"","Hillside Ski Trails"
+"3051","Spencer Loop",3762,3527,"","Hillside Ski Trails"
+"3052","Unnamed",3763,126,"","Beech Lake Ski Trails"
+"3053","Unnamed",3764,2763,"",NA
+"3054","Unnamed",3765,2319,"",NA
+"3055","Unnamed",3766,4473,"",NA
+"3056","Unnamed",3767,1719,"",NA
+"3057","Unnamed",3768,3726,"",NA
+"3058","Unnamed",3769,1385,"",NA
+"3059","Unnamed",3770,4403,"",NA
+"3060","Chester Creek Trail",3771,1143,"","Chester Creek Trail"
+"3061","Unnamed",3772,1250,"",NA
+"3062","Unnamed",3773,2373,"",NA
+"3063","Unnamed",3774,3386,"","Kincaid Other Trails"
+"3064","Unnamed",3775,4451,"",NA
+"3065","Unnamed",3776,1456,"",NA
+"3066","Unnamed",3777,773,"",NA
+"3067","Unnamed",3778,2987,"","Kincaid Other Trails"
+"3068","Unnamed",3779,85,"","Beech Lake Ski Trails"
+"3069","Unnamed",3780,1750,"",NA
+"3070","Unnamed",3781,1322,"",NA
+"3071","Unnamed",3782,230,"","Beech Lake Ski Trails"
+"3072","Unnamed",3783,3671,"",NA
+"3073","Unnamed",3784,4102,"",NA
+"3074","Unnamed",3785,734,"","Russian Jack Ski Trails"
+"3075","Unnamed",3786,4150,"",NA
+"3076","Chester Creek Trail",3787,942,"",NA
+"3077","Unnamed",3788,1324,"",NA
+"3078","Unnamed",3789,2657,"","Kincaid Other Trails"
+"3079","Unnamed",3790,1568,"",NA
+"3080","Unnamed",3791,3919,"","Ruth Arcand Trails"
+"3081","Unnamed",3792,234,"","Beech Lake Ski Trails"
+"3082","Goose Lake Trail",3793,1223,"",NA
+"3083","Goose Lake Trail",3794,1263,"",NA
+"3084","Unnamed",3795,4983,"","Connors Bog Skijor"
+"3085","Unnamed",3796,4767,"","Russian Jack Ski Trails"
+"3086","Besh Lighted Loop",3797,3572,"","Hillside Ski Trails"
+"3087","Unnamed",3798,3255,"",NA
+"3088","Unnamed",3799,4452,"",NA
+"3089","Unnamed",3800,3509,"",NA
+"3090","Unnamed",3801,2206,"",NA
+"3091","Unnamed",3802,2443,"",NA
+"3092","Unnamed",3803,2819,"","Kincaid Other Trails"
+"3093","Unnamed",3804,1104,"",NA
+"3094","Unnamed",3805,1878,"",NA
+"3095","Unnamed",3806,3015,"",NA
+"3096","Unnamed",3807,2247,"",NA
+"3097","Unnamed",3808,479,"",NA
+"3098","Unnamed",3809,256,"","Beech Lake Ski Trails"
+"3099","Besh Lighted Loop",3810,3471,"","Hillside Ski Trails"
+"3100","North Gasline/powerline Trail",3811,1654,"",NA
+"3101","Unnamed",3812,642,"",NA
+"3102","Unnamed",3813,3805,"","Ruth Arcand Trails"
+"3103","Unnamed",3814,897,"","Russian Jack Ski Trails"
+"3104","Unnamed",3815,959,"",NA
+"3105","Unnamed",3816,4661,"",NA
+"3106","Unnamed",3817,74,"",NA
+"3107","Unnamed",3818,91,"","Beech Lake Ski Trails"
+"3108","Unnamed",3819,530,"",NA
+"3109","Unnamed",3820,664,"","Russian Jack Ski Trails"
+"3110","Unnamed",3821,765,"","Russian Jack Ski Trails"
+"3111","Unnamed",3822,4563,"","Beech Lake Ski Trails"
+"3112","Unnamed",3823,3753,"","Ruth Arcand Trails"
+"3113","Unnamed",3824,668,"","Russian Jack Ski Trails"
+"3114","Unnamed",3825,2785,"",NA
+"3115","Unnamed",3826,220,"","Beech Lake Ski Trails"
+"3116","Unnamed",3827,246,"","Beech Lake Ski Trails"
+"3117","Unnamed",3828,2277,"",NA
+"3118","Unnamed",3829,4974,"","Connors Bog Skijor"
+"3119","Unnamed",3830,4345,"","Russian Jack Ski Trails"
+"3120","Unnamed",3831,696,"",NA
+"3121","Unnamed",3832,3742,"","Ruth Arcand Trails"
+"3122","Unnamed",3833,2346,"",NA
+"3123","Unnamed",3834,16,"","Mirror Lake Ski Trails"
+"3124","Unnamed",3835,3317,"",NA
+"3125","Unnamed",3836,2781,"","Kincaid Ski Trails"
+"3126","Unnamed",3837,878,"","Russian Jack Ski Trails"
+"3127","Unnamed",3838,874,"",NA
+"3128","Unnamed",3839,3896,"","Ruth Arcand Trails"
+"3129","Unnamed",3840,3723,"",NA
+"3130","Unnamed",3841,2977,"",NA
+"3131","Unnamed",3842,532,"",NA
+"3132","Unnamed",3843,916,"",NA
+"3133","Unnamed",3844,1708,"",NA
+"3134","Unnamed",3845,4554,"",NA
+"3135","Unnamed",3846,3933,"",NA
+"3136","Unnamed",3847,4664,"",NA
+"3137","Unnamed",3848,2199,"",NA
+"3138","Unnamed",3849,1428,"",NA
+"3139","Unnamed",3850,4712,"",NA
+"3140","Unnamed",3851,4221,"",NA
+"3141","Unnamed",3852,3720,"",NA
+"3142","Unnamed",3853,4552,"",NA
+"3143","Unnamed",3854,267,"","Beech Lake Ski Trails"
+"3144","Unnamed",3855,2270,"",NA
+"3145","Unnamed",3856,3861,"","Ruth Arcand Trails"
+"3146","Unnamed",3857,2251,"",NA
+"3147","Unnamed",3858,3628,"",NA
+"3148","Unnamed",3859,4600,"","Kincaid Other Trails"
+"3149","Unnamed",3860,862,"",NA
+"3150","Unnamed",3861,3464,"",NA
+"3151","Unnamed",3862,2700,"","Kincaid Other Trails"
+"3152","Unnamed",3863,583,"",NA
+"3153","Unnamed",3864,2832,"",NA
+"3154","Unnamed",3865,802,"","Russian Jack Ski Trails"
+"3155","Unnamed",3866,1284,"",NA
+"3156","Unnamed",3867,4782,"",NA
+"3157","Unnamed",3868,2907,"","Kincaid Other Trails"
+"3158","Unnamed",3869,982,"","Russian Jack Ski Trails"
+"3159","Unnamed",3870,3986,"",NA
+"3160","Unnamed",3871,4410,"",NA
+"3161","Unnamed",3872,3478,"","Kincaid Other Trails"
+"3162","Unnamed",3873,1781,"",NA
+"3163","Campbell Creek Trail",3874,2175,"","Campbell Creek Trail"
+"3164","Unnamed",3875,214,"","Beech Lake Ski Trails"
+"3165","Unnamed",3876,1526,"",NA
+"3166","Unnamed",3877,2357,"",NA
+"3167","Unnamed",3878,1971,"",NA
+"3168","Chalet Loop",3879,2927,"","Kincaid Ski Trails"
+"3169","Outgoing Trail",3880,2367,"",NA
+"3170","Chester Creek Trail",3881,-1,"","Chester Creek Trail"
+"3171","Chester Creek Trail",3882,-1,"","Chester Creek Trail"
+"3172","Mize Loop",3883,2672,"","Kincaid Ski Trails"
+"3173","Homecoming/poleline",3884,2673,"",NA
+"3174","The Burn Lighted Loop",3885,3605,"","Hillside Ski Trails"
+"3175","Coastal Trail",3886,-2,"","Coastal Trail"
+"3176","Baxter Bog",3887,1544,"",NA
+"3177","Unnamed",3888,843,"",NA
+"3178","Unnamed",3889,212,"","Beech Lake Ski Trails"
+"3179","Besh Lighted Loop",3890,3534,"","Hillside Ski Trails"
+"3180","Unnamed",3891,4680,"",NA
+"3181","Unnamed",3892,184,"",NA
+"3182","Unnamed",3893,4595,"",NA
+"3183","Unnamed",3894,160,"","Russian Jack Ski Trails"
+"3184","Unnamed",3895,3832,"","Ruth Arcand Trails"
+"3185","Unnamed",3896,125,"","Beech Lake Ski Trails"
+"3186","Unnamed",3897,490,"",NA
+"3187","Unnamed",3898,1350,"",NA
+"3188","Unnamed",3899,3943,"",NA
+"3189","Chester Creek Trail",3900,934,"","Chester Creek Trail"
+"3190","Unnamed",3901,1530,"",NA
+"3191","Unnamed",3902,3217,"",NA
+"3192","Unnamed",3903,2485,"",NA
+"3193","Unnamed",3904,2383,"",NA
+"3194","Unnamed",3905,2523,"",NA
+"3195","Unnamed",3906,3649,"",NA
+"3196","Unnamed",3907,2877,"","Kincaid Other Trails"
+"3197","Unnamed",3908,2309,"",NA
+"3198","Jodhpur Loop",3909,3262,"","Kincaid Ski Trails"
+"3199","Unnamed",3910,3374,"","Kincaid Other Trails"
+"3200","Unnamed",3911,4686,"",NA
+"3201","Unnamed",3912,4535,"",NA
+"3202","Unnamed",3913,4072,"",NA
+"3203","Unnamed",3914,130,"","Beech Lake Ski Trails"
+"3204","Unnamed",3915,2255,"",NA
+"3205","Unnamed",3916,1119,"",NA
+"3206","Unnamed",3917,970,"","Russian Jack Ski Trails"
+"3207","Unnamed",3918,4611,"","Connors Bog Skijor"
+"3208","Unnamed",3919,3328,"","Kincaid Other Trails"
+"3209","Unnamed",3920,2701,"","Kincaid Other Trails"
+"3210","Unnamed",3921,4560,"",NA
+"3211","Unnamed",3922,2202,"",NA
+"3212","Unnamed",3923,972,"","Russian Jack Ski Trails"
+"3213","Unnamed",3924,2226,"",NA
+"3214","Unnamed",3925,1358,"",NA
+"3215","Unnamed",3926,1359,"",NA
+"3216","Unnamed",3927,3821,"","Ruth Arcand Trails"
+"3217","Unnamed",3928,4509,"",NA
+"3218","Unnamed",3929,4545,"",NA
+"3219","Unnamed",3930,2405,"",NA
+"3220","Unnamed",3931,2161,"","Kincaid Other Trails"
+"3221","Unnamed",3932,2151,"",NA
+"3222","Unnamed",3933,4144,"",NA
+"3223","Unnamed",3934,1716,"",NA
+"3224","Unnamed",3935,3866,"","Ruth Arcand Trails"
+"3225","Unnamed",3936,2568,"",NA
+"3226","Unnamed",3937,79,"","Beech Lake Ski Trails"
+"3227","Unnamed",3938,3323,"","Kincaid Ski Trails"
+"3228","Unnamed",3939,2733,"",NA
+"3229","Unnamed",3940,180,"",NA
+"3230","Unnamed",3941,142,"","Beech Lake Ski Trails"
+"3231","Unnamed",3942,2997,"",NA
+"3232","Unnamed",3943,719,"",NA
+"3233","Unnamed",3944,4830,"",NA
+"3234","Margauxs Loop",3945,3179,"","Kincaid Ski Trails"
+"3235","Chester Creek Trail",3946,1212,"",NA
+"3236","Unnamed",3947,252,"","Beech Lake Ski Trails"
+"3237","Unnamed",3948,4642,"",NA
+"3238","Unnamed",3949,2544,"","Kincaid Other Trails"
+"3239","Unnamed",3950,3563,"","Abbott Trail"
+"3240","Unnamed",3951,682,"","Russian Jack Ski Trails"
+"3241","Unnamed",3952,1625,"",NA
+"3242","Margauxs Loop",3953,1963,"","Kincaid Ski Trails"
+"3243","Unnamed",3954,3847,"","Ruth Arcand Trails"
+"3244","Goose Lake Trail",3955,521,"",NA
+"3245","Unnamed",3956,3258,"",NA
+"3246","Gasline Trail",3957,3182,"","Gasline Trail"
+"3247","Campbell Creek Trail",3958,3494,"","Campbell Creek Trail"
+"3248","Unnamed",3959,2174,"",NA
+"3249","Unnamed",3960,3803,"","Ruth Arcand Trails"
+"3250","Unnamed",3961,1239,"",NA
+"3251","Unnamed",3962,1773,"",NA
+"3252","Unnamed",3963,2628,"",NA
+"3253","Unnamed",3964,3219,"",NA
+"3254","Unnamed",3965,665,"",NA
+"3255","Unnamed",3966,895,"","Russian Jack Ski Trails"
+"3256","Unnamed",3967,3766,"","Ruth Arcand Trails"
+"3257","Unnamed",3968,3052,"","Kincaid Other Trails"
+"3258","Unnamed",3969,3936,"",NA
+"3259","Unnamed",3970,4087,"",NA
+"3260","Unnamed",3971,486,"",NA
+"3261","Margauxs Loop",3972,2847,"","Kincaid Ski Trails"
+"3262","Executioner",3973,276,"","Beech Lake Ski Trails"
+"3263","Coach's Cutoff",3974,282,"","Beech Lake Ski Trails"
+"3264","Tank Trail",3975,358,"",NA
+"3265","Tank Trail",3976,551,"",NA
+"3266","Spur Oscar Anderson",3977,575,"","Coastal Trail"
+"3267","Whaley Sch. Trail",3978,1137,"",NA
+"3268","North Gasline/powerline Trail",3979,2178,"",NA
+"3269","Chester Creek Trail",3980,-1,"","Chester Creek Trail"
+"3270","Unnamed",3981,4569,"",NA
+"3271","Unnamed",3982,284,"","Beech Lake Ski Trails"
+"3272","Unnamed",3983,2721,"",NA
+"3273","Jodhpur Loop",3984,3344,"","Kincaid Ski Trails"
+"3274","Unnamed",3985,3804,"","Ruth Arcand Trails"
+"3275","Unnamed",3986,2707,"",NA
+"3276","Unnamed",3987,78,"","Beech Lake Ski Trails"
+"3277","Unnamed",3988,717,"",NA
+"3278","Unnamed",3989,4803,"",NA
+"3279","Main",3990,4957,"","Connors Bog Skijor"
+"3280","Jodhpur Loop",3991,3167,"","Kincaid Ski Trails"
+"3281","Unnamed",3992,3619,"",NA
+"3282","Unnamed",3993,1543,"",NA
+"3283","Unnamed",3994,1661,"",NA
+"3284","Unnamed",3995,54,"",NA
+"3285","Unnamed",3996,3257,"",NA
+"3286","Jodhpur Loop",3997,3306,"","Kincaid Ski Trails"
+"3287","Unnamed",3998,2653,"","Kincaid Other Trails"
+"3288","Spencer Loop",3999,3433,"","Hillside Ski Trails"
+"3289","Lakeside Loop",4000,5009,"","Connors Bog Skijor"
+"3290","Viewpoint Trail",4001,3035,"","Tour of Anchorage"
+"3291","Horseshoe Loop",4003,3106,"","Kincaid Ski Trails"
+"3292","Lekisch Loop",4004,3112,"","Kincaid Ski Trails"
+"3293","Biathalon Loop",4005,3126,"","Kincaid Ski Trails"
+"3294","Unnamed",4006,4374,"",NA
+"3295","Unnamed",4007,3164,"","Kincaid Ski Trails"
+"3296","Unnamed",4010,321,"",NA
+"3297","Campbell Creek Trail",4017,-6,"","Campbell Creek Trail"
+"3298","Tank Trail",4018,2170,"",NA
+"3299","Centennial",4019,411,"","Centennial Park Trails"
+"3300","Christy Loop",4020,122,"","Beech Lake Ski Trails"
+"3301","Christy Loop",4021,143,"","Beech Lake Ski Trails"
+"3302","North Coastal Trail",4022,-3,"","Coastal Trail"
+"3303","Unnamed",4023,1062,"",NA
+"3304","Unnamed",4024,662,"",NA
+"3305","Unnamed",4025,3765,"","Ruth Arcand Trails"
+"3306","Unnamed",4026,463,"",NA
+"3307","Unnamed",4027,3391,"","Kincaid Other Trails"
+"3308","Unnamed",4028,1106,"","Coastal Trail"
+"3309","Unnamed",4029,1053,"","Russian Jack Ski Trails"
+"3310","Unnamed",4030,1776,"",NA
+"3311","Unnamed",4031,1299,"",NA
+"3312","Campbell Creek Trail",4032,3367,"","Campbell Creek Trail"
+"3313","Unnamed",4033,2364,"",NA
+"3314","Unnamed",4034,3551,"",NA
+"3315","Unnamed",4035,250,"","Beech Lake Ski Trails"
+"3316","Unnamed",4036,581,"",NA
+"3317","Unnamed",4037,2464,"",NA
+"3318","Unnamed",4038,3886,"","Ruth Arcand Trails"
+"3319","Unnamed",4039,3355,"","Kincaid Ski Trails"
+"3320","Unnamed",4040,3932,"",NA
+"3321","Unnamed",4041,2368,"",NA
+"3322","Mahaffey/APU",4042,1270,"","Tour of Anchorage"
+"3323","Unnamed",4043,2632,"",NA
+"3324","Unnamed",4044,1017,"",NA
+"3325","Main",4045,4960,"","Connors Bog Skijor"
+"3326","Unnamed",4046,2189,"","Kincaid Other Trails"
+"3327","Unnamed",4047,4101,"",NA
+"3328","Unnamed",4048,4492,"",NA
+"3329","Unnamed",4049,3945,"",NA
+"3330","Unnamed",4050,622,"",NA
+"3331","Unnamed",4051,4831,"",NA
+"3332","Besh Lighted Loop",4052,3576,"","Hillside Ski Trails"
+"3333","Unnamed",4053,1447,"",NA
+"3334","Unnamed",4054,4499,"","Kincaid Other Trails"
+"3335","Unnamed",4055,1065,"",NA
+"3336","Unnamed",4056,1260,"",NA
+"3337","Unnamed",4057,2695,"",NA
+"3338","Unnamed",4058,2467,"",NA
+"3339","Unnamed",4059,3365,"",NA
+"3340","Unnamed",4060,1644,"",NA
+"3341","Unnamed",4061,4464,"","Beech Lake Ski Trails"
+"3342","Unnamed",4062,1760,"",NA
+"3343","Unnamed",4063,1388,"",NA
+"3344","Unnamed",4064,2318,"",NA
+"3345","Unnamed",4065,1832,"",NA
+"3346","Unnamed",4066,4825,"",NA
+"3347","Campbell Creek Trail",4067,3566,"","Campbell Creek Trail"
+"3348","Unnamed",4068,2201,"",NA
+"3349","Unnamed",4069,2960,"",NA
+"3350","Unnamed",4070,854,"",NA
+"3351","Unnamed",4071,4113,"",NA
+"3352","Unnamed",4072,1662,"",NA
+"3353","Unnamed",4073,2365,"",NA
+"3354","Unnamed",4074,478,"",NA
+"3355","Chester Creek Trail",4075,1110,"","Chester Creek Trail"
+"3356","Unnamed",4076,1767,"",NA
+"3357","Gasline Trail",4077,4430,"",NA
+"3358","Unnamed",4078,3517,"",NA
+"3359","Unnamed",4079,4628,"",NA
+"3360","Unnamed",4080,3827,"","Ruth Arcand Trails"
+"3361","Unnamed",4081,2187,"",NA
+"3362","Unnamed",4082,3326,"","Kincaid Other Trails"
+"3363","Unnamed",4083,394,"",NA
+"3364","Unnamed",4084,1778,"",NA
+"3365","Unnamed",4085,2669,"",NA
+"3366","Unnamed",4086,367,"","Centennial Park Trails"
+"3367","Unnamed",4087,464,"",NA
+"3368","Unnamed",4088,3243,"",NA
+"3369","Unnamed",4089,2906,"","Kincaid Other Trails"
+"3370","Unnamed",4090,609,"",NA
+"3371","Unnamed",4091,4375,"",NA
+"3372","Unnamed",4092,966,"","Russian Jack Ski Trails"
+"3373","Powerline",4093,4994,"","Connors Bog Skijor"
+"3374","Unnamed",4094,2121,"",NA
+"3375","Unnamed",4095,3877,"","Ruth Arcand Trails"
+"3376","Unnamed",4096,656,"",NA
+"3377","Unnamed",4097,2402,"",NA
+"3378","Unnamed",4098,2976,"",NA
+"3379","Unnamed",4099,3691,"",NA
+"3380","Unnamed",4100,1567,"",NA
+"3381","Unnamed",4101,2512,"",NA
+"3382","Unnamed",4102,4466,"",NA
+"3383","Unnamed",4103,1947,"",NA
+"3384","Unnamed",4104,708,"","Russian Jack Ski Trails"
+"3385","Unnamed",4105,4759,"",NA
+"3386","Unnamed",4106,4759,"",NA
+"3387","Chester Creek Trail",4107,1068,"","Chester Creek Trail"
+"3388","Unnamed",4108,3034,"","Kincaid Other Trails"
+"3389","Unnamed",4109,2606,"",NA
+"3390","Unnamed",4110,1812,"",NA
+"3391","Unnamed",4111,3854,"","Ruth Arcand Trails"
+"3392","Unnamed",4112,1261,"",NA
+"3393","Unnamed",4113,456,"",NA
+"3394","Unnamed",4114,2382,"",NA
+"3395","Unnamed",4115,3880,"","Ruth Arcand Trails"
+"3396","Unnamed",4116,666,"","Russian Jack Ski Trails"
+"3397","Unnamed",4117,2483,"",NA
+"3398","Unnamed",4118,3611,"",NA
+"3399","Unnamed",4119,3079,"","Kincaid Other Trails"
+"3400","Unnamed",4120,702,"",NA
+"3401","Unnamed",4121,3651,"",NA
+"3402","Unnamed",4122,2351,"",NA
+"3403","Unnamed",4123,2542,"",NA
+"3404","Unnamed",4124,3979,"",NA
+"3405","Unnamed",4125,4442,"",NA
+"3406","Unnamed",4126,2222,"",NA
+"3407","Unnamed",4127,2256,"",NA
+"3408","Unnamed",4128,69,"",NA
+"3409","Unnamed",4129,1454,"",NA
+"3410","Chester Creek Trail",4130,506,"","Chester Creek Trail"
+"3411","Margauxs Loop",4131,3180,"","Kincaid Ski Trails"
+"3412","Unnamed",4132,4223,"",NA
+"3413","Unnamed",4133,2557,"",NA
+"3414","Unnamed",4134,4109,"",NA
+"3415","Unnamed",4135,2780,"","Kincaid Other Trails"
+"3416","Unnamed",4136,882,"","Russian Jack Ski Trails"
+"3417","Unnamed",4137,2379,"",NA
+"3418","Unnamed",4138,3768,"","Ruth Arcand Trails"
+"3419","Unnamed",4139,4738,"",NA
+"3420","Unnamed",4140,576,"",NA
+"3421","Gasline Trail",4141,3422,"","Hillside Ski Trails"
+"3422","Unnamed",4142,3201,"",NA
+"3423","Unnamed",4143,3309,"","Kincaid Ski Trails"
+"3424","Unnamed",4144,922,"",NA
+"3425","Unnamed",4145,2799,"",NA
+"3426","Unnamed",4146,2,"",NA
+"3427","Unnamed",4147,3824,"","Ruth Arcand Trails"
+"3428","Unnamed",4148,2360,"",NA
+"3429","Unnamed",4149,1601,"",NA
+"3430","Unnamed",4150,732,"","Russian Jack Ski Trails"
+"3431","Unnamed",4151,618,"",NA
+"3432","Unnamed",4152,3801,"","Ruth Arcand Trails"
+"3433","Unnamed",4153,4475,"","Kincaid Other Trails"
+"3434","Unnamed",4154,4287,"",NA
+"3435","Unnamed",4155,3843,"","Ruth Arcand Trails"
+"3436","Unnamed",4156,3874,"","Ruth Arcand Trails"
+"3437","Unnamed",4157,2811,"","Kincaid Other Trails"
+"3438","Unnamed",4158,84,"","Beech Lake Ski Trails"
+"3439","Chester Creek Trail",4159,968,"",NA
+"3440","Unnamed",4160,1064,"",NA
+"3441","Gasline Trail",4161,3186,"","Hillside Ski Trails"
+"3442","Unnamed",4162,1050,"",NA
+"3443","Unnamed",4163,3749,"","Ruth Arcand Trails"
+"3444","Unnamed",4164,3892,"","Ruth Arcand Trails"
+"3445","Unnamed",4165,2401,"",NA
+"3446","Unnamed",4166,120,"","Beech Lake Ski Trails"
+"3447","Glen Alps To Powerline A",4170,4012,"",NA
+"3448","Outgoing Trail",4174,1640,"",NA
+"3449","Unnamed",4179,2313,"",NA
+"3450","Unnamed",4180,2479,"",NA
+"3451","Unnamed",4181,3535,"",NA
+"3452","Jodhpur Loop",4182,4766,"","Kincaid Ski Trails"
+"3453","Unnamed",4183,3687,"",NA
+"3454","Besh Lighted Loop",4184,3622,"","Hillside Ski Trails"
+"3455","Unnamed",4185,999,"",NA
+"3456","Unnamed",4186,4616,"",NA
+"3457","Unnamed",4187,3840,"","Ruth Arcand Trails"
+"3458","Goose Lake Trail",4188,1387,"",NA
+"3459","Unnamed",4189,108,"","Beech Lake Ski Trails"
+"3460","Unnamed",4190,1237,"",NA
+"3461","Unnamed",4191,1056,"",NA
+"3462","Unnamed",4192,290,"",NA
+"3463","Unnamed",4193,1509,"",NA
+"3464","Unnamed",4194,2261,"",NA
+"3465","Unnamed",4195,535,"",NA
+"3466","Unnamed",4196,614,"",NA
+"3467","Unnamed",4197,1290,"",NA
+"3468","Unnamed",4198,1670,"",NA
+"3469","Powerline",4199,4107,"",NA
+"3470","Unnamed",4200,2238,"",NA
+"3471","Unnamed",4201,1027,"","Russian Jack Ski Trails"
+"3472","Unnamed",4202,3358,"","Kincaid Other Trails"
+"3473","Unnamed",4203,4612,"","Beech Lake Ski Trails"
+"3474","Unnamed",4204,4796,"","Beech Lake Ski Trails"
+"3475","Unnamed",4205,2223,"",NA
+"3476","Unnamed",4206,3249,"","Kincaid Other Trails"
+"3477","Unnamed",4207,711,"",NA
+"3478","Margauxs Loop",4208,2793,"","Kincaid Ski Trails"
+"3479","Unnamed",4209,177,"","Russian Jack Ski Trails"
+"3480","Goose Lake Trail",4210,1219,"",NA
+"3481","Unnamed",4211,539,"",NA
+"3482","Unnamed",4212,2452,"",NA
+"3483","Unnamed",4213,4615,"",NA
+"3484","Unnamed",4214,208,"",NA
+"3485","Unnamed",4215,990,"","Russian Jack Ski Trails"
+"3486","Unnamed",4216,268,"","Beech Lake Ski Trails"
+"3487","Besh Lighted Loop",4217,3476,"","Hillside Ski Trails"
+"3488","Unnamed",4218,2340,"",NA
+"3489","Unnamed",4219,2875,"",NA
+"3490","Unnamed",4220,700,"",NA
+"3491","Unnamed",4221,3447,"",NA
+"3492","Unnamed",4222,1357,"",NA
+"3493","Unnamed",4223,1469,"",NA
+"3494","Lekisch Loop",4224,1683,"","Kincaid Ski Trails"
+"3495","Campbell Creek Trail",4228,-6,"","Campbell Creek Trail"
+"3496","Outgoing Trail",4229,1914,"",NA
+"3497","Old Three Mile Trail",4230,1933,"",NA
+"3498","4.5km Loop",4231,1957,"",NA
+"3499","Campbell Creek Trail",4232,2032,"","Campbell Creek Trail"
+"3500","Outgoing Trail",4233,2041,"",NA
+"3501","Coastal Trail",4234,-2,"","Coastal Trail"
+"3502","Outgoing Trail",4235,2057,"",NA
+"3503","Unnamed",4236,1097,"","Coastal Trail"
+"3504","Unnamed",4237,3783,"","Ruth Arcand Trails"
+"3505","Main",4238,4980,"","Connors Bog Skijor"
+"3506","Unnamed",4239,213,"","Beech Lake Ski Trails"
+"3507","Mahaffey/APU",4240,1440,"",NA
+"3508","Unnamed",4241,2521,"",NA
+"3509","Unnamed",4242,481,"",NA
+"3510","Unnamed",4243,2488,"",NA
+"3511","Unnamed",4244,3679,"",NA
+"3512","Unnamed",4245,286,"","Beech Lake Ski Trails"
+"3513","Unnamed",4246,1940,"","Kincaid Other Trails"
+"3514","Unnamed",4247,3228,"",NA
+"3515","Unnamed",4248,4660,"","Russian Jack Ski Trails"
+"3516","Unnamed",4249,876,"","Russian Jack Ski Trails"
+"3517","Unnamed",4250,1709,"",NA
+"3518","Unnamed",4251,2753,"","Kincaid Other Trails"
+"3519","Unnamed",4252,281,"","Beech Lake Ski Trails"
+"3520","Unnamed",4253,3807,"","Ruth Arcand Trails"
+"3521","Unnamed",4254,1483,"",NA
+"3522","Unnamed",4255,163,"","Russian Jack Ski Trails"
+"3523","Unnamed",4256,3792,"","Ruth Arcand Trails"
+"3524","Unnamed",4257,33,"","Mirror Lake Ski Trails"
+"3525","Unnamed",4258,1482,"",NA
+"3526","Besh Lighted Loop",4259,3395,"","Hillside Ski Trails"
+"3527","Unnamed",4260,903,"",NA
+"3528","Unnamed",4261,3776,"","Ruth Arcand Trails"
+"3529","Unnamed",4262,1294,"",NA
+"3530","Unnamed",4263,3627,"",NA
+"3531","Unnamed",4264,2236,"",NA
+"3532","Unnamed",4265,1844,"",NA
+"3533","Unnamed",4266,1461,"",NA
+"3534","Unnamed",4267,287,"","Beech Lake Ski Trails"
+"3535","Unnamed",4268,4826,"",NA
+"3536","Unnamed",4269,2652,"",NA
+"3537","Unnamed",4270,4326,"","Kincaid Ski Trails"
+"3538","Unnamed",4271,4436,"",NA
+"3539","Unnamed",4272,1958,"","Kincaid Other Trails"
+"3540","Unnamed",4273,4691,"",NA
+"3541","Unnamed",4274,3809,"","Ruth Arcand Trails"
+"3542","Unnamed",4275,228,"","Beech Lake Ski Trails"
+"3543","Unnamed",4276,896,"",NA
+"3544","Unnamed",4277,4819,"",NA
+"3545","Unnamed",4278,4726,"","Kincaid Other Trails"
+"3546","Unnamed",4279,1945,"",NA
+"3547","Unnamed",4280,2761,"","Kincaid Other Trails"
+"3548","Unnamed",4281,3875,"","Ruth Arcand Trails"
+"3549","Unnamed",4282,3995,"",NA
+"3550","Unnamed",4283,3836,"","Ruth Arcand Trails"
+"3551","Unnamed",4284,2918,"",NA
+"3552","Unnamed",4285,1623,"",NA
+"3553","Unnamed",4286,133,"","Beech Lake Ski Trails"
+"3554","Unnamed",4287,877,"",NA
+"3555","Unnamed",4288,677,"",NA
+"3556","Unnamed",4289,4099,"",NA
+"3557","Unnamed",4290,2731,"",NA
+"3558","Unnamed",4291,983,"",NA
+"3559","Unnamed",4292,2662,"",NA
+"3560","Unnamed",4293,1340,"",NA
+"3561","Unnamed",4294,4678,"",NA
+"3562","Unnamed",4295,1007,"",NA
+"3563","Unnamed",4296,4955,"","Connors Bog Skijor"
+"3564","Unnamed",4297,3229,"",NA
+"3565","Unnamed",4298,3810,"","Ruth Arcand Trails"
+"3566","Besh Lighted Loop",4299,3597,"","Hillside Ski Trails"
+"3567","Unnamed",4300,4689,"",NA
+"3568","Unnamed",4301,3104,"","Kincaid Other Trails"
+"3569","Unnamed",4302,720,"","Russian Jack Ski Trails"
+"3570","Unnamed",4303,2391,"",NA
+"3571","Unnamed",4304,762,"","Russian Jack Ski Trails"
+"3572","Unnamed",4305,546,"",NA
+"3573","Unnamed",4306,2224,"",NA
+"3574","Unnamed",4307,272,"","Beech Lake Ski Trails"
+"3575","Unnamed",4308,690,"",NA
+"3576","Unnamed",4309,258,"","Beech Lake Ski Trails"
+"3577","Unnamed",4310,3519,"","Kincaid Other Trails"
+"3578","Unnamed",4311,3637,"",NA
+"3579","Unnamed",4312,3384,"",NA
+"3580","Unnamed",4313,771,"",NA
+"3581","Unnamed",4314,2706,"",NA
+"3582","Unnamed",4315,3270,"",NA
+"3583","Unnamed",4316,1511,"",NA
+"3584","Unnamed",4317,2607,"",NA
+"3585","Unnamed",4318,1679,"","Kincaid Ski Trails"
+"3586","Unnamed",4319,2460,"",NA
+"3587","Unnamed",4320,3301,"","Kincaid Other Trails"
+"3588","Unnamed",4321,823,"",NA
+"3589","Unnamed",4322,721,"",NA
+"3590","Unnamed",4323,443,"",NA
+"3591","Unnamed",4324,3881,"","Ruth Arcand Trails"
+"3592","Unnamed",4325,3231,"",NA
+"3593","Unnamed",4326,3806,"","Ruth Arcand Trails"
+"3594","Unnamed",4327,245,"","Beech Lake Ski Trails"
+"3595","Unnamed",4328,1921,"",NA
+"3596","Unnamed",4329,2966,"","Kincaid Other Trails"
+"3597","Unnamed",4330,3148,"","Kincaid Other Trails"
+"3598","Mahaffey/APU",4331,1478,"",NA
+"3599","Unnamed",4332,834,"","Russian Jack Ski Trails"
+"3600","Unnamed",4333,4645,"",NA
+"3601","Unnamed",4334,4467,"",NA
+"3602","Unnamed",4335,3459,"","Kincaid Other Trails"
+"3603","Unnamed",4336,613,"",NA
+"3604","Unnamed",4337,1701,"",NA
+"3605","Unnamed",4338,1337,"",NA
+"3606","Unnamed",4339,3507,"",NA
+"3607","Unnamed",4340,510,"","Russian Jack Ski Trails"
+"3608","Unnamed",4341,2278,"",NA
+"3609","Jodhpur Loop",4342,3307,"","Kincaid Ski Trails"
+"3610","Unnamed",4343,1684,"","Kincaid Ski Trails"
+"3611","Unnamed",4344,1405,"",NA
+"3612","Unnamed",4345,3364,"",NA
+"3613","Campbell Creek Trail",4346,3592,"","Campbell Creek Trail"
+"3614","Unnamed",4347,2145,"","Kincaid Other Trails"
+"3615","Unnamed",4348,368,"","Centennial Park Trails"
+"3616","Unnamed",4349,504,"",NA
+"3617","Unnamed",4350,2592,"",NA
+"3618","Unnamed",4351,2730,"",NA
+"3619","Unnamed",4352,2412,"",NA
+"3620","Unnamed",4353,3439,"",NA
+"3621","Unnamed",4354,3360,"","Kincaid Other Trails"
+"3622","Unnamed",4355,279,"","Beech Lake Ski Trails"
+"3623","Unnamed",4356,505,"","Russian Jack Ski Trails"
+"3624","Unnamed",4357,2078,"",NA
+"3625","Unnamed",4358,694,"","Russian Jack Ski Trails"
+"3626","Unnamed",4359,4650,"",NA
+"3627","Unnamed",4360,231,"","Beech Lake Ski Trails"
+"3628","Unnamed",4361,3390,"","Kincaid Other Trails"
+"3629","Mahaffey/APU",4362,1424,"","Tour of Anchorage"
+"3630","Unnamed",4363,649,"",NA
+"3631","Unnamed",4364,2786,"","Kincaid Other Trails"
+"3632","Unnamed",4365,3208,"","Kincaid Other Trails"
+"3633","Unnamed",4366,2963,"",NA
+"3634","Unnamed",4367,3650,"",NA
+"3635","Unnamed",4368,372,"","Centennial Park Trails"
+"3636","Unnamed",4369,951,"",NA
+"3637","Unnamed",4370,915,"","Russian Jack Ski Trails"
+"3638","Unnamed",4371,1331,"",NA
+"3639","Mahaffey/APU",4372,1363,"","Tour of Anchorage"
+"3640","Mahaffey/APU",4373,1268,"","Tour of Anchorage"
+"3641","Unnamed",4374,2306,"",NA
+"3642","Unnamed",4375,4335,"","Kincaid Other Trails"
+"3643","Unnamed",4376,3659,"",NA
+"3644","Unnamed",4377,3761,"","Ruth Arcand Trails"
+"3645","Unnamed",4378,1232,"",NA
+"3646","Tour Of Anchorage",4379,2233,"","Tour of Anchorage"
+"3647","Rondy Cut Off Trail",4380,2239,"",NA
+"3648","Andrew Lekisch Trail",4381,3067,"","Kincaid Ski Trails"
+"3649","Elevator",4382,4128,"",NA
+"3650","Coyote Trail",4383,4400,"",NA
+"3651","Athabascan Physics Trail",4384,4247,"","Girdwood Trails"
+"3652","Nordic Trail",4385,4757,"","Girdwood Trails"
+"3653","Old Rondy Trail",4386,2426,"","Tour of Anchorage"
+"3654","Tour Of Anchorage",4387,2440,"","Tour of Anchorage"
+"3655","Inner Loop Trail",4388,2821,"",NA
+"3656","Moose Ridge Trail",4389,4305,"",NA
+"3657","Homecoming/poleline",4390,2526,"",NA
+"3658","Unnamed",4391,1699,"",NA
+"3659","Unnamed",4392,3550,"",NA
+"3660","Unnamed",4393,3795,"","Ruth Arcand Trails"
+"3661","Unnamed",4394,1254,"",NA
+"3662","Unnamed",4395,1283,"",NA
+"3663","Main",4396,4990,"","Connors Bog Skijor"
+"3664","Unnamed",4397,964,"",NA
+"3665","Unnamed",4398,4497,"",NA
+"3666","Margauxs Loop",4399,1659,"","Kincaid Ski Trails"
+"3667","Unnamed",4400,953,"","Russian Jack Ski Trails"
+"3668","Unnamed",4401,93,"","Beech Lake Ski Trails"
+"3669","Unnamed",4402,5001,"","Connors Bog Skijor"
+"3670","Unnamed",4403,4643,"",NA
+"3671","Unnamed",4404,2320,"",NA
+"3672","Unnamed",4405,1019,"","Russian Jack Ski Trails"
+"3673","Unnamed",4406,2795,"","Kincaid Other Trails"
+"3674","Unnamed",4407,4443,"",NA
+"3675","Unnamed",4408,518,"",NA
+"3676","Unnamed",4409,4717,"","Beech Lake Ski Trails"
+"3677","Unnamed",4410,4627,"",NA
+"3678","Unnamed",4411,242,"","Beech Lake Ski Trails"
+"3679","Unnamed",4412,2338,"",NA
+"3680","Unnamed",4413,2266,"",NA
+"3681","Unnamed",4414,4527,"","Beech Lake Ski Trails"
+"3682","Unnamed",4415,3470,"",NA
+"3683","Unnamed",4416,1965,"",NA
+"3684","Unnamed",4417,798,"","Russian Jack Ski Trails"
+"3685","Unnamed",4418,2837,"","Kincaid Ski Trails"
+"3686","Unnamed",4419,1785,"",NA
+"3687","Unnamed",4420,3727,"",NA
+"3688","Unnamed",4421,2456,"",NA
+"3689","Unnamed",4422,4153,"",NA
+"3690","Unnamed",4423,2482,"",NA
+"3691","Unnamed",4424,2756,"","Kincaid Other Trails"
+"3692","Unnamed",4425,4114,"",NA
+"3693","Unnamed",4426,652,"",NA
+"3694","Unnamed",4427,1217,"",NA
+"3695","Mahaffey/APU",4428,1389,"","Tour of Anchorage"
+"3696","Unnamed",4429,2457,"",NA
+"3697","Margauxs Loop",4430,3044,"","Kincaid Ski Trails"
+"3698","Unnamed",4431,2961,"",NA
+"3699","Unnamed",4432,3793,"","Ruth Arcand Trails"
+"3700","Unnamed",4433,785,"","Russian Jack Ski Trails"
+"3701","Unnamed",4434,3111,"","Kincaid Ski Trails"
+"3702","Mahaffey/APU",4435,1536,"","Tour of Anchorage"
+"3703","Unnamed",4436,257,"","Beech Lake Ski Trails"
+"3704","Unnamed",4437,4568,"",NA
+"3705","Unnamed",4438,555,"",NA
+"3706","Unnamed",4439,237,"","Beech Lake Ski Trails"
+"3707","Unnamed",4440,2946,"",NA
+"3708","Unnamed",4441,2311,"",NA
+"3709","Unnamed",4442,3796,"","Ruth Arcand Trails"
+"3710","Chester Creek Trail",4443,889,"","Chester Creek Trail"
+"3711","Unnamed",4444,2321,"",NA
+"3712","Unnamed",4445,4615,"","Connors Bog Skijor"
+"3713","Unnamed",4446,733,"",NA
+"3714","Unnamed",4447,4764,"",NA
+"3715","Chester Creek Trail",4448,871,"","Chester Creek Trail"
+"3716","Unnamed",4449,3177,"","Kincaid Other Trails"
+"3717","Unnamed",4450,2214,"",NA
+"3718","Unnamed",4451,1901,"","Campbell Creek Trail"
+"3719","Unnamed",4452,25,"",NA
+"3720","Unnamed",4453,4349,"","Russian Jack Ski Trails"
+"3721","Margauxs Loop",4454,3069,"","Kincaid Ski Trails"
+"3722","Unnamed",4455,1507,"",NA
+"3723","Unnamed",4456,2975,"",NA
+"3724","Unnamed",4457,3234,"",NA
+"3725","Unnamed",4458,820,"","Russian Jack Ski Trails"
+"3726","Unnamed",4459,4147,"",NA
+"3727","Unnamed",4460,608,"",NA
+"3728","Unnamed",4461,511,"",NA
+"3729","Unnamed",4462,2901,"","Kincaid Other Trails"
+"3730","Campbell Creek Trail",4464,-6,"","Campbell Creek Trail"
+"3731","Campbell Creek Trail",4467,3331,"","Campbell Creek Trail"
+"3732","Unnamed",4468,3952,"",NA
+"3733","Campbell Creek Trail",4472,3341,"","Campbell Creek Trail"
+"3734","Old Seward Hwy. Trail",4473,4427,"",NA
+"3735","Spruce Loop",4475,4603,"","Connors Bog Skijor"
+"3736","Spruce Loop",4481,4610,"","Connors Bog Skijor"
+"3737","Campbell Creek Trail",4482,3331,"","Campbell Creek Trail"
+"3738","Unnamed",4483,4398,"","Hillside Ski Trails"
+"3739","Dimond (South Side)",4484,3400,"",NA
+"3740","Unnamed",4485,1495,"",NA
+"3741","Bartlett",4486,333,"","Bartlett Ski Trails"
+"3742","Tank Trail",4487,574,"",NA
+"3743","Chester Creek Trail",4488,-1,"","Chester Creek Trail"
+"3744","Chester Creek Trail",4489,-1,"","Chester Creek Trail"
+"3745","Ice Box",4490,3218,"","Kincaid Ski Trails"
+"3746","Chester Creek Trail",4491,-1,"","Chester Creek Trail"
+"3747","Upper Gasline Trail",4492,3443,"",NA
+"3748","Winner Creek Trail",4493,4220,"","Girdwood Trails"
+"3749","Unnamed",4494,3934,"",NA
+"3750","Unnamed",4495,1656,"",NA
+"3751","Unnamed",4496,683,"",NA
+"3752","Unnamed",4497,247,"","Beech Lake Ski Trails"
+"3753","Mahaffey/APU",4498,1379,"",NA
+"3754","Unnamed",4499,3354,"","Kincaid Other Trails"
+"3755","Unnamed",4500,466,"",NA
+"3756","Unnamed",4501,1591,"",NA
+"3757","Goose Lake Trail",4502,1238,"",NA
+"3758","Unnamed",4503,2354,"",NA
+"3759","Unnamed",4504,831,"","Russian Jack Ski Trails"
+"3760","Unnamed",4505,1414,"",NA
+"3761","Chester Creek Trail",4506,795,"","Chester Creek Trail"
+"3762","Unnamed",4507,278,"","Beech Lake Ski Trails"
+"3763","Unnamed",4508,4567,"",NA
+"3764","Unnamed",4509,673,"",NA
+"3765","Unnamed",4510,4437,"",NA
+"3766","Unnamed",4511,1477,"",NA
+"3767","Unnamed",4512,2195,"",NA
+"3768","Unnamed",4513,235,"","Beech Lake Ski Trails"
+"3769","Unnamed",4514,4608,"","Connors Bog Skijor"
+"3770","Unnamed",4515,578,"",NA
+"3771","Unnamed",4516,1939,"",NA
+"3772","Unnamed",4517,1470,"",NA
+"3773","Unnamed",4518,3994,"",NA
+"3774","Margauxs Loop",4519,2809,"","Kincaid Ski Trails"
+"3775","Unnamed",4520,3930,"",NA
+"3776","Unnamed",4521,2622,"",NA
+"3777","Unnamed",4522,1510,"",NA
+"3778","Jodhpur Loop",4523,3340,"","Kincaid Ski Trails"
+"3779","Unnamed",4524,1873,"",NA
+"3780","Unnamed",4525,635,"",NA
+"3781","Unnamed",4526,547,"",NA
+"3782","Unnamed",4527,2762,"",NA
+"3783","Unnamed",4528,707,"","Russian Jack Ski Trails"
+"3784","Unnamed",4529,2210,"",NA
+"3785","Unnamed",4530,4966,"","Connors Bog Skijor"
+"3786","Unnamed",4531,3938,"",NA
+"3787","Unnamed",4532,2275,"",NA
+"3788","Unnamed",4533,4526,"",NA
+"3789","Chester Creek Trail",4534,188,"","Chester Creek Trail"
+"3790","Unnamed",4535,1500,"",NA
+"3791","Unnamed",4536,3493,"",NA
+"3792","Unnamed",4537,8,"","Mirror Lake Ski Trails"
+"3793","Unnamed",4538,136,"","Beech Lake Ski Trails"
+"3794","Unnamed",4539,1816,"",NA
+"3795","Unnamed",4540,2892,"",NA
+"3796","Unnamed",4541,2686,"",NA
+"3797","Unnamed",4542,3,"",NA
+"3798","Unnamed",4543,1302,"",NA
+"3799","Unnamed",4544,3816,"","Ruth Arcand Trails"
+"3800","Unnamed",4545,2272,"",NA
+"3801","Unnamed",4546,3785,"","Ruth Arcand Trails"
+"3802","Unnamed",4547,1102,"",NA
+"3803","Unnamed",4548,1031,"",NA
+"3804","Unnamed",4549,3204,"",NA
+"3805","Unnamed",4550,3071,"","Kincaid Ski Trails"
+"3806","Mahaffey/APU",4551,1364,"","Tour of Anchorage"
+"3807","Unnamed",4552,4607,"","Connors Bog Skijor"
+"3808","Unnamed",4553,501,"",NA
+"3809","Mahaffey/APU",4554,1267,"","Tour of Anchorage"
+"3810","Campbell Creek Trail",4555,2093,"","Campbell Creek Trail"
+"3811","Unnamed",4556,3842,"","Ruth Arcand Trails"
+"3812","Unnamed",4557,3750,"","Ruth Arcand Trails"
+"3813","Unnamed",4558,1959,"",NA
+"3814","Unnamed",4559,2410,"",NA
+"3815","Unnamed",4560,369,"","Centennial Park Trails"
+"3816","Unnamed",4561,3770,"","Ruth Arcand Trails"
+"3817","Unnamed",4562,2531,"",NA
+"3818","Margauxs Loop",4563,2917,"","Kincaid Ski Trails"
+"3819","Unnamed",4564,1425,"",NA
+"3820","Unnamed",4565,938,"","Russian Jack Ski Trails"
+"3821","Unnamed",4566,2227,"",NA
+"3822","Main",4567,4961,"","Connors Bog Skijor"
+"3823","Unnamed",4568,3205,"",NA
+"3824","Unnamed",4569,3645,"",NA
+"3825","Unnamed",4570,2921,"","Kincaid Ski Trails"
+"3826","Unnamed",4571,1370,"",NA
+"3827","Unnamed",4572,611,"",NA
+"3828","Unnamed",4573,222,"","Beech Lake Ski Trails"
+"3829","Unnamed",4574,1054,"","Russian Jack Ski Trails"
+"3830","Unnamed",4575,248,"","Beech Lake Ski Trails"
+"3831","Unnamed",4576,75,"",NA
+"3832","Unnamed",4577,1490,"",NA
+"3833","Unnamed",4578,243,"","Beech Lake Ski Trails"
+"3834","Unnamed",4579,447,"",NA
+"3835","Unnamed",4580,3188,"","Kincaid Ski Trails"
+"3836","Unnamed",4581,492,"",NA
+"3837","Unnamed",4582,3862,"","Ruth Arcand Trails"
+"3838","Unnamed",4583,4598,"",NA
+"3839","Unnamed",4584,650,"","Russian Jack Ski Trails"
+"3840","Unnamed",4585,2552,"","Kincaid Other Trails"
+"3841","Unnamed",4586,699,"",NA
+"3842","Unnamed",4587,3870,"","Ruth Arcand Trails"
+"3843","Unnamed",4588,4382,"","Kincaid Other Trails"
+"3844","Unnamed",4589,253,"","Beech Lake Ski Trails"
+"3845","Unnamed",4590,552,"",NA
+"3846","Unnamed",4591,111,"","Beech Lake Ski Trails"
+"3847","Unnamed",4592,803,"","Russian Jack Ski Trails"
+"3848","Unnamed",4593,4389,"",NA
+"3849","Unnamed",4594,3764,"","Ruth Arcand Trails"
+"3850","Unnamed",4595,1915,"",NA
+"3851","Unnamed",4596,1441,"",NA
+"3852","Unnamed",4597,4312,"",NA
+"3853","Unnamed",4598,1262,"",NA
+"3854","Unnamed",4599,4817,"",NA
+"3855","Unnamed",4600,3829,"","Ruth Arcand Trails"
+"3856","Unnamed",4601,2437,"",NA
+"3857","Unnamed",4602,3372,"","Kincaid Other Trails"
+"3858","Unnamed",4603,95,"","Beech Lake Ski Trails"
+"3859","Unnamed",4604,3769,"","Ruth Arcand Trails"
+"3860","Unnamed",4605,1420,"",NA
+"3861","Campbell Creek Trail",4606,3530,"","Campbell Creek Trail"
+"3862","Unnamed",4607,3853,"","Ruth Arcand Trails"
+"3863","Unnamed",4608,1676,"","Kincaid Ski Trails"
+"3864","Goose Lake Trail",4609,4588,"",NA
+"3865","Unnamed",4610,695,"",NA
+"3866","Unnamed",4611,4768,"",NA
+"3867","Unnamed",4612,4417,"",NA
+"3868","ER Parks & Rec/HLB Trail",4613,0,"",NA
+"3869","ER Parks & Rec/HLB Trail",4614,0,"",NA
+"3870","Mahaffey/APU",4615,1422,"",NA
+"3871","Unnamed",4616,72,"",NA
+"3872","Unnamed",4617,3893,"","Ruth Arcand Trails"
+"3873","Unnamed",4618,1066,"",NA
+"3874","Unnamed",4619,3876,"","Ruth Arcand Trails"
+"3875","Unnamed",4620,201,"",NA
+"3876","Unnamed",4621,3194,"",NA
+"3877","Unnamed",4622,1529,"",NA
+"3878","Campbell Creek Trail",4623,2010,"","Campbell Creek Trail"
+"3879","Besh Lighted Loop",4624,3465,"","Hillside Ski Trails"
+"3880","Chester Creek Trail",4625,1154,"","Chester Creek Trail"
+"3881","Unnamed",4626,4550,"",NA
+"3882","Unnamed",4627,4729,"",NA
+"3883","Unnamed",4628,1481,"",NA
+"3884","Mahaffey/APU",4629,516,"","Tour of Anchorage"
+"3885","Unnamed",4630,2729,"",NA
+"3886","Unnamed",4631,1925,"",NA
+"3887","Unnamed",4632,1342,"",NA
+"3888","Unnamed",4633,4774,"",NA
+"3889","Unnamed",4634,3802,"","Ruth Arcand Trails"
+"3890","Unnamed",4635,4781,"",NA
+"3891","Unnamed",4636,2015,"",NA
+"3892","Unnamed",4637,2406,"",NA
+"3893","Unnamed",4638,2956,"",NA
+"3894","Unnamed",4639,4399,"",NA
+"3895","Unnamed",4640,4816,"",NA
+"3896","Unnamed",4641,254,"","Beech Lake Ski Trails"
+"3897","Unnamed",4642,1583,"",NA
+"3898","Unnamed",4643,459,"",NA
+"3899","Unnamed",4644,2551,"","Kincaid Other Trails"
+"3900","Unnamed",4645,3705,"",NA
+"3901","Besh Lighted Loop",4646,3408,"","Hillside Ski Trails"
+"3902","Unnamed",4647,985,"",NA
+"3903","Unnamed",4648,318,"",NA
+"3904","Unnamed",4649,4405,"","Russian Jack Ski Trails"
+"3905","Unnamed",4650,1811,"",NA
+"3906","Unnamed",4651,3992,"",NA
+"3907","Unnamed",4652,110,"","Beech Lake Ski Trails"
+"3908","Unnamed",4653,836,"","Russian Jack Ski Trails"
+"3909","Unnamed",4654,1814,"",NA
+"3910","Unnamed",4655,1954,"",NA
+"3911","Unnamed",4656,3762,"","Ruth Arcand Trails"
+"3912","Gasline Trail",4657,1970,"","Gasline Trail"
+"3913","Unnamed",4658,3089,"","Kincaid Other Trails"
+"3914","Unnamed",4659,626,"",NA
+"3915","Unnamed",4660,3895,"","Ruth Arcand Trails"
+"3916","Unnamed",4661,73,"",NA
+"3917","Unnamed",4662,2908,"","Kincaid Other Trails"
+"3918","Unnamed",4663,3496,"",NA
+"3919","Unnamed",4664,2734,"",NA
+"3920","Unnamed",4665,4566,"","Russian Jack Ski Trails"
+"3921","Mahaffey/APU",4666,1221,"","Tour of Anchorage"
+"3922","Unnamed",4667,2250,"",NA
+"3923","Jodhpur Loop",4668,3209,"","Kincaid Ski Trails"
+"3924","Unnamed",4669,1315,"",NA
+"3925","Unnamed",4670,619,"",NA
+"3926","Unnamed",4671,1378,"",NA
+"3927","Unnamed",4672,1944,"",NA
+"3928","Unnamed",4673,1334,"",NA
+"3929","Margauxs Loop",4674,3139,"","Kincaid Ski Trails"
+"3930","Unnamed",4675,4724,"",NA
+"3931","Campbell Creek Trail",4676,2381,"","Campbell Creek Trail"
+"3932","Unnamed",4677,2955,"",NA
+"3933","Unnamed",4678,2566,"",NA
+"3934","Campbell Creek Trail",4679,3593,"","Campbell Creek Trail"
+"3935","Unnamed",4680,2643,"",NA
+"3936","Unnamed",4681,4383,"","Russian Jack Ski Trails"
+"3937","ER Parks & Rec/HLB Trail",4682,0,"",NA
+"3938","ER Parks & Rec/HLB Trail",4683,0,"",NA
+"3939","AWWU Trail",4684,0,"",NA
+"3940","Eagle River High School Trail",4685,0,"",NA
+"3941","Eagle River High School Trail",4686,0,"",NA
+"3942","Eagle River High School Trail",4687,0,"",NA
+"3943","Eagle River High School Trail",4688,0,"",NA
+"3944","Eagle River High School Trail",4689,0,"",NA
+"3945","Eagle River High School Trail",4690,0,"",NA
+"3946","Coastal Trail",4691,-2,"","Coastal Trail"
+"3947","Fish Creek",4692,1759,"",NA
+"3948","Fish Creek",4694,1502,"",NA
+"3949","Fish Creek",4695,1600,"",NA
+"3950","Chalet Loop",4696,2863,"","Kincaid Ski Trails"
+"3951","Unnamed",4697,3830,"","Ruth Arcand Trails"
+"3952","Unnamed",4698,3756,"","Ruth Arcand Trails"
+"3953","Unnamed",4699,980,"","Russian Jack Ski Trails"
+"3954","Unnamed",4700,2630,"","Kincaid Other Trails"
+"3955","Unnamed",4701,1779,"",NA
+"3956","Unnamed",4702,80,"","Beech Lake Ski Trails"
+"3957","Unnamed",4703,3499,"",NA
+"3958","Unnamed",4704,4604,"","Connors Bog Skijor"
+"3959","Unnamed",4705,2772,"","Kincaid Other Trails"
+"3960","Unnamed",4706,2216,"",NA
+"3961","Unnamed",4707,109,"","Beech Lake Ski Trails"
+"3962","Unnamed",4708,4455,"","Kincaid Other Trails"
+"3963","Unnamed",4709,806,"",NA
+"3964","Unnamed",4710,49,"",NA
+"3965","Unnamed",4711,3141,"",NA
+"3966","Unnamed",4712,1429,"",NA
+"3967","Unnamed",4713,893,"",NA
+"3968","Unnamed",4714,4657,"",NA
+"3969","Unnamed",4715,2469,"",NA
+"3970","Unnamed",4716,1373,"",NA
+"3971","Unnamed",4717,4639,"","Kincaid Other Trails"
+"3972","Unnamed",4718,1090,"","Coastal Trail"
+"3973","Jodhpur Loop",4719,3232,"","Kincaid Ski Trails"
+"3974","Mahaffey/APU",4720,1485,"",NA
+"3975","Unnamed",4721,398,"",NA
+"3976","Unnamed",4722,171,"","Russian Jack Ski Trails"
+"3977","Unnamed",4723,2950,"","Kincaid Other Trails"
+"3978","Unnamed",4724,152,"",NA
+"3979","Unnamed",4725,4823,"",NA
+"3980","Unnamed",4726,1484,"",NA
+"3981","Unnamed",4727,1033,"",NA
+"3982","Unnamed",4728,1448,"",NA
+"3983","Unnamed",4729,3760,"","Ruth Arcand Trails"
+"3984","Unnamed",4730,2231,"",NA
+"3985","Unnamed",4731,503,"","Russian Jack Ski Trails"
+"3986","Unnamed",4732,3970,"","Kincaid Other Trails"
+"3987","Unnamed",4733,1852,"",NA
+"3988","Unnamed",4734,1858,"",NA
+"3989","Unnamed",4735,726,"","Russian Jack Ski Trails"
+"3990","Unnamed",4736,2428,"",NA
+"3991","Unnamed",4737,1471,"",NA
+"3992","Unnamed",4738,226,"","Beech Lake Ski Trails"
+"3993","Unnamed",4739,716,"",NA
+"3994","Unnamed",4740,1969,"","Kincaid Other Trails"
+"3995","Unnamed",4741,3385,"","Kincaid Other Trails"
+"3996","Unnamed",4742,1847,"",NA
+"3997","Unnamed",4743,3098,"",NA
+"3998","Unnamed",4744,3056,"","Kincaid Other Trails"
+"3999","Unnamed",4745,1286,"",NA
+"4000","Unnamed",4746,4428,"","Kincaid Other Trails"
+"4001","Unnamed",4747,2342,"",NA
+"4002","Unnamed",4748,3022,"","Kincaid Other Trails"
+"4003","Unnamed",4749,787,"",NA
+"4004","Unnamed",4750,2539,"","Kincaid Other Trails"
+"4005","Unnamed",4751,817,"","Russian Jack Ski Trails"
+"4006","Unnamed",4752,2536,"",NA
+"4007","Unnamed",4753,4533,"",NA
+"4008","Unnamed",4754,4665,"","Kincaid Other Trails"
+"4009","Unnamed",4755,2325,"",NA
+"4010","Unnamed",4756,3863,"","Ruth Arcand Trails"
+"4011","Unnamed",4757,559,"",NA
+"4012","Unnamed",4758,1099,"",NA
+"4013","Unnamed",4759,3454,"","Kincaid Other Trails"
+"4014","Unnamed",4760,1347,"",NA
+"4015","Unnamed",4761,4515,"",NA
+"4016","Unnamed",4762,2337,"",NA
+"4017","Unnamed",4763,4793,"",NA
+"4018","Unnamed",4764,3132,"","Kincaid Ski Trails"
+"4019","Unnamed",4765,4815,"",NA
+"4020","Unnamed",4766,4806,"","Kincaid Other Trails"
+"4021","Unnamed",4767,3073,"","Coastal Trail"
+"4022","Unnamed",4768,4573,"",NA
+"4023","Chester Creek Trail",4769,950,"","Chester Creek Trail"
+"4024","Unnamed",4770,725,"","Russian Jack Ski Trails"
+"4025","Unnamed",4771,2727,"",NA
+"4026","Unnamed",4772,352,"",NA
+"4027","Unnamed",4773,4748,"","Kincaid Other Trails"
+"4028","Unnamed",4774,2619,"","Kincaid Other Trails"
+"4029","Unnamed",4775,2563,"",NA
+"4030","Unnamed",4776,2585,"",NA
+"4031","Unnamed",4777,251,"","Beech Lake Ski Trails"
+"4032","Unnamed",4778,3890,"",NA
+"4033","Unnamed",4779,3587,"",NA
+"4034","Campbell Creek Trail",4780,3461,"","Campbell Creek Trail"
+"4035","Unnamed",4781,3708,"",NA
+"4036","Unnamed",4782,4586,"",NA
+"4037","Margauxs Loop",4783,2783,"","Kincaid Ski Trails"
+"4038","Unnamed",4784,444,"",NA
+"4039","Unnamed",4785,2697,"",NA
+"4040","Unnamed",4786,3818,"","Ruth Arcand Trails"
+"4041","Mahaffey/APU",4787,1271,"","Tour of Anchorage"
+"4042","Unnamed",4788,2350,"",NA
+"4043","Unnamed",4789,3140,"",NA
+"4044","Unnamed",4790,4605,"",NA
+"4045","Unnamed",4791,2635,"",NA
+"4046","Unnamed",4792,3846,"","Ruth Arcand Trails"
+"4047","Unnamed",4793,2432,"",NA
+"4048","Unnamed",4794,1984,"","Ruth Arcand Trails"
+"4049","Unnamed",4795,1765,"",NA
+"4050","Unnamed",4796,206,"",NA
+"4051","Unnamed",4797,3878,"","Ruth Arcand Trails"
+"4052","Unnamed",4798,54,"",NA
+"4053","Chester Creek Trail",4799,1114,"",NA
+"4054","Unnamed",4800,2347,"",NA
+"4055","Campbell Creek Trail",4801,3343,"","Campbell Creek Trail"
+"4056","Unnamed",4802,4669,"",NA
+"4057","Unnamed",4803,2471,"",NA
+"4058","Unnamed",4804,219,"","Beech Lake Ski Trails"
+"4059","Unnamed",4805,2853,"","Kincaid Other Trails"
+"4060","Unnamed",4806,1711,"",NA
+"4061","Unnamed",4807,1044,"",NA
+"4062","Unnamed",4808,2259,"",NA
+"4063","Powerline",4809,3668,"",NA
+"4064","Unnamed",4810,2327,"",NA
+"4065","Campbell Creek Trail",4811,2011,"","Campbell Creek Trail"
+"4066","Unnamed",4812,929,"","Russian Jack Ski Trails"
+"4067","Unnamed",4813,2554,"",NA
+"4068","Unnamed",4814,3883,"","Ruth Arcand Trails"
+"4069","Unnamed",4815,738,"","Russian Jack Ski Trails"
+"4070","Unnamed",4816,1681,"","Coastal Trail"
+"4071","UAA Ski",4817,1235,"","Tour of Anchorage"
+"4072","Viewpoint Trail",4818,2923,"","Tour of Anchorage"
+"4073","Glenn Hwy Trail",4819,-5,"","Glenn Hwy Trail"
+"4074","Homecoming/poleline",4820,2372,"",NA
+"4075","North Gasline/powerline Trail",4821,2374,"",NA
+"4076","Arlene's Way",4822,2375,"","Kincaid Ski Trails"
+"4077","Alex Sisson Loop",4824,2670,"","Kincaid Ski Trails"
+"4078","Grass Trail",4825,3607,"",NA
+"4079","Bartlett",4826,342,"","Bartlett Ski Trails"
+"4080","Campbell Creek Trail",4827,3293,"","Campbell Creek Trail"
+"4081","Unnamed",4828,529,"",NA
+"4082","Unnamed",4829,2854,"","Kincaid Other Trails"
+"4083","Unnamed",4830,2466,"",NA
+"4084","Unnamed",4831,2184,"",NA
+"4085","Unnamed",4832,4629,"","Kincaid Other Trails"
+"4086","Unnamed",4833,2843,"",NA
+"4087","Unnamed",4834,1496,"",NA
+"4088","Unnamed",4835,784,"","Russian Jack Ski Trails"
+"4089","Unnamed",4836,653,"","Russian Jack Ski Trails"
+"4090","Unnamed",4837,262,"","Beech Lake Ski Trails"
+"4091","Unnamed",4838,3747,"","Ruth Arcand Trails"
+"4092","Unnamed",4839,2713,"","Kincaid Other Trails"
+"4093","Unnamed",4840,3948,"",NA
+"4094","Unnamed",4841,3129,"","Kincaid Ski Trails"
+"4095","Unnamed",4842,2059,"",NA
+"4096","Unnamed",4843,457,"",NA
+"4097","Unnamed",4844,865,"",NA
+"4098","Unnamed",4845,202,"",NA
+"4099","Unnamed",4846,4787,"",NA
+"4100","Unnamed",4847,1301,"",NA
+"4101","Unnamed",4848,77,"","Beech Lake Ski Trails"
+"4102","Unnamed",4849,2823,"","Kincaid Other Trails"
+"4103","Unnamed",4850,2688,"",NA
+"4104","Jodhpur Loop",4851,3136,"","Kincaid Ski Trails"
+"4105","Unnamed",4852,954,"","Russian Jack Ski Trails"
+"4106","Unnamed",4853,3474,"",NA
+"4107","Unnamed",4854,3314,"","Kincaid Ski Trails"
+"4108","Unnamed",4855,137,"","Beech Lake Ski Trails"
+"4109","Unnamed",4856,3094,"",NA
+"4110","Unnamed",4857,3316,"","Kincaid Other Trails"
+"4111","Mahaffey/APU",4858,1411,"",NA
+"4112","Unnamed",4859,3848,"","Ruth Arcand Trails"
+"4113","Goose Lake Trail",4860,1297,"",NA
+"4114","Unnamed",4861,1853,"",NA
+"4115","Unnamed",4862,2915,"","Kincaid Other Trails"
+"4116","Unnamed",4863,1196,"","Coastal Trail"
+"4117","Unnamed",4864,166,"","Russian Jack Ski Trails"
+"4118","Unnamed",4865,204,"","Coastal Trail"
+"4119","Unnamed",4866,3837,"","Ruth Arcand Trails"
+"4120","Mahaffey/APU",4867,1475,"",NA
+"4121","Unnamed",4868,165,"",NA
+"4122","Unnamed",4869,1863,"",NA
+"4123","Unnamed",4870,1209,"",NA
+"4124","Campbell Creek Trail",4871,1658,"","Campbell Creek Trail"
+"4125","Unnamed",4872,224,"","Beech Lake Ski Trails"
+"4126","Tower Power",4873,0,"","Kincaid Single Track"
+"4127","Kitchen Sink",4874,0,"","Kincaid Single Track"
+"4128","Sand Box",4875,0,"","Kincaid Single Track"
+"4129","C$ Express",4876,0,"","Kincaid Single Track"
+"4130","Lee's Train",4877,0,"","Kincaid Single Track"
+"4131","Good Greeff",4878,0,"","Kincaid Single Track"
+"4132","QFB",4879,0,"","Kincaid Single Track"
+"4133","Mighty Bike",4880,0,"","Kincaid Single Track"
+"4134","Bolling Alley",4881,0,"","Kincaid Single Track"
+"4135","Toilet Bowl",4882,0,"","Kincaid Single Track"
+"4136","Unnamed",4883,616,"",NA
+"4137","Unnamed",4884,680,"",NA
+"4138","Unnamed",4885,800,"",NA
+"4139","Unnamed",4886,517,"",NA
+"4140","Unnamed",4887,4744,"",NA
+"4141","Unnamed",4888,4792,"","Kincaid Other Trails"
+"4142","Unnamed",4889,3695,"",NA
+"4143","Unnamed",4890,775,"",NA
+"4144","Unnamed",4891,1624,"",NA
+"4145","Unnamed",4892,3045,"","Kincaid Other Trails"
+"4146","Unnamed",4893,2547,"",NA
+"4147","Besh Lighted Loop",4894,3618,"","Hillside Ski Trails"
+"4148","Unnamed",4895,4098,"",NA
+"4149","Unnamed",4896,1325,"",NA
+"4150","Unnamed",4897,691,"","Russian Jack Ski Trails"
+"4151","Unnamed",4898,3966,"",NA
+"4152","Margauxs Loop",4899,2994,"","Kincaid Ski Trails"
+"4153","Unnamed",4900,3845,"","Ruth Arcand Trails"
+"4154","Unnamed",4901,1881,"",NA
+"4155","Unnamed",4902,1323,"",NA
+"4156","Margauxs Loop",4903,2991,"","Kincaid Ski Trails"
+"4157","Unnamed",4904,4347,"","Russian Jack Ski Trails"
+"4158","Unnamed",4905,3097,"",NA
+"4159","Unnamed",4906,3811,"","Ruth Arcand Trails"
+"4160","Unnamed",4907,2565,"",NA
+"4161","Unnamed",4908,3774,"","Ruth Arcand Trails"
+"4162","Unnamed",4909,3438,"",NA
+"4163","Unnamed",4910,4184,"",NA
+"4164","Unnamed",4911,4759,"",NA
+"4165","Unnamed",4912,4795,"",NA
+"4166","Unnamed",4913,1303,"",NA
+"4167","Unnamed",4914,320,"",NA
+"4168","Unnamed",4915,1941,"",NA
+"4169","Unnamed",4916,827,"",NA
+"4170","Coastal Trail",4917,-2,"","Coastal Trail"
+"4171","Coastal Trail",4918,-2,"","Coastal Trail"
+"4172","Unnamed",4921,2888,"",NA
+"4173","Unnamed",4922,270,"","Beech Lake Ski Trails"
+"4174","Unnamed",4923,1571,"",NA
+"4175","Unnamed",4924,751,"",NA
+"4176","Unnamed",4925,3823,"","Ruth Arcand Trails"
+"4177","Unnamed",4926,4553,"",NA
+"4178","Unnamed",4927,249,"","Beech Lake Ski Trails"
+"4179","Unnamed",4928,1538,"",NA
+"4180","Unnamed",4929,1667,"",NA
+"4181","Chester Creek Trail",4930,1016,"","Chester Creek Trail"
+"4182","Unnamed",4931,859,"",NA
+"4183","Unnamed",4932,476,"",NA
+"4184","Mahaffey/APU",4933,1404,"",NA
+"4185","Unnamed",4934,3851,"","Ruth Arcand Trails"
+"4186","Unnamed",4935,1030,"",NA
+"4187","Unnamed",4936,742,"",NA
+"4188","Unnamed",4937,723,"",NA
+"4189","Unnamed",4938,2310,"",NA
+"4190","Goose Lake Trail",4939,1222,"",NA
+"4191","Unnamed",4940,179,"","Russian Jack Ski Trails"
+"4192","Unnamed",4941,4773,"",NA
+"4193","Unnamed",4942,731,"","Russian Jack Ski Trails"
+"4194","Unnamed",4943,4523,"","Russian Jack Ski Trails"
+"4195","Unnamed",4944,4659,"",NA
+"4196","Unnamed",4945,4692,"",NA
+"4197","Unnamed",4946,3361,"","Kincaid Other Trails"
+"4198","Unnamed",4947,643,"",NA
+"4199","Unnamed",4948,3721,"",NA
+"4200","Unnamed",4949,1215,"",NA
+"4201","Unnamed",4950,2042,"",NA
+"4202","Unnamed",4951,3988,"",NA
+"4203","Unnamed",4952,1985,"","Ruth Arcand Trails"
+"4204","Mahaffey/APU",4953,1259,"",NA
+"4205","Unnamed",4954,3820,"","Ruth Arcand Trails"
+"4206","Unnamed",4955,879,"",NA
+"4207","Unnamed",4956,3373,"","Kincaid Other Trails"
+"4208","Unnamed",4957,4376,"",NA
+"4209","Unnamed",4958,3233,"",NA
+"4210","Unnamed",4959,4477,"",NA
+"4211","Unnamed",4960,527,"",NA
+"4212","Unnamed",4961,182,"",NA
+"4213","Unnamed",4962,2353,"",NA
+"4214","Unnamed",4963,3437,"",NA
+"4215","Unnamed",4964,2683,"",NA
+"4216","Mahaffey/APU",4965,1498,"","Tour of Anchorage"
+"4217","Unnamed",4966,1938,"",NA
+"4218","Unnamed",4967,2533,"",NA
+"4219","Unnamed",4968,1034,"",NA
+"4220","Jodhpur Loop",4969,3319,"","Kincaid Ski Trails"
+"4221","Unnamed",4970,4685,"",NA
+"4222","Unnamed",4971,277,"","Beech Lake Ski Trails"
+"4223","Unnamed",4972,445,"",NA
+"4224","Unnamed",4973,4745,"",NA
+"4225","Unnamed",4974,2588,"",NA
+"4226","Unnamed",4975,1602,"",NA
+"4227","Unnamed",4976,2982,"","Kincaid Ski Trails"
+"4228","Unnamed",4977,974,"","Russian Jack Ski Trails"
+"4229","Unnamed",4978,98,"","Beech Lake Ski Trails"
+"4230","Unnamed",4979,4476,"",NA
+"4231","Unnamed",4980,811,"","Russian Jack Ski Trails"
+"4232","Mahaffey/APU",4981,1474,"","Tour of Anchorage"
+"4233","Unnamed",4982,4350,"",NA
+"4234","Unnamed",4983,150,"",NA
+"4235","Unnamed",4984,3755,"","Ruth Arcand Trails"
+"4236","Unnamed",4985,316,"",NA
+"4237","Unnamed",4986,2691,"",NA
+"4238","Unnamed",4987,2212,"",NA
+"4239","Campbell Creek Trail",4988,1907,"","Campbell Creek Trail"
+"4240","Unnamed",4989,986,"","Russian Jack Ski Trails"
+"4241","Unnamed",4990,1107,"","Coastal Trail"
+"4242","Unnamed",4991,670,"","Russian Jack Ski Trails"
+"4243","Unnamed",4992,275,"","Beech Lake Ski Trails"
+"4244","Unnamed",4993,1621,"",NA
+"4245","Unnamed",4994,3024,"","Kincaid Other Trails"
+"4246","Campbell Creek Trail",4995,1650,"","Campbell Creek Trail"
+"4247","Unnamed",4996,1074,"",NA
+"4248","Unnamed",4997,3244,"",NA
+"4249","Unnamed",4998,3345,"",NA
+"4250","Unnamed",4999,1540,"",NA
+"4251","Unnamed",5000,1777,"",NA
+"4252","Mahaffey/APU",5001,1216,"","Tour of Anchorage"
+"4253","Unnamed",5002,169,"","Russian Jack Ski Trails"
+"4254","Unnamed",5003,326,"",NA
+"4255","Unnamed",5004,2257,"",NA
+"4256","Unnamed",5005,2774,"",NA
+"4257","Unnamed",5006,4116,"",NA
+"4258","Unnamed",5007,4549,"",NA
+"4259","Unnamed",5008,1761,"",NA
+"4260","Unnamed",5009,90,"","Beech Lake Ski Trails"
+"4261","Chester Creek Trail",5010,945,"","Chester Creek Trail"
+"4262","Unnamed",5011,1845,"",NA
+"4263","Unnamed",5012,4513,"",NA
+"4264","Unnamed",5013,2242,"",NA
+"4265","Unnamed",5014,2218,"",NA
+"4266","Unnamed",5015,633,"",NA
+"4267","Unnamed",5016,1318,"",NA
+"4268","Unnamed",5017,737,"","Russian Jack Ski Trails"
+"4269","Unnamed",5018,4498,"",NA
+"4270","Unnamed",5019,830,"",NA
+"4271","Unnamed",5020,631,"","Russian Jack Ski Trails"
+"4272","Main",5021,4967,"","Connors Bog Skijor"
+"4273","Unnamed",5022,3512,"",NA
+"4274","Unnamed",5023,2912,"","Kincaid Ski Trails"
+"4275","Unnamed",5024,572,"",NA
+"4276","Unnamed",5025,826,"","Russian Jack Ski Trails"
+"4277","Unnamed",5026,4208,"","Girdwood Trails"
+"4278","Unnamed",5027,3220,"","Kincaid Other Trails"
+"4279","Unnamed",5028,4711,"",NA
+"4280","Unnamed",5029,2498,"",NA
+"4281","Unnamed",5030,1398,"",NA
+"4282","Unnamed",5031,274,"","Beech Lake Ski Trails"
+"4283","Unnamed",5032,2160,"","Kincaid Other Trails"
+"4284","Unnamed",5033,2143,"",NA
+"4285","Unnamed",5034,2453,"",NA
+"4286","Unnamed",5035,2679,"",NA
+"4287","Unnamed",5036,2948,"","Kincaid Other Trails"
+"4288","Unnamed",5037,467,"",NA
+"4289","Unnamed",5038,1795,"",NA
+"4290","Unnamed",5039,10,"","Mirror Lake Ski Trails"
+"4291","Unnamed",5040,221,"","Beech Lake Ski Trails"
+"4292","Unnamed",5041,3937,"",NA
+"4293","Unnamed",5042,1692,"",NA
+"4294","Unnamed",5043,3586,"",NA
+"4295","Unnamed",5044,3799,"","Ruth Arcand Trails"
+"4296","Margauxs Loop",5045,3053,"","Kincaid Ski Trails"
+"4297","Unnamed",5046,881,"","Russian Jack Ski Trails"
+"4298","Unnamed",5047,584,"",NA
+"4299","Unnamed",5048,3751,"","Ruth Arcand Trails"
+"4300","Unnamed",5049,3782,"","Ruth Arcand Trails"
+"4301","Unnamed",5050,1506,"",NA
+"4302","Unnamed",5051,3850,"","Ruth Arcand Trails"
+"4303","Unnamed",5052,1003,"",NA
+"4304","Unnamed",5053,1455,"",NA
+"4305","Unnamed",5054,3078,"",NA
+"4306","Unnamed",5055,2241,"",NA
+"4307","Unnamed",5056,1052,"",NA
+"4308","Gasline Trail",5057,4162,"",NA
+"4309","Unnamed",5058,4469,"","Beech Lake Ski Trails"
+"4310","Margauxs Loop",5059,3051,"","Kincaid Ski Trails"
+"4311","Unnamed",5060,37,"","Mirror Lake Ski Trails"
+"4312","Unnamed",5061,4763,"","Beech Lake Ski Trails"
+"4313","Unnamed",5062,3759,"","Ruth Arcand Trails"
+"4314","Unnamed",5063,671,"",NA
+"4315","Campbell Creek Trail",5064,3295,"","Campbell Creek Trail"
+"4316","Unnamed",5065,4608,"",NA
+"4317","Unnamed",5066,2081,"",NA
+"4318","Margauxs Loop",5067,3146,"","Kincaid Ski Trails"
+"4319","Unnamed",5068,2957,"",NA
+"4320","Unnamed",5069,729,"",NA
+"4321","Unnamed",5070,1674,"","Kincaid Other Trails"
+"4322","Unnamed",5071,600,"",NA
+"4323","Unnamed",5072,227,"","Beech Lake Ski Trails"
+"4324","Unnamed",5073,1822,"",NA
+"4325","Unnamed",5074,3242,"",NA
+"4326","Unnamed",5075,594,"",NA
+"4327","Unnamed",5076,480,"",NA
+"4328","Unnamed",5077,1032,"","Russian Jack Ski Trails"
+"4329","Unnamed",5078,461,"",NA
+"4330","Unnamed",5079,1768,"",NA
+"4331","Unnamed",5080,2505,"",NA
+"4332","Unnamed",5081,3332,"","Kincaid Ski Trails"
+"4333","Unnamed",5082,360,"",NA
+"4334","Gasline Trail",5083,3181,"","Gasline Trail"
+"4335","Unnamed",5084,722,"","Russian Jack Ski Trails"
+"4336","Unnamed",5085,3261,"",NA
+"4337","Unnamed",5086,2475,"",NA
+"4338","Unnamed",5087,211,"","Beech Lake Ski Trails"
+"4339","Unnamed",5088,1798,"",NA
+"4340","Unnamed",5089,2574,"",NA
+"4341","Unnamed",5090,147,"","Beech Lake Ski Trails"
+"4342","Unnamed",5091,4754,"",NA
+"4343","Unnamed",5092,4520,"",NA
+"4344","Unnamed",5093,1983,"","Ruth Arcand Trails"
+"4345","Unnamed",5094,645,"",NA
+"4346","Unnamed",5095,1184,"",NA
+"4347","Mahaffey/APU",5096,1248,"",NA
+"4348","Unnamed",5097,2898,"",NA
+"4349","Unnamed",5098,146,"","Beech Lake Ski Trails"
+"4350","Unnamed",5099,2349,"",NA
+"4351","Unnamed",5100,118,"","Beech Lake Ski Trails"
+"4352","Unnamed",5101,3872,"","Ruth Arcand Trails"
+"4353","Unnamed",5102,651,"","Russian Jack Ski Trails"
+"4354","Unnamed",5103,919,"","Russian Jack Ski Trails"
+"4355","Unnamed",5104,1242,"",NA
+"4356","Unnamed",5105,216,"","Beech Lake Ski Trails"
+"4357","Unnamed",5106,4222,"",NA
+"4358","Unnamed",5107,238,"","Beech Lake Ski Trails"
+"4359","Unnamed",5108,4525,"",NA
+"4360","Unnamed",5109,1093,"","Coastal Trail"
+"4361","Unnamed",5110,3814,"","Ruth Arcand Trails"
+"4362","Unnamed",5111,3672,"","Hillside Ski Trails"
+"4363","Unnamed",5112,1042,"",NA
+"4364","Unnamed",5113,3789,"","Ruth Arcand Trails"
+"4365","Unnamed",5114,3001,"",NA
+"4366","Besh Lighted Loop",5115,3469,"","Hillside Ski Trails"
+"4367","Unnamed",5116,4541,"","Beech Lake Ski Trails"
+"4368","Campbell Creek Trail",5117,3542,"","Campbell Creek Trail"
+"4369","Unnamed",5118,3017,"","Kincaid Other Trails"
+"4370","Unnamed",5119,710,"","Russian Jack Ski Trails"
+"4371","Unnamed",5120,193,"","Russian Jack Ski Trails"
+"4372","Unnamed",5121,839,"",NA
+"4373","Unnamed",5122,2591,"",NA
+"4374","Unnamed",5123,3252,"",NA
+"4375","Unnamed",5124,3423,"",NA
+"4376","Unnamed",5125,2979,"",NA
+"4377","Unnamed",5126,5,"",NA
+"4378","Unnamed",5127,161,"",NA
+"4379","Unnamed",5128,3589,"",NA
+"4380","Virgin Creek Trail System",5129,1992,"","Girdwood Trails"
+"4381","Virgin Creek Trail System",5130,1995,"","Girdwood Trails"
+"4382","Outgoing Trail",5131,2000,"",NA
+"4383","Coastal Trail",5132,-2,"","Coastal Trail"
+"4384","Outgoing Trail",5133,2012,"",NA
+"4385","Lake Loop",5134,2638,"","Kincaid Ski Trails"
+"4386","Beaver Dam Trail",5135,2100,"",NA
+"4387","North Gasline/powerline Trail",5136,2116,"",NA
+"4388","Alex Sisson Loop",5137,2659,"","Kincaid Ski Trails"
+"4389","Inner Lake Loop",5138,2846,"","Kincaid Ski Trails"
+"4390","Tank Trail",5139,2998,"",NA
+"4391","Unnamed",5140,3077,"","Kincaid Other Trails"
+"4392","Unnamed",5141,3368,"",NA
