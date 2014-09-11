@@ -30,7 +30,7 @@ lines <- c(chugach_trails@lines, anc_trails@lines)
 ##########DATA CLEANING############
 
 remove trail names with "Unnamed" or NA
-cleaning_vector <-  is.na(dat$TRAIL_NAME) #| dat$TRAIL_NAME == "Unnamed" 
+cleaning_vector <-  is.na(dat$TRAIL_NAME) | dat$TRAIL_NAME == "Unnamed" 
 
 dat  <- dat[!cleaning_vector,]
 lines <- lines[!cleaning_vector]
@@ -76,7 +76,7 @@ for(i in seq(dim(dat)[1])) {
                                                          coordinates = lines[[i]]@Lines[[1]]@coords),
                                          id = as.character(dat$new_id[i]),
                                          properties = list(steward = dat$MANAGEMENT[i],
-                                                           source = "NotAvailable",
+                                                           source = "TestOrganization",
                                                            trail1 = as.character(dat$TRAIL_NAME[i]), 
                                                            motor_vehicles = "no",
                                                            foot = "yes",
@@ -101,9 +101,9 @@ for(i in seq(length(lines))) {
 
 named_trails <- data.frame(id = dat$ROUTEID,
                            name = dat$TRAIL_NAME, 
-                           steward = "NotAvailable",,
-                           source = "NotAvailable",
-                           length = "1.4"
+                           steward = "NPS",
+                           source = "NPS",
+                           length = 1.4,
                            description = "TestDescription",
                            part_of = dat$SYSTEM_NAM)
 # write named_trails.csv
@@ -116,22 +116,22 @@ trailheads <- list(type = "FeatureCollection",
 
 for(i in seq(dim(dat)[1])) {
     
-    trailheads$features[[i]] <- list(type = "FeatureCollection",
-                                     features = list(type = "Feature",
-                                                     properties = list(name = as.character(dat$TRAIL_NAME[i]),
+    trailheads$features[[i]] <- list(type = "Feature",
+                                     geometry = list(type = "Point",
+                                                      coordinates = lines[[i]]@Lines[[1]]@coords[1,]),
+                                     properties = list(name = as.character(dat$TRAIL_NAME[i]),
+                                                       trail1 = as.character(dat$TRAIL_NAME[i]),
                                                                        id = dat$ROUTEID[i],
                                                                        trail_ids = dat$new_id[i],
                                                                        steward_id = as.character(dat$MANAGEMENT[i]),
                                                                        address = character(),
                                                                        parking = character(),
                                                                        drinkwater = character(),
+                                                                       source = "TestOrganization",
                                                                        restrooms = character(),
                                                                        kiosk = character(),
-                                                                       osm_tags = character()),
-                                                     geometery = list(type = "Point",
-                                                                      coordinates = lines[[i]]@Lines[[1]]@coords[1,])
+                                                                       osm_tags = character())
                                      )
-    )
     
 }
 #validate "Point"
