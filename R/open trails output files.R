@@ -31,9 +31,9 @@ lines <- c(chugach_trails@lines, anc_trails@lines)
 
 remove trail names with "Unnamed" or NA
 cleaning_vector <-  is.na(dat$TRAIL_NAME) #| dat$TRAIL_NAME == "Unnamed" 
-
-dat  <- dat[!cleaning_vector,]
-lines <- lines[!cleaning_vector]
+#just see NA and Unnammed
+dat  <- dat[cleaning_vector,]
+lines <- lines[cleaning_vector]
 
 remove all trails on roads
 road_trails <- str_detect(dat$TRAIL_NAME, "Ave Trail") | 
