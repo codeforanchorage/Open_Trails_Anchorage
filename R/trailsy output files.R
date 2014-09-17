@@ -72,7 +72,7 @@ trail_segments <- list(type = "FeatureCollection",
 
 for(i in seq(dim(dat)[1])) {
     
-    trail_segments$features[[i]] <- list(geometry = list(type = "MultiLineString",
+    trail_segments$features[[i]] <- list(geometry = list(type = "LineString",
                                                          coordinates = lines[[i]]@Lines[[1]]@coords),
                                          id = as.character(dat$new_id[i]),
                                          properties = list(steward = dat$MANAGEMENT[i],
@@ -101,8 +101,8 @@ for(i in seq(length(lines))) {
 
 named_trails <- data.frame(id = dat$ROUTEID,
                            name = dat$TRAIL_NAME, 
-                           steward = "NPS",
-                           source = "NPS",
+                           steward = "TestOrganization",
+                           source = "TestOrganization",
                            length = 1.4,
                            description = "TestDescription",
                            part_of = dat$SYSTEM_NAM)
@@ -119,18 +119,18 @@ for(i in seq(dim(dat)[1])) {
     trailheads$features[[i]] <- list(type = "Feature",
                                      properties = list(name = as.character(dat$TRAIL_NAME[i]),
                                                        trail1 = as.character(dat$TRAIL_NAME[i]),
-                                                                       id = dat$ROUTEID[i],
-                                                                       trail_ids = dat$new_id[i],
-                                                                       steward_id = as.character(dat$MANAGEMENT[i]),
-                                                                       address = character(),
-                                                                       parking = character(),
-                                                                       drinkwater = character(),
-                                                                       source = "TestOrganization",
-                                                                       restrooms = character(),
-                                                                       kiosk = character(),
-                                                                       osm_tags = character()),
+                                                       id = dat$ROUTEID[i],
+                                                       trail_ids = dat$new_id[i],
+                                                       steward_id = as.character(dat$MANAGEMENT[i]),
+                                                       address = character(),
+                                                       parking = character(),
+                                                       drinkwater = character(),
+                                                       source = "TestOrganization",
+                                                       restrooms = character(),
+                                                       kiosk = character(),
+                                                       osm_tags = character()),
                                      geometry = list(type = "Point",
-                                                     coordinates = lines[[i]]@Lines[[1]]@coords[1,]),
+                                                     coordinates = lines[[i]]@Lines[[1]]@coords[1,])
                                      )
     
 }
