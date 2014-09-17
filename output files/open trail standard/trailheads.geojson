@@ -1,196 +1,4207 @@
 {
  "type": "FeatureCollection",
 "features": [
- null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null 
+ {
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 105,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.560415, 61.3760033 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 107,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.567443, 61.3693374 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 108,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.568354, 61.3688968 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 109,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.569325, 61.3684933 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 110,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.583953, 61.3646591 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 112,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.584509, 61.3599044 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 113,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.599008, 61.3558581 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 114,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.599757, 61.3556016 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 115,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.600061, 61.3548883 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 116,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.600607, 61.3546137 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 117,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.601375, 61.3550237 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 118,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.615143, 61.3528575 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 119,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.599593,  61.353924 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 120,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.599033, 61.3540884 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 121,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.582832, 61.3590636 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 122,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.582704,  61.359532 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 123,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.579309, 61.3641899 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 124,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.573646, 61.3656905 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 125,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.567768,  61.367669 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 126,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.567198, 61.3682825 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 127,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.566707, 61.3684792 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 128,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.559376, 61.3757813 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 129,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.551383, 61.3830939 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 130,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.54338, 61.3859089 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 131,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.539745, 61.3912343 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 132,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.548388, 61.3991103 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 133,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.554993, 61.4009406 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 134,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.556404, 61.4007135 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 135,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.557789, 61.3994379 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 136,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.558061, 61.3982564 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 137,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.559205,  61.393276 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 138,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.558537, 61.3921851 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 139,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.55594, 61.3891303 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 140,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.544277,  61.386083 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 141,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.543777, 61.3858027 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 142,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.542954, 61.3952408 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 143,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.543592, 61.3936812 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 167,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.54399, 61.3935578 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 168,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.549813, 61.3945875 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 170,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.557828, 61.3930332 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 171,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.55594, 61.3891303 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 172,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.555416,  61.388967 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 173,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.561164, 61.3885875 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 174,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.568177, 61.4049377 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 175,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.56229, 61.4074343 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 194,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.548703,   61.39459 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 195,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.549405, 61.3945889 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 196,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.584527, 61.3599284 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 197,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.549813, 61.3945875 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 198,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.551985, 61.3950202 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 201,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.543992, 61.3950874 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 202,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.543592, 61.3936812 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 203,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.543593, 61.3933605 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 204,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.544595, 61.3919991 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 205,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.544016, 61.3918907 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 206,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.541466, 61.3918308 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 207,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.541402, 61.3916034 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 208,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.542202, 61.3909836 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 209,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [  -149.5446,  61.389628 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 210,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.546354, 61.3879344 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 211,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.548489, 61.3871354 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 212,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.548589, 61.3868868 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 213,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.544277,  61.386083 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 215,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.544422, 61.3857566 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 217,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.550184, 61.3845768 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 218,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.552675, 61.3830046 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 219,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.553734, 61.3812512 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 220,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.557425, 61.3789629 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 304,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.56102, 61.4077807 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 306,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.553828,   61.40754 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 307,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.553216, 61.4069358 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 308,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.553426, 61.4051249 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 309,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.548413,  61.399196 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 310,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.539776, 61.3918521 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 311,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.539274, 61.3917246 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 312,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.531739, 61.3942678 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 313,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.531201, 61.3944977 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 317,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.527995, 61.3956269 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 318,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.527788, 61.3958767 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 319,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.532568, 61.4024075 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 320,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.532373, 61.4028281 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 321,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.54487, 61.4062628 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 322,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.549531, 61.4054088 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 323,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.550833,  61.407083 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 324,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.553025, 61.4076173 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 325,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.561714, 61.4086068 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 326,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.562512, 61.4085789 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 327,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.569472, 61.4025122 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 328,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.569369, 61.3981724 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 329,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.565586,  61.394896 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 330,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.565505, 61.3939931 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 331,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.564662, 61.3945404 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 332,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.568887, 61.4023487 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 333,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.569191, 61.4041232 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 334,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.568802,  61.404121 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 335,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.568165, 61.4049859 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 336,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.56807, 61.4053833 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 338,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.56807, 61.4053833 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 339,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.56229, 61.4074343 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 340,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.561775, 61.4081729 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 341,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.561842, 61.4082898 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 342,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.561856, 61.4084744 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 344,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.561798,  61.408576 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 345,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.561842, 61.4082898 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 346,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.561775, 61.4081729 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 347,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.554077, 61.4076793 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 349,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.554003, 61.4074464 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 350,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.553731, 61.4074509 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 351,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.55086, 61.4071087 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 352,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.55127,  61.405288 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 353,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.55127,  61.405288 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 354,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.552312, 61.3878222 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 355,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.550679, 61.3870231 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 356,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.550196, 61.3869207 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 357,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.549948, 61.3868809 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 359,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.549061, 61.3869795 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 361,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.548579,  61.386965 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 362,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.560478, 61.3762223 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 363,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.560415, 61.3760033 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 364,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.567443, 61.3693374 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 365,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.567198, 61.3682825 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 366,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.583383, 61.3593829 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 367,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.584181, 61.3597536 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 368,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.600062, 61.3548873 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 369,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.553047, 61.3868286 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 370,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.557837, 61.3879431 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 371,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.559075, 61.3881435 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 372,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.561141,  61.388343 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 374,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.561156, 61.3882828 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 376,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.561009, 61.3882782 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 377,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.561156, 61.3882828 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 378,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.561913,  61.388284 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 379,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.566165, 61.3882822 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 380,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.566018, 61.3882709 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 381,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.561913,  61.388284 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 382,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.561164, 61.3885875 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 383,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.548764, 61.3945879 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 384,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.549271, 61.3943966 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 385,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.550353, 61.3932638 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 386,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.550173, 61.3930136 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 387,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.549271, 61.3943966 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 388,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.550353, 61.3932638 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 389,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.550173, 61.3930136 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 390,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.551935, 61.3929866 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 391,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.552567, 61.3929422 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 4037,
+"trail_ids": 616,
+"steward_id": "MOA STREET_MAINTENANCE",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.839324, 61.0970018 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 4728,
+"trail_ids": 949,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.834167, 61.0940989 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 1799,
+"trail_ids": 1513,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.800505,  61.180353 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": -6,
+"trail_ids": 1631,
+"steward_id": "MOA Parks and Rec.",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.803229, 61.1806826 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2062,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.807959, 61.1774306 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2064,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.795648, 61.1806272 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2095,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.795657, 61.1808983 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2096,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.794747, 61.1779966 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2097,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.79603, 61.1780771 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2099,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.797294, 61.1770956 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2102,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.794961, 61.1775078 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2103,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.794961, 61.1775078 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2104,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.794747, 61.1779966 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2105,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.794961, 61.1775078 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2111,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -150.017483, 61.1550429 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 4020,
+"trail_ids": 2399,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.842309, 61.0992651 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2405,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.860068, 61.1158104 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2539,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -150.011647, 61.1590379 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2541,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.943187, 61.1237596 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2544,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.832326, 61.0878613 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2545,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.341612, 60.9307363 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2547,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.345612, 60.9295823 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2548,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.831473, 61.0870085 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2549,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.836287, 61.0956468 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2550,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.950626, 61.1657808 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2551,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.418264, 60.9540481 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2552,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.839276, 61.0988993 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2553,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.942247, 61.1243765 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2557,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.831473, 61.0870085 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2573,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.80856, 61.1771316 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2576,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.950626, 61.1657808 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2577,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.936323, 61.1278135 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2578,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.942741, 61.1243886 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2580,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.941201, 61.1242805 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2581,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.941201, 61.1242805 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2582,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.952302, 61.1661099 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 2685,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.608711, 61.3588872 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 4019,
+"trail_ids": 3279,
+"steward_id": "MOA STREET_MAINTENANCE",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.84236, 61.0996549 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 3512,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.552868, 61.3877853 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 3514,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.555289, 61.3889786 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 3515,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.546455, 61.3909727 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 3516,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.545667, 61.3919009 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 0,
+"trail_ids": 3517,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.544721, 61.3938203 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 259,
+"trail_ids": 4008,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.534756, 61.3715841 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 63,
+"trail_ids": 4014,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.568639, 61.3943977 ] 
+} 
+} 
+},
+{
+ "type": "FeatureCollection",
+"features": {
+ "type": "Feature",
+"properties": {
+ "name": null,
+"id": 70,
+"trail_ids": 4168,
+"steward_id": "NA",
+"address": "",
+"parking": "",
+"drinkwater": "",
+"restrooms": "",
+"kiosk": "",
+"osm_tags": "" 
+},
+"geometry": {
+ "type": "Point",
+"coordinates": [ -149.568639, 61.3943977 ] 
+} 
+} 
+} 
 ] 
 }
