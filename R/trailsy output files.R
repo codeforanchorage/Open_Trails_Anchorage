@@ -57,6 +57,8 @@ road_trails <- str_detect(dat$TRAIL_NAME, "Ave Trail") |
 dat  <- dat[!road_trails,]
 lines <- lines[!road_trails]
 
+dat <- dat[102,]
+lines <- lines[102]
 ###################################
 
 dat$MANAGEMENT <- as.character(dat$MANAGEMENT)
@@ -72,22 +74,33 @@ trail_segments <- list(type = "FeatureCollection",
 
 for(i in seq(dim(dat)[1])) {
     
-    trail_segments$features[[i]] <- list(geometry = list(type = "LineString",
+    trail_segments$features[[i]] <- list(type = "Feature",
+                                         geometry = list(type = "LineString",
                                                          coordinates = lines[[i]]@Lines[[1]]@coords),
-                                         id = as.character(dat$new_id[i]),
-                                         properties = list(steward = dat$MANAGEMENT[i],
-                                                           source = "TestOrganization",
-                                                           trail1 = as.character(dat$TRAIL_NAME[i]), 
-                                                           motor_vehicles = "no",
-                                                           foot = "yes",
-                                                           bicycle = "yes",
-                                                           horse = "no",
-                                                           ski = "yes",
-                                                           wheelchair = "no",
-                                                           osm_tags = NA),
-                                         type = "Feature"
+                                         properties = list(id = as.character(dat$new_id[i]),
+                                                           source_id = 3,
+                                                           steward_id = 3,
+                                                           length = 1.4, 
+                                                           trail1 = as.character(dat$TRAIL_NAME[i]),
+                                                           accessible = NULL, 
+                                                           roadbike = NULL, 
+                                                           hike = "y", 
+                                                           mtnbike = NULL, 
+                                                           equestrian = NULL, 
+                                                           xcntryski = NULL,
+                                                           conditions = NULL, 
+                                                           trlsurface = NULL,
+                                                           dogs = NULL, 
+                                                           source = "TestOrganization", 
+                                                           source_fullname = "Made up for testing",
+                                                           source_phone = "999-999-9999", 
+                                                           source_url = "http://www.google.com",
+                                                           steward = "TestOrganization",
+                                                           steward_fullname = as.character(dat$MANAGEMENT[i]),
+                                                           steward_phone = "999-999-9999", 
+                                                           steward_url = "http://www.google.com"),
+                                         id = as.character(dat$new_id[i]))
 
-    )
 }
 # write trail_segments.geojson
 fileConn<-file("output files/trailsy standard/trail_segments.geojson")
@@ -99,7 +112,7 @@ for(i in seq(length(lines))) {
     {print(i)} 
 }
 
-named_trails <- data.frame(id = dat$ROUTEID,
+named_trails <- data.frame(id = as.character(dat$new_id[i]),
                            name = dat$TRAIL_NAME, 
                            steward = "TestOrganization",
                            source = "TestOrganization",
@@ -107,7 +120,7 @@ named_trails <- data.frame(id = dat$ROUTEID,
                            description = "TestDescription",
                            part_of = dat$SYSTEM_NAM)
 # write named_trails.csv
-write.csv(named_trails, file = "output files/trailsy standard/named_trails.csv")
+write.csv(named_trails, file = "output files/trailsy standard/named_trails.csv", row.names = F)
 
 
 trailheads <- list(type = "FeatureCollection",
@@ -117,21 +130,32 @@ trailheads <- list(type = "FeatureCollection",
 for(i in seq(dim(dat)[1])) {
     
     trailheads$features[[i]] <- list(type = "Feature",
-                                     properties = list(name = as.character(dat$TRAIL_NAME[i]),
-                                                       trail1 = as.character(dat$TRAIL_NAME[i]),
-                                                       id = dat$ROUTEID[i],
-                                                       trail_ids = dat$new_id[i],
-                                                       steward_id = as.character(dat$MANAGEMENT[i]),
-                                                       address = character(),
-                                                       parking = character(),
-                                                       drinkwater = character(),
-                                                       source = "TestOrganization",
-                                                       restrooms = character(),
-                                                       kiosk = character(),
-                                                       osm_tags = character()),
                                      geometry = list(type = "Point",
-                                                     coordinates = lines[[i]]@Lines[[1]]@coords[1,])
-                                     )
+                                                     coordinates = lines[[i]]@Lines[[1]]@coords[1,]),
+                                     properties = list(id = as.character(dat$new_id[i]),
+                                                       name = dat$TRAIL_NAME,
+                                                       source_id = 3,
+                                                       steward_id = 3,
+                                                       length = 1.4, 
+                                                       trail1 = as.character(dat$TRAIL_NAME[i]),
+                                                       accessible = NULL, 
+                                                       roadbike = NULL, 
+                                                       hike = "y", 
+                                                       mtnbike = NULL, 
+                                                       equestrian = NULL, 
+                                                       xcntryski = NULL,
+                                                       conditions = NULL, 
+                                                       trlsurface = NULL,
+                                                       dogs = NULL, 
+                                                       source = "TestOrganization", 
+                                                       source_fullname = "Made up for testing",
+                                                       source_phone = "999-999-9999", 
+                                                       source_url = "http://www.google.com",
+                                                       steward = "TestOrganization",
+                                                       steward_fullname = as.character(dat$MANAGEMENT[i]),
+                                                       steward_phone = "999-999-9999", 
+                                                       steward_url = "http://www.google.com"),
+                                     id = dat$ROUTEID[i])
     
 }
 #validate "Point"
@@ -156,7 +180,7 @@ stewards <- data.frame(name = managers,
                        license = "none"
 )
 # write stewards.csv
-write.csv(stewards, file = "output files/trailsy standard/stewards.csv")
+write.csv(stewards, file = "output files/trailsy standard/stewards.csv", row.names = FALSE)
 
 zip_dir <- c("output files/trailsy standard")
 zip("output files/trailsy_files.zip", files = paste(zip_dir, list.files(zip_dir), sep = "/"))
