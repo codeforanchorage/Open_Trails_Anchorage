@@ -1,0 +1,45 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -81.6863109999443,
+               41.4656749711465
+            ]
+         },
+         "properties":{
+            "id":941,
+            "name":"Steelyard Commons",
+            "trail1":"Ohio & Erie Canal Towpath Trail",
+            "trail2":"Towpath Trail Steelyard Commons to Harvard Road",
+            "trail3":null,
+            "trail4":null,
+            "trail5":null,
+            "trail6":null,
+            "parking":"y",
+            "drinkwater":"n",
+            "restrooms":"n",
+            "kiosk":null,
+            "contactnum":null,
+            "park":null,
+            "address":null,
+            "city":null,
+            "state":"Ohio",
+            "zip":null,
+            "source":"NPS",
+            "source_fullname":"Cuyahoga Valley National Park",
+            "source_phone":"330-657-2752",
+            "source_url":"http://www.nps.gov/cuva/",
+            "steward":"CMP",
+            "steward_fullname":"Cleveland Metroparks",
+            "steward_phone":"216-635-3200",
+            "steward_url":"http://clevelandmetroparks.com",
+            "distance":4944413.68811556
+         },
+         "id":941
+      }
+   ]
+}

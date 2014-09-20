@@ -1,0 +1,48 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0.0,
+               0.0
+            ]
+         },
+         "properties":{
+            "id":391,
+            "name":"Adam Run Trail",
+            "length":3.2,
+            "accessible":"n",
+            "roadbike":"n",
+            "hike":"y",
+            "mtnbike":"n",
+            "equestrian":"n",
+            "xcntryski":"n",
+            "conditions":"",
+            "trlsurface":"natural",
+            "map_url":"http://www.summitmetroparks.org/App_Themes/MetroParks/images/media/HamptonHillsMetroPark-2013.pdf",
+            "dogs":"y",
+            "description":"One of the park district's most demanding hikes; forms a sort of figure eight with Spring Hollow Trail. Travels through ravines and over streams.",
+            "status":0,
+            "statustext":"",
+            "source":"MPSSC",
+            "source_fullname":"Metro Parks, Serving Summit County",
+            "source_phone":"330-867-5511",
+            "source_url":"http://www.summitmetroparks.org/",
+            "source_logo_url":"http://s3.amazonaws.com/tothetrails/organizations/logos/000/000/001/medium/MPSSC.jpg?1383005840",
+            "steward":"MPSSC",
+            "steward_fullname":"Metro Parks, Serving Summit County",
+            "steward_phone":"330-867-5511",
+            "steward_url":"http://www.summitmetroparks.org/",
+            "steward_logo_url":"http://s3.amazonaws.com/tothetrails/organizations/logos/000/000/001/medium/MPSSC.jpg?1383005840",
+            "orig_photo_url":"http://s3.amazonaws.com/tothetrails/photorecords/photos/000/000/022/original/DSC_4042.JPG?1383071716",
+            "medium_photo_url":"http://s3.amazonaws.com/tothetrails/photorecords/photos/000/000/022/medium/DSC_4042.JPG?1383071716",
+            "thumb_photo_url":"http://s3.amazonaws.com/tothetrails/photorecords/photos/000/000/022/thumb/DSC_4042.JPG?1383071716",
+            "photo_credit":"Metro Parks, Serving Summit County"
+         },
+         "id":391
+      }
+   ]
+}
