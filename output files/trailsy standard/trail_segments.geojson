@@ -555,7 +555,7 @@
 [ -149.680206,  61.146846 ] ] 
 },
 "properties": {
- "id": "102",
+ "id": 102,
 "source_id":          1,
 "steward_id":          2,
 "length":        1.4,
@@ -578,7 +578,7 @@
 "steward_phone": "999-999-9999",
 "steward_url": "http://www.google.com" 
 },
-"id": "102" 
+"id": 102 
 } 
 ] 
 }
