@@ -22,18 +22,18 @@ anc_trails <- spTransform(anc_trails, CRS("+init=epsg:4326"))
 setwd(oldWD)
 
 #trail variables are in dat as a dataframe. trail segments are in lines as a list. Both need to be manipulated for cleaning 
-dat <- rbind.fill(data.frame(TRAIL_NAME = chugach_trails@data$TRAIL_NAME), anc_trails@data)
+dat <- rbind.fill(data.frame(TRAIL_NAME = chugach_trails@data$TRAIL_NAME))#, anc_trails@data)
 dat <- cbind(dat, new_id = seq(dim(dat)[1]))
 
-lines <- c(chugach_trails@lines, anc_trails@lines)
+lines <- c(chugach_trails@lines)#, anc_trails@lines)
 
 ##########DATA CLEANING############
 
-remove trail names with "Unnamed" or NA
-cleaning_vector <-  is.na(dat$TRAIL_NAME) | dat$TRAIL_NAME == "Unnamed" 
+#remove trail names with "Unnamed" or NA
+#cleaning_vector <-  is.na(dat$TRAIL_NAME) | dat$TRAIL_NAME == "Unnamed" 
 #just see NA and Unnammed
-dat  <- dat[cleaning_vector,]
-lines <- lines[cleaning_vector]
+#dat  <- dat[cleaning_vector,]
+#lines <- lines[cleaning_vector]
 
 #remove all trails on roads
 #road_trails <- str_detect(dat$TRAIL_NAME, "Ave Trail") | 
