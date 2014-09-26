@@ -8,10 +8,10 @@
 "coordinates": [ -149.710569,  61.139035 ] 
 },
 "properties": {
- "id": "102",
+ "id": 102,
 "name": "Wolverine Bowl",
 "source_id":          1,
-"steward_id":          2,
+"steward_id":          3,
 "length":        1.4,
 "trail1": "Wolverine Bowl",
 "accessible": null,
@@ -32,7 +32,7 @@
 "steward_phone": "999-999-9999",
 "steward_url": "http://www.google.com" 
 },
-"id": null 
+"id": 102 
 } 
 ] 
 }

@@ -4,7 +4,7 @@
  {
  "type": "Feature",
 "geometry": {
- "type": "LineString",
+ "type": "MultiLineString",
 "coordinates": [ [ -149.710569,  61.139035 ],
 [ -149.710485,  61.139068 ],
 [ -149.710548,  61.139139 ],
@@ -557,12 +557,12 @@
 "properties": {
  "id": 102,
 "source_id":          1,
-"steward_id":          2,
+"steward_id":          3,
 "length":        1.4,
 "trail1": "Wolverine Bowl",
 "accessible": null,
 "roadbike": null,
-"hike": "y",
+"hike": null,
 "mtnbike": null,
 "equestrian": null,
 "xcntryski": null,

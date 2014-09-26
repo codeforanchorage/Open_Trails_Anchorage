@@ -75,16 +75,16 @@ trail_segments <- list(type = "FeatureCollection",
 for(i in seq(dim(dat)[1])) {
     
     trail_segments$features[[i]] <- list(type = "Feature",
-                                         geometry = list(type = "LineString",
+                                         geometry = list(type = "MultiLineString",
                                                          coordinates = lines[[i]]@Lines[[1]]@coords),
-                                         properties = list(id = as.character(dat$new_id[i]),
+                                         properties = list(id = dat$new_id[i],
                                                            source_id = 1,
                                                            steward_id = 2,
                                                            length = 1.4, 
                                                            trail1 = as.character(dat$TRAIL_NAME[i]),
                                                            accessible = NULL, 
                                                            roadbike = NULL, 
-                                                           hike = "y", 
+                                                           hike = NULL, 
                                                            mtnbike = NULL, 
                                                            equestrian = NULL, 
                                                            xcntryski = NULL,
@@ -99,11 +99,10 @@ for(i in seq(dim(dat)[1])) {
                                                            steward_fullname = as.character(dat$MANAGEMENT[i]),
                                                            steward_phone = "999-999-9999", 
                                                            steward_url = "http://www.google.com"),
-                                         id = as.character(dat$new_id[i]))
-
+                                         id = dat$new_id[i])
 }
 # write trail_segments.geojson
-fileConn<-file("output files/trailsy standard/trail_segments.geojson")
+fileConn<-file("output files/trailsy standard/trailsegments.geojson")
 writeLines(toJSON(trail_segments, digits = 9), fileConn)
 close(fileConn)
 # Two segments are left out without cleaning. One is left out with cleaning. 
@@ -112,7 +111,7 @@ for(i in seq(length(lines))) {
     {print(i)} 
 }
 
-named_trails <- data.frame(id = as.character(dat$new_id[i]),
+named_trails <- data.frame(id = dat$new_id[i],
                            name = dat$TRAIL_NAME, 
                            steward = "TestOrganization",
                            source = "TestOrganization",
@@ -132,7 +131,7 @@ for(i in seq(dim(dat)[1])) {
     trailheads$features[[i]] <- list(type = "Feature",
                                      geometry = list(type = "Point",
                                                      coordinates = lines[[i]]@Lines[[1]]@coords[1,]),
-                                     properties = list(id = as.character(dat$new_id[i]),
+                                     properties = list(id = dat$new_id[i],
                                                        name = dat$TRAIL_NAME,
                                                        source_id = 1,
                                                        steward_id = 2,
@@ -155,7 +154,7 @@ for(i in seq(dim(dat)[1])) {
                                                        steward_fullname = as.character(dat$MANAGEMENT[i]),
                                                        steward_phone = "999-999-9999", 
                                                        steward_url = "http://www.google.com"),
-                                     id = dat$ROUTEID[i])
+                                     id = dat$new_id[i])
     
 }
 #validate "Point"
