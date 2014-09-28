@@ -19,13 +19,21 @@
     anc_trails <- readOGR(dsn=".", layer="trails")
     anc_trails <- spTransform(anc_trails, CRS("+init=epsg:4326")) 
     
+    setwd(paste0(oldWD, "/data/Mat_Su_Shapefile"))
+    matsu_trails <- readOGR(dsn=".", layer="MSB_Trails_Legal_Aug2014")
+    matsu_trails <- spTransform(matsu_trails, CRS("+init=epsg:4326")) 
+    colnames(matsu_trails@data) <- c("OBJECTID", "Shape_Leng", "TRAIL_NAME", "NAME_2", "TYPE", "USE", 
+                                     "SEASON", "PLAN", "PLAN_ID", "LGL_ESMT", "ESMT_DOC", "SOURCE", 
+                                     "SURVEY_DAT", "SURVEY_MET", "QC", "QC_2", "LENGTH_MI", "LENGTH_FT", 
+                                     "NOTES")
+    
     setwd(oldWD)
     
     #trail variables are in dat as a dataframe. trail segments are in lines as a list. Both need to be manipulated for cleaning 
-    dat <- rbind.fill(data.frame(TRAIL_NAME = chugach_trails@data$TRAIL_NAME), anc_trails@data)
+    dat <- rbind.fill(data.frame(TRAIL_NAME = chugach_trails@data$TRAIL_NAME), anc_trails@data, matsu_trails@data)
     dat <- cbind(dat, new_id = seq(dim(dat)[1]))
     
-    lines <- c(chugach_trails@lines, anc_trails@lines)
+    lines <- c(chugach_trails@lines, anc_trails@lines, matsu_trails@lines)
     
     ##########DATA CLEANING############
     
@@ -54,11 +62,11 @@
         str_detect(dat$TRAIL_NAME, "Dr.") 
     
     
-    #dat  <- dat[!road_trails,]
-    #lines <- lines[!road_trails]
+    dat  <- dat[!road_trails,]
+    lines <- lines[!road_trails]
     
-    dat <- dat[102,]
-    lines <- lines[102]
+    #dat <- dat[102,]
+    #lines <- lines[102]
     ###################################
     
     dat$MANAGEMENT <- as.character(dat$MANAGEMENT)
