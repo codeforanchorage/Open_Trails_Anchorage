@@ -10,8 +10,8 @@
 "properties": {
  "id": 102,
 "name": "Wolverine Bowl",
-"source_id":          2,
-"steward_id":          3,
+"source_id":          4,
+"steward_id":          4,
 "length":        1.4,
 "trail1": "Wolverine Bowl",
 "accessible": null,
@@ -24,10 +24,10 @@
 "trlsurface": null,
 "dogs": null,
 "source": "TestOrganization",
+"steward": "TestOrganization",
 "source_fullname": "Made up for testing",
 "source_phone": "999-999-9999",
 "source_url": "http://www.google.com",
-"steward": "TestOrganization",
 "steward_fullname": "NA",
 "steward_phone": "999-999-9999",
 "steward_url": "http://www.google.com" 
