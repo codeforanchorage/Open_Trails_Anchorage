@@ -38,10 +38,10 @@
     ##########DATA CLEANING############
     
     #remove trail names with "Unnamed" or NA
-    cleaning_vector <-  is.na(dat$TRAIL_NAME) | dat$TRAIL_NAME == "Unnamed" 
+    #cleaning_vector <-  is.na(dat$TRAIL_NAME) | dat$TRAIL_NAME == "Unnamed" 
     
-    dat  <- dat[!cleaning_vector,]
-    lines <- lines[!cleaning_vector]
+    #dat  <- dat[!cleaning_vector,]
+    #lines <- lines[!cleaning_vector]
     
     #remove all trails on roads
     #road_trails <- str_detect(dat$TRAIL_NAME, "Ave Trail") | 
@@ -62,11 +62,11 @@
         str_detect(dat$TRAIL_NAME, "Dr.") 
     
     
-    dat  <- dat[!road_trails,]
-    lines <- lines[!road_trails]
+    #dat  <- dat[!road_trails,]
+    #lines <- lines[!road_trails]
     
-    #dat <- dat[102,]
-    #lines <- lines[102]
+    dat <- dat[c(102),]
+    lines <- lines[c(102)]
     ###################################
     
     dat$MANAGEMENT <- as.character(dat$MANAGEMENT)
@@ -76,20 +76,20 @@
     stewardID <- seq(managers)
     
     
-    trail_segments <- list(type = "FeatureCollection",
-                           features = x <- vector(mode = "list", length = dim(dat)[1]))
+    trail_segments <- list(features = x <- vector(mode = "list", length = dim(dat)[1]),
+                           type = "FeatureCollection")
     
     
     for(i in seq(dim(dat)[1])) {
-        
-        trail_segments$features[[i]] <- list(type = "Feature",
-                                             geometry = list(type = "MultiLineString",
-                                                             coordinates = lines[[i]]@Lines[[1]]@coords),
+            
+        trail_segments$features[[i]] <- list(geometry = list(coordinates = lines[[i]]@Lines[[1]]@coords,
+                                                             type = "MultiLineString"),
+                                             id = dat$new_id[i],
                                              properties = list(id = dat$new_id[i],
-                                                               source_id = 4,
-                                                               steward_id = 4,
+                                                               source_id = 3,
+                                                               steward_id = 3,
                                                                length = 1.4, 
-                                                               trail1 = dat$TRAIL_NAME,
+                                                               trail1 = dat$TRAIL_NAME[i],
                                                                trail2 = NULL,
                                                                trail3 = NULL,
                                                                trail4 = NULL,
@@ -97,8 +97,8 @@
                                                                trail6 = NULL,
                                                                accessible = NULL, 
                                                                roadbike = NULL, 
-                                                               hike = NULL, 
-                                                               mtnbike = NULL, 
+                                                               hike = "y", 
+                                                               mtnbike = "y", 
                                                                equestrian = NULL, 
                                                                xcntryski = NULL,
                                                                conditions = NULL, 
@@ -112,10 +112,10 @@
                                                                steward_fullname = as.character(dat$MANAGEMENT[i]),
                                                                steward_phone = "999-999-9999", 
                                                                steward_url = "http://www.google.com"),
-                                             id = dat$new_id[i])
+                                             type = "Feature")
     }
     # write trail_segments.geojson
-    fileConn<-file("output files/trailsy standard/trailsegments.geojson")
+    fileConn <- file("output files/trailsy standard/trailsegments.json")
     writeLines(toJSON(trail_segments, digits = 9), fileConn)
     close(fileConn)
     # Two segments are left out without cleaning. One is left out with cleaning. 
@@ -124,13 +124,13 @@
         {print(i)} 
     }
     
-    named_trails <- data.frame(id = dat$new_id[i],
+    named_trails <- data.frame(id = dat$new_id,
                                name = dat$TRAIL_NAME, 
                                steward = "TestOrganization",
                                source =  "TestOrganization",
                                length = 1.4,
                                description = "TestDescription",
-                               part_of = dat$SYSTEM_NAME)
+                               part_of = "dat$SYSTEM_NAME")
     # write named_trails.csv
     write.csv(named_trails, file = "output files/trailsy standard/named_trails.csv", row.names = F)
     
@@ -145,11 +145,11 @@
                                          geometry = list(type = "Point",
                                                          coordinates = lines[[i]]@Lines[[1]]@coords[1,]),
                                          properties = list(id = dat$new_id[i],
-                                                           name = dat$TRAIL_NAME,
-                                                           source_id = 4,
-                                                           steward_id = 4,
+                                                           name = dat$TRAIL_NAME[i],
+                                                           source_id = 3,
+                                                           steward_id = 3,
                                                            length = 1.4, 
-                                                           trail1 = dat$TRAIL_NAME,
+                                                           trail1 = dat$TRAIL_NAME[i],
                                                            accessible = NULL, 
                                                            roadbike = NULL, 
                                                            hike = "y", 
@@ -178,12 +178,12 @@
     
     
     # write trail_segments.geojson
-    fileConn<-file("output files/trailsy standard/trailheads.geojson")
+    fileConn<-file("output files/trailsy standard/trailheads.json")
     writeLines(toJSON(trailheads, digits = 9), fileConn)
     close(fileConn)
     
     # Create stewards.csv
-    stewards <- data.frame(name = managers,
+    stewards <- data.frame(name = "managers",
                            id = 3,
                            url = "",
                            phone = "",
@@ -196,3 +196,4 @@
     
     zip_dir <- c("output files/trailsy standard")
     zip("output files/trailsy_files.zip", files = paste(zip_dir, list.files(zip_dir), sep = "/"))
+
