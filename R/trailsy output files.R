@@ -38,13 +38,13 @@
     ##########DATA CLEANING############
     
     #remove trail names with "Unnamed" or NA
-    #cleaning_vector <-  is.na(dat$TRAIL_NAME) | dat$TRAIL_NAME == "Unnamed" 
+    cleaning_vector <-  is.na(dat$TRAIL_NAME) | dat$TRAIL_NAME == "Unnamed" 
     
-    #dat  <- dat[!cleaning_vector,]
-    #lines <- lines[!cleaning_vector]
+    dat  <- dat[!cleaning_vector,]
+    lines <- lines[!cleaning_vector]
     
     #remove all trails on roads
-    #road_trails <- str_detect(dat$TRAIL_NAME, "Ave Trail") | 
+    road_trails <- str_detect(dat$TRAIL_NAME, "Ave Trail") | 
         str_detect(dat$TRAIL_NAME, "Street Trail") |
         str_detect(dat$TRAIL_NAME, "Bvld.") |
         str_detect(dat$TRAIL_NAME, "Ave. Trail") |
@@ -62,11 +62,11 @@
         str_detect(dat$TRAIL_NAME, "Dr.") 
     
     
-    #dat  <- dat[!road_trails,]
-    #lines <- lines[!road_trails]
+    dat  <- dat[!road_trails,]
+    lines <- lines[!road_trails]
     
-    dat <- dat[c(102),]
-    lines <- lines[c(102)]
+    #dat <- dat[c(102),]
+    #lines <- lines[c(102)]
     ###################################
     
     dat$MANAGEMENT <- as.character(dat$MANAGEMENT)
@@ -82,8 +82,8 @@
     
     for(i in seq(dim(dat)[1])) {
             
-        trail_segments$features[[i]] <- list(geometry = list(coordinates = lines[[i]]@Lines[[1]]@coords,
-                                                             type = "MultiLineString"),
+        trail_segments$features[[i]] <- list(geometry = list(coordinates = list(lines[[i]]@Lines[[1]]@coords),
+                                                                       type = "MultiLineString"),
                                              id = dat$new_id[i],
                                              properties = list(id = dat$new_id[i],
                                                                source_id = 3,
