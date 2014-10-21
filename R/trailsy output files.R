@@ -59,6 +59,7 @@
         str_detect(dat$TRAIL_NAME, "Lake Otis Pkwy. Trail") |
         str_detect(dat$TRAIL_NAME, "St Trail") |
         str_detect(dat$TRAIL_NAME, "Pkwy") |
+<<<<<<< HEAD
         str_detect(dat$TRAIL_NAME, "Pkwy") |
         str_detect(dat$TRAIL_NAME, "Pkwy") |
         str_detect(dat$TRAIL_NAME, "Pkwy") |
@@ -73,6 +74,22 @@
         str_detect(dat$TRAIL_NAME, "Pkwy") |
         str_detect(dat$TRAIL_NAME, "Pkwy") |
         str_detect(dat$TRAIL_NAME, "Dr.")  
+=======
+        str_detect(dat$TRAIL_NAME, "Eklutna ATV Access") |
+        str_detect(dat$TRAIL_NAME, "Peak Spor RR") |
+        str_detect(dat$TRAIL_NAME, "Fish Creek") |
+        str_detect(dat$TRAIL_NAME, "Mt. View Sch. Trail") |
+        str_detect(dat$TRAIL_NAME, "Mchugh Creek Pedestrian") |
+        str_detect(dat$TRAIL_NAME, "Bragaw") |
+        str_detect(dat$TRAIL_NAME, "Beaver Pl. Trail") |
+        str_detect(dat$TRAIL_NAME, "Seward Hwy. Trail") |
+        str_detect(dat$TRAIL_NAME, "RABBIT CREEK PARK TRAIL") |
+        str_detect(dat$TRAIL_NAME, "Seward Hwy. Trail") |
+        str_detect(dat$TRAIL_NAME, "Gruening Sch. Trail") |
+        str_detect(dat$TRAIL_NAME, "Dimond (North Side)") |
+        str_detect(dat$TRAIL_NAME, "Beaver Pl. Trail") |
+        str_detect(dat$TRAIL_NAME, "Dr.") 
+>>>>>>> origin/master
     
     
     dat  <- dat[!road_trails,]
@@ -89,20 +106,27 @@
     stewardID <- seq(managers)
     
     
-    trail_segments <- list(features = x <- vector(mode = "list", length = dim(dat)[1]),
+    trails <- levels(factor(dat$TRAIL_NAME))
+    
+    
+    
+    trail_segments <- list(features = x <- vector(mode = "list", length = length(trails)),
                            type = "FeatureCollection")
     
-    
-    for(i in seq(dim(dat)[1])) {
-            
-        trail_segments$features[[i]] <- list(geometry = list(coordinates = list(lines[[i]]@Lines[[1]]@coords),
+    for(i in seq(trails)) {
+
+        lines_rows <- which(dat$TRAIL_NAME == trails[i])
+        
+        turtles <- lapply(lines[lines_rows], function(x) { x@Lines[[1]]@coords})    
+        
+        trail_segments$features[[i]] <- list(geometry = list(coordinates = list(turtles),
                                                                        type = "MultiLineString"),
-                                             id = dat$new_id[i],
-                                             properties = list(id = dat$new_id[i],
+                                             id = i,
+                                             properties = list(id = i,
                                                                source_id = 3,
                                                                steward_id = 3,
                                                                length = 1.4, 
-                                                               trail1 = dat$TRAIL_NAME[i],
+                                                               trail1 = trails[i],
                                                                trail2 = NULL,
                                                                trail3 = NULL,
                                                                trail4 = NULL,
@@ -137,8 +161,11 @@
         {print(i)} 
     }
     
-    named_trails <- data.frame(id = dat$new_id,
-                               name = dat$TRAIL_NAME, 
+    ninja <- dat[!duplicated(dat$TRAIL_NAME),]
+    
+    
+    named_trails <- data.frame(id = seq(trails),
+                               name = ninja$TRAIL_NAME, 
                                steward = "TestOrganization",
                                source =  "TestOrganization",
                                length = 1.4,
@@ -149,20 +176,24 @@
     
     
     trailheads <- list(type = "FeatureCollection",
-                       features = x <- vector(mode = "list", length = dim(dat)[1]))
+                       features = x <- vector(mode = "list", length = length(trails)))
     
     
-    for(i in seq(dim(dat)[1])) {
+    for(i in seq(trails)) {
+        
+        lines_rows <- which(dat$TRAIL_NAME == trails[i])
+        
+        turtles <- lapply(lines[lines_rows], function(x) { x@Lines[[1]]@coords})    
         
         trailheads$features[[i]] <- list(type = "Feature",
                                          geometry = list(type = "Point",
-                                                         coordinates = lines[[i]]@Lines[[1]]@coords[1,]),
-                                         properties = list(id = dat$new_id[i],
-                                                           name = dat$TRAIL_NAME[i],
+                                                         coordinates = turtles[[1]][1,]),
+                                         properties = list(id = i,
+                                                           name = trails[i],
                                                            source_id = 3,
                                                            steward_id = 3,
                                                            length = 1.4, 
-                                                           trail1 = dat$TRAIL_NAME[i],
+                                                           trail1 = trails[i],
                                                            accessible = NULL, 
                                                            roadbike = NULL, 
                                                            hike = "y", 
@@ -180,7 +211,7 @@
                                                            steward_fullname = as.character(dat$MANAGEMENT[i]),
                                                            steward_phone = "999-999-9999", 
                                                            steward_url = "http://www.google.com"),
-                                         id = dat$new_id[i])
+                                                           id = i)
         
     }
     #validate "Point"
@@ -195,7 +226,7 @@
     writeLines(toJSON(trailheads, digits = 9), fileConn)
     close(fileConn)
     
-    # Create stewards.csv
+    *# Create stewards.csv
     stewards <- data.frame(name = "managers",
                            id = 3,
                            url = "",
