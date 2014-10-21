@@ -59,7 +59,20 @@
         str_detect(dat$TRAIL_NAME, "Lake Otis Pkwy. Trail") |
         str_detect(dat$TRAIL_NAME, "St Trail") |
         str_detect(dat$TRAIL_NAME, "Pkwy") |
-        str_detect(dat$TRAIL_NAME, "Dr.") 
+        str_detect(dat$TRAIL_NAME, "Pkwy") |
+        str_detect(dat$TRAIL_NAME, "Pkwy") |
+        str_detect(dat$TRAIL_NAME, "Pkwy") |
+        str_detect(dat$TRAIL_NAME, "Pkwy") |
+        str_detect(dat$TRAIL_NAME, "Pkwy") |
+        str_detect(dat$TRAIL_NAME, "Pkwy") |
+        str_detect(dat$TRAIL_NAME, "Pkwy") |
+        str_detect(dat$TRAIL_NAME, "Pkwy") |
+        str_detect(dat$TRAIL_NAME, "Pkwy") |
+        str_detect(dat$TRAIL_NAME, "Pkwy") |
+        str_detect(dat$TRAIL_NAME, "Pkwy") |
+        str_detect(dat$TRAIL_NAME, "Pkwy") |
+        str_detect(dat$TRAIL_NAME, "Pkwy") |
+        str_detect(dat$TRAIL_NAME, "Dr.")  
     
     
     dat  <- dat[!road_trails,]
