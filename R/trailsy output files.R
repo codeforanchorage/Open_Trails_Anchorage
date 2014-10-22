@@ -59,22 +59,6 @@
         str_detect(dat$TRAIL_NAME, "Lake Otis Pkwy. Trail") |
         str_detect(dat$TRAIL_NAME, "St Trail") |
         str_detect(dat$TRAIL_NAME, "Pkwy") |
-<<<<<<< HEAD
-        str_detect(dat$TRAIL_NAME, "Pkwy") |
-        str_detect(dat$TRAIL_NAME, "Pkwy") |
-        str_detect(dat$TRAIL_NAME, "Pkwy") |
-        str_detect(dat$TRAIL_NAME, "Pkwy") |
-        str_detect(dat$TRAIL_NAME, "Pkwy") |
-        str_detect(dat$TRAIL_NAME, "Pkwy") |
-        str_detect(dat$TRAIL_NAME, "Pkwy") |
-        str_detect(dat$TRAIL_NAME, "Pkwy") |
-        str_detect(dat$TRAIL_NAME, "Pkwy") |
-        str_detect(dat$TRAIL_NAME, "Pkwy") |
-        str_detect(dat$TRAIL_NAME, "Pkwy") |
-        str_detect(dat$TRAIL_NAME, "Pkwy") |
-        str_detect(dat$TRAIL_NAME, "Pkwy") |
-        str_detect(dat$TRAIL_NAME, "Dr.")  
-=======
         str_detect(dat$TRAIL_NAME, "Eklutna ATV Access") |
         str_detect(dat$TRAIL_NAME, "Peak Spor RR") |
         str_detect(dat$TRAIL_NAME, "Fish Creek") |
@@ -89,11 +73,25 @@
         str_detect(dat$TRAIL_NAME, "Dimond (North Side)") |
         str_detect(dat$TRAIL_NAME, "Beaver Pl. Trail") |
         str_detect(dat$TRAIL_NAME, "Dr.") 
->>>>>>> origin/master
-    
-    
+
     dat  <- dat[!road_trails,]
-    lines <- lines[!road_trails]
+    lines <- lines[!road_trails]    
+    
+    #more_bad_trails are trails that didn't match the pattern above that are still roads or 
+    #elementary school trails or duplicates or just not worthy.
+    more_bad_trails <- c("Bragaw", "SLEDDING HILL", "Loop", "Old Sweard Hwy. Trail", "Mt. View Sch. Trail", "Wonder Park Sch. Trail",
+                         "Galdys Wood Trail", "Dimond (North Side)", "Dimond (South Side)", "Seward Hwy Trail", "Rondy Cut Off Trail", 
+                         "14 mile loop", "Raspberry Parking Lot Connector", "New Seward Hwy. Trail", "Shortcut", "Ski Trail", "RABBIT CREEK PARK TRAIL", 
+                         "Alder Trail", "Cannonrd", "Middle Fork", "School", "Glenn Alps View Loop", "Glenn Alps Powerline B", "Glenn Alps Powerline A", 
+                         "Flattop Peak Alternate", "Flattop Option", "Ballfield", "Margeurite Hills", "Tranagain Arm Interpretive", "Baldy Traverse", "Trail 7", 
+                         "Track 3", "Soccer Field", "N Connect", "Logjam Trail", "S Connect", "School Track", "Go Again")
+    
+    
+    
+    %in% dat$TRAIL_NAME
+    
+    
+
     
     #dat <- dat[c(102),]
     #lines <- lines[c(102)]
