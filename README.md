@@ -8,26 +8,19 @@ and Alaska Department of Natural Resources websites at:
 
 - http://www.muni.org/Departments/it/GIS2/Pages/MOAGISData.aspx (Shapefile)
 - http://dnr.alaska.gov/parks/aktrails/explore/astgglearthmap.htm (KMZ)
-- additionally the Matanuska/Susitna trails is in the /data subfolder (shapefile) 
 
 We are adopting the geojson open format for this project in order to complete the
 Open Trails System specification
 (http://www.codeforamerica.org/specifications/trails/spec.html).
 
 This specification requires five files:
-- `trailsegements.json`
+- `trail_segement.geojson`
 - `named_trails.csv`
-- `trailheads.json`
+- `trailheads.geojson`
 - `stewards.csv`
-- `areas.geojson` (optional and not included at this time)
+- `areas.geojson` (optional)
 
 As the project develops, you can see these files in Anchorage_Trails.zip. 
-
-Cleaning the Data
------------------------------
-
-Go to the issues to look at what needs to be cleaned up. Please Contribulate!
-
 
 Getting Started (development)
 -----------------------------
