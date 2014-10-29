@@ -114,8 +114,8 @@
      
         trail_segments$features[[i]] <- list(geometry = list(coordinates = list(lines[[i]]@Lines[[1]]@coords),
                                                                        type = "MultiLineString"),
-                                             id = i,
-                                             properties = list(id = i,
+                                             id = dat$new_id[i],
+                                             properties = list(id = dat$new_id[i],
                                                                source_id = 3,
                                                                steward_id = 3,
                                                                length = 1.4, 
@@ -157,7 +157,7 @@
     ninja <- dat[!duplicated(dat$TRAIL_NAME),]
     
     
-    named_trails <- data.frame(id = seq(trails),
+    named_trails <- data.frame(id = ninja$new_id,
                                name = ninja$TRAIL_NAME, 
                                steward = "TestOrganization",
                                source =  "TestOrganization",
