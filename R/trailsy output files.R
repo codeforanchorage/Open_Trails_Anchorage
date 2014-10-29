@@ -79,19 +79,16 @@
     
     #more_bad_trails are trails that didn't match the pattern above that are still roads or 
     #elementary school trails or duplicates or just not worthy.
-    more_bad_trails <- c("Bragaw", "SLEDDING HILL", "Loop", "Old Sweard Hwy. Trail", "Mt. View Sch. Trail", "Wonder Park Sch. Trail",
+    bad_trails <- c("Bragaw", "SLEDDING HILL", "Loop", "Old Sweard Hwy. Trail", "Mt. View Sch. Trail", "Wonder Park Sch. Trail",
                          "Galdys Wood Trail", "Dimond (North Side)", "Dimond (South Side)", "Seward Hwy Trail", "Rondy Cut Off Trail", 
                          "14 mile loop", "Raspberry Parking Lot Connector", "New Seward Hwy. Trail", "Shortcut", "Ski Trail", "RABBIT CREEK PARK TRAIL", 
                          "Alder Trail", "Cannonrd", "Middle Fork", "School", "Glenn Alps View Loop", "Glenn Alps Powerline B", "Glenn Alps Powerline A", 
                          "Flattop Peak Alternate", "Flattop Option", "Ballfield", "Margeurite Hills", "Tranagain Arm Interpretive", "Baldy Traverse", "Trail 7", 
                          "Track 3", "Soccer Field", "N Connect", "Logjam Trail", "S Connect", "School Track", "Go Again")
     
-    
-    
-    %in% dat$TRAIL_NAME
-    
-    
-
+    bad_trails <- dat$TRAIL_NAME %in% bad_trails 
+    #dat <- dat[!bad_trails,]
+    #lines <- lines[!bad_trails]
     
     #dat <- dat[c(102),]
     #lines <- lines[c(102)]
@@ -111,20 +108,18 @@
     trail_segments <- list(features = x <- vector(mode = "list", length = length(trails)),
                            type = "FeatureCollection")
     
-    for(i in seq(trails)) {
+    for(i in seq(dim(dat)[1])) {
 
-        lines_rows <- which(dat$TRAIL_NAME == trails[i])
-        
-        turtles <- lapply(lines[lines_rows], function(x) { x@Lines[[1]]@coords})    
-        
-        trail_segments$features[[i]] <- list(geometry = list(coordinates = list(turtles),
+        trail_id <- which(dat$TRAIL_NAME[i] == trails)
+     
+        trail_segments$features[[i]] <- list(geometry = list(coordinates = list(lines[[i]]@Lines[[1]]@coords),
                                                                        type = "MultiLineString"),
                                              id = i,
                                              properties = list(id = i,
                                                                source_id = 3,
                                                                steward_id = 3,
                                                                length = 1.4, 
-                                                               trail1 = trails[i],
+                                                               trail1 = dat$TRAIL_NAME[i],
                                                                trail2 = NULL,
                                                                trail3 = NULL,
                                                                trail4 = NULL,
@@ -144,7 +139,7 @@
                                                                source_phone = "999-999-9999", 
                                                                source_url = "http://www.google.com",
                                                                steward = "TestOrganization",
-                                                               steward_fullname = as.character(dat$MANAGEMENT[i]),
+                                                               steward_fullname = dat$MANAGEMENT[i],
                                                                steward_phone = "999-999-9999", 
                                                                steward_url = "http://www.google.com"),
                                              type = "Feature")
@@ -181,11 +176,11 @@
         
         lines_rows <- which(dat$TRAIL_NAME == trails[i])
         
-        turtles <- lapply(lines[lines_rows], function(x) { x@Lines[[1]]@coords})    
+        #turtles <- lapply(lines[lines_rows], function(x) { x@Lines[[1]]@coords})    
         
         trailheads$features[[i]] <- list(type = "Feature",
                                          geometry = list(type = "Point",
-                                                         coordinates = turtles[[1]][1,]),
+                                                         coordinates = lines[lines_rows][[1]]@Lines[[1]]@coords[1,]),
                                          properties = list(id = i,
                                                            name = trails[i],
                                                            source_id = 3,
