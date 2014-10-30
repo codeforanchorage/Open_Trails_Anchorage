@@ -5,15 +5,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.14071,  60.970723 ] 
+"coordinates": [ -149.412912, 61.4324845 ] 
 },
 "properties": {
  "id": 1,
-"name": "Abes",
+"name": "10 Ridgetop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Abes",
+"trail1": "10 Ridgetop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -38,15 +38,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.273478,  61.232794 ] 
+"coordinates": [ -149.780064,  61.162125 ] 
 },
 "properties": {
  "id": 2,
-"name": "Albert Loop",
+"name": "14 Mile Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Albert Loop",
+"trail1": "14 Mile Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -71,15 +71,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.714505,   61.12697 ] 
+"coordinates": [ -149.740318, 61.1585487 ] 
 },
 "properties": {
  "id": 3,
-"name": "Alder",
+"name": "2.1 Km Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Alder",
+"trail1": "2.1 Km Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -104,15 +104,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.707855,  61.127817 ] 
+"coordinates": [ -149.402978, 61.4306733 ] 
 },
 "properties": {
  "id": 4,
-"name": "Alder 2",
+"name": "2.5 Km",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Alder 2",
+"trail1": "2.5 Km",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -137,15 +137,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.683243,  61.103533 ] 
+"coordinates": [ -149.739152, 61.1556674 ] 
 },
 "properties": {
  "id": 5,
-"name": "Anchorage Overlook",
+"name": "2.5 Km Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Anchorage Overlook",
+"trail1": "2.5 Km Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -170,15 +170,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.639317,  61.105821 ] 
+"coordinates": [ -149.749259, 61.1585618 ] 
 },
 "properties": {
  "id": 6,
-"name": "Ballpark",
+"name": "4.5km Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Ballpark",
+"trail1": "4.5km Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -203,15 +203,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.365574,  61.406056 ] 
+"coordinates": [ -149.752959, 61.1642497 ] 
 },
 "properties": {
  "id": 7,
-"name": "Bear Point",
+"name": "4.5km Loop Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Bear Point",
+"trail1": "4.5km Loop Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -236,15 +236,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.403849,  61.024493 ] 
+"coordinates": [ -149.405752, 61.4298687 ] 
 },
 "properties": {
  "id": 8,
-"name": "Bird Creek",
+"name": "7.5 Km",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Bird Creek",
+"trail1": "7.5 Km",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -269,15 +269,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.346534,  60.929112 ] 
+"coordinates": [ -149.800995, 61.1479755 ] 
 },
 "properties": {
  "id": 9,
-"name": "Bird Point Interp",
+"name": "Abbott Loop Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Bird Point Interp",
+"trail1": "Abbott Loop Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -302,15 +302,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.475942,  60.976147 ] 
+"coordinates": [ -149.751152, 61.1384179 ] 
 },
 "properties": {
  "id": 10,
-"name": "Bird Ridge",
+"name": "Abbott Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Bird Ridge",
+"trail1": "Abbott Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -335,15 +335,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.479836,  60.978913 ] 
+"coordinates": [ -149.14071,  60.970723 ] 
 },
 "properties": {
  "id": 11,
-"name": "Bird Ridge Interp",
+"name": "Abes",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Bird Ridge Interp",
+"trail1": "Abes",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -368,15 +368,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.433487,  60.974056 ] 
+"coordinates": [ -149.707783, 61.0701505 ] 
 },
 "properties": {
  "id": 12,
-"name": "Bird Valley",
+"name": "After Dinner Tr",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Bird Valley",
+"trail1": "After Dinner Tr",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -401,15 +401,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.493223,  61.335963 ] 
+"coordinates": [ -149.78904, 61.1545411 ] 
 },
 "properties": {
  "id": 13,
-"name": "Blacktail Ptarmigan Rocks",
+"name": "Airstrip Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Blacktail Ptarmigan Rocks",
+"trail1": "Airstrip Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -434,15 +434,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.69363,  61.123637 ] 
+"coordinates": [ -149.729974, 61.0572116 ] 
 },
 "properties": {
  "id": 14,
-"name": "Blueberry Hollow",
+"name": "Airstrip Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Blueberry Hollow",
+"trail1": "Airstrip Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -467,15 +467,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.683211,  61.103005 ] 
+"coordinates": [ -149.273478,  61.232794 ] 
 },
 "properties": {
  "id": 15,
-"name": "Blueberry Loop",
+"name": "Albert Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Blueberry Loop",
+"trail1": "Albert Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -500,15 +500,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.021555,  61.375287 ] 
+"coordinates": [ -149.714505,   61.12697 ] 
 },
 "properties": {
  "id": 16,
-"name": "Bold Ridge",
+"name": "Alder",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Bold Ridge",
+"trail1": "Alder",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -533,15 +533,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.135206,  60.967987 ] 
+"coordinates": [ -149.707855,  61.127817 ] 
 },
 "properties": {
  "id": 17,
-"name": "Cali Creek",
+"name": "Alder 2",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Cali Creek",
+"trail1": "Alder 2",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -566,15 +566,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.273337,  61.233688 ] 
+"coordinates": [ -150.045417, 61.1710555 ] 
 },
 "properties": {
  "id": 18,
-"name": "Connector 1",
+"name": "Alex Sisson Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Connector 1",
+"trail1": "Alex Sisson Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -599,15 +599,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.268303,    61.2264 ] 
+"coordinates": [ -149.931215,  61.164759 ] 
 },
 "properties": {
  "id": 19,
-"name": "Connector 2",
+"name": "along lake to south",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Connector 2",
+"trail1": "along lake to south",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -632,15 +632,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.116118,  61.028207 ] 
+"coordinates": [ -149.143422, 60.9502753 ] 
 },
 "properties": {
  "id": 20,
-"name": "Crow Pass",
+"name": "Alyeska Basin Subdivision Trails",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Crow Pass",
+"trail1": "Alyeska Basin Subdivision Trails",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -665,15 +665,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.706309,  61.123878 ] 
+"coordinates": [ -149.132165, 60.9617851 ] 
 },
 "properties": {
  "id": 21,
-"name": "Denali View",
+"name": "Alyeska Highway Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Denali View",
+"trail1": "Alyeska Highway Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -698,15 +698,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.270206,  61.230308 ] 
+"coordinates": [ -149.683243,  61.103533 ] 
 },
 "properties": {
  "id": 22,
-"name": "Dew Mound",
+"name": "Anchorage Overlook",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Dew Mound",
+"trail1": "Anchorage Overlook",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -731,15 +731,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.530515,  61.296565 ] 
+"coordinates": [ -150.064656, 61.1540888 ] 
 },
 "properties": {
  "id": 23,
-"name": "Eagle River Greenbelt",
+"name": "Andrew Lekisch Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Eagle River Greenbelt",
+"trail1": "Andrew Lekisch Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -764,15 +764,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.379326,  61.276367 ] 
+"coordinates": [ -149.748283, 61.1406673 ] 
 },
 "properties": {
  "id": 24,
-"name": "Eagle River North Fork Access",
+"name": "Ann's Alley",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Eagle River North Fork Access",
+"trail1": "Ann's Alley",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -797,15 +797,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -148.97247,   61.31499 ] 
+"coordinates": [ -149.554045, 61.3709886 ] 
 },
 "properties": {
  "id": 25,
-"name": "East Fork Eklutha River",
+"name": "Appendix",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "East Fork Eklutha River",
+"trail1": "Appendix",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -830,15 +830,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.13543,  61.409517 ] 
+"coordinates": [ -149.221977, 61.7741641 ] 
 },
 "properties": {
  "id": 26,
-"name": "Eklutna Lake Spillway",
+"name": "Archangel",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Eklutna Lake Spillway",
+"trail1": "Archangel",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -863,15 +863,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -148.974875,  61.285063 ] 
+"coordinates": [ -150.050272, 61.1655796 ] 
 },
 "properties": {
  "id": 27,
-"name": "Eklutna Lakeside",
+"name": "Arlene's Way",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Eklutna Lakeside",
+"trail1": "Arlene's Way",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -896,15 +896,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.13543,  61.409517 ] 
+"coordinates": [ -149.129356, 60.9686874 ] 
 },
 "properties": {
  "id": 28,
-"name": "Eklutna Spillway",
+"name": "Athabascan Physics Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Eklutna Spillway",
+"trail1": "Athabascan Physics Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -929,15 +929,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.282167,  61.220916 ] 
+"coordinates": [ -149.57274, 61.3004495 ] 
 },
 "properties": {
  "id": 29,
-"name": "ER Access1",
+"name": "AWWU Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "ER Access1",
+"trail1": "AWWU Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -962,15 +962,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.28229,  61.221855 ] 
+"coordinates": [ -149.652033, 61.1021543 ] 
 },
 "properties": {
  "id": 30,
-"name": "ER Access2",
+"name": "Ballfield",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "ER Access2",
+"trail1": "Ballfield",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -995,15 +995,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.287074,  61.231236 ] 
+"coordinates": [ -149.639317,  61.105821 ] 
 },
 "properties": {
  "id": 31,
-"name": "ER Access3",
+"name": "Ballpark",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "ER Access3",
+"trail1": "Ballpark",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1028,15 +1028,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.575927,  60.984346 ] 
+"coordinates": [ -149.728265, 61.2317521 ] 
 },
 "properties": {
  "id": 32,
-"name": "Falls Creek",
+"name": "Bartlett",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Falls Creek",
+"trail1": "Bartlett",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1061,15 +1061,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.676564,   61.09599 ] 
+"coordinates": [ -149.758834, 61.1923107 ] 
 },
 "properties": {
  "id": 33,
-"name": "Flattop Peak",
+"name": "Baxter Bog",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Flattop Peak",
+"trail1": "Baxter Bog",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1094,15 +1094,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.676337,  61.093019 ] 
+"coordinates": [ -149.064389, 61.7134317 ] 
 },
 "properties": {
  "id": 34,
-"name": "Flattop Peak Alternate",
+"name": "Baxter Mine",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Flattop Peak Alternate",
+"trail1": "Baxter Mine",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1127,15 +1127,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.265803,  61.224023 ] 
+"coordinates": [ -149.365574,  61.406056 ] 
 },
 "properties": {
  "id": 35,
-"name": "Four Corners Loop",
+"name": "Bear Point",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Four Corners Loop",
+"trail1": "Bear Point",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1160,15 +1160,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.676153,  61.107303 ] 
+"coordinates": [ -149.760963,  61.165377 ] 
 },
 "properties": {
  "id": 36,
-"name": "Gasline",
+"name": "Beaver Dam Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Gasline",
+"trail1": "Beaver Dam Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1193,15 +1193,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.707637,  61.140266 ] 
+"coordinates": [ -149.140859, 60.9708806 ] 
 },
 "properties": {
  "id": 37,
-"name": "Golden Grass",
+"name": "Beaver Pond Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Golden Grass",
+"trail1": "Beaver Pond Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1226,15 +1226,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.688434,  61.072439 ] 
+"coordinates": [ -149.790441, 61.0651852 ] 
 },
 "properties": {
  "id": 38,
-"name": "Grand View",
+"name": "Belarde",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Grand View",
+"trail1": "Belarde",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1259,15 +1259,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.418332,  61.208614 ] 
+"coordinates": [ -149.756339, 61.1414806 ] 
 },
 "properties": {
  "id": 39,
-"name": "Hanging Valley",
+"name": "Besh Lighted Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Hanging Valley",
+"trail1": "Besh Lighted Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1292,15 +1292,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.690485,   61.11679 ] 
+"coordinates": [ -150.056673, 61.1536433 ] 
 },
 "properties": {
  "id": 40,
-"name": "Hemlock Knob",
+"name": "Biathalon Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Hemlock Knob",
+"trail1": "Biathalon Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1325,15 +1325,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.591501,  61.089601 ] 
+"coordinates": [ -150.028927, 61.1497418 ] 
 },
 "properties": {
  "id": 41,
-"name": "Hidden Lake",
+"name": "Big Dipper",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Hidden Lake",
+"trail1": "Big Dipper",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1358,15 +1358,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.483909,  61.081824 ] 
+"coordinates": [ -150.210815, 61.7053334 ] 
 },
 "properties": {
  "id": 42,
-"name": "Indian Creek Pass",
+"name": "Big Swamp",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Indian Creek Pass",
+"trail1": "Big Swamp",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1391,15 +1391,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.170621,  60.943745 ] 
+"coordinates": [ -149.403849,  61.024493 ] 
 },
 "properties": {
  "id": 43,
-"name": "Indian To Bird Bike",
+"name": "Bird Creek",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Indian To Bird Bike",
+"trail1": "Bird Creek",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1424,15 +1424,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.361745,  61.202717 ] 
+"coordinates": [ -149.346534,  60.929112 ] 
 },
 "properties": {
  "id": 44,
-"name": "Lake Spur HV",
+"name": "Bird Point Interp",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Lake Spur HV",
+"trail1": "Bird Point Interp",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1457,15 +1457,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.692053,   61.13969 ] 
+"coordinates": [ -149.475942,  60.976147 ] 
 },
 "properties": {
  "id": 45,
-"name": "Little Loop",
+"name": "Bird Ridge",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Little Loop",
+"trail1": "Bird Ridge",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1490,15 +1490,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.657858,   61.10226 ] 
+"coordinates": [ -149.479836,  60.978913 ] 
 },
 "properties": {
  "id": 46,
-"name": "Little Omalley",
+"name": "Bird Ridge Interp",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Little Omalley",
+"trail1": "Bird Ridge Interp",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1523,15 +1523,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.581879,  61.132685 ] 
+"coordinates": [ -149.742671, 61.1500892 ] 
 },
 "properties": {
  "id": 47,
-"name": "Long Lake",
+"name": "Black Bear Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Long Lake",
+"trail1": "Black Bear Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1556,15 +1556,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.714169,  61.151535 ] 
+"coordinates": [ -149.493223,  61.335963 ] 
 },
 "properties": {
  "id": 48,
-"name": "Lost Cabin Valley",
+"name": "Blacktail Ptarmigan Rocks",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Lost Cabin Valley",
+"trail1": "Blacktail Ptarmigan Rocks",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1589,15 +1589,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.58618,  61.039198 ] 
+"coordinates": [ -149.744683, 61.1478459 ] 
 },
 "properties": {
  "id": 49,
-"name": "McHugh Lake",
+"name": "BLM Ridge",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "McHugh Lake",
+"trail1": "BLM Ridge",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1622,15 +1622,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.420003,  61.324163 ] 
+"coordinates": [ -149.69363,  61.123637 ] 
 },
 "properties": {
  "id": 50,
-"name": "Meadow Creek",
+"name": "Blueberry Hollow",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Meadow Creek",
+"trail1": "Blueberry Hollow",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1655,15 +1655,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.668466,    61.1025 ] 
+"coordinates": [ -149.765478, 61.1404528 ] 
 },
 "properties": {
  "id": 51,
-"name": "Middle Fork Loop",
+"name": "Bog Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Middle Fork Loop",
+"trail1": "Bog Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1688,15 +1688,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.462548,  61.318298 ] 
+"coordinates": [ -149.021555,  61.375287 ] 
 },
 "properties": {
  "id": 52,
-"name": "Mile High Ridge",
+"name": "Bold Ridge",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Mile High Ridge",
+"trail1": "Bold Ridge",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1721,15 +1721,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.464797,   61.31347 ] 
+"coordinates": [ -150.041998, 61.1526398 ] 
 },
 "properties": {
  "id": 53,
-"name": "Mile High Saddle",
+"name": "Bolling Alley",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Mile High Saddle",
+"trail1": "Bolling Alley",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1754,15 +1754,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.267766,  61.215676 ] 
+"coordinates": [ -149.418706, 61.4295838 ] 
 },
 "properties": {
  "id": 54,
-"name": "Mountain Meadow",
+"name": "Bottom Cut Thru",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Mountain Meadow",
+"trail1": "Bottom Cut Thru",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1787,15 +1787,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.511898,  61.337368 ] 
+"coordinates": [ -149.546521, 61.3751593 ] 
 },
 "properties": {
  "id": 55,
-"name": "Mt Baldy",
+"name": "Bridge Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Mt Baldy",
+"trail1": "Bridge Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1820,15 +1820,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.377781,  61.391293 ] 
+"coordinates": [ -150.025874, 61.1456101 ] 
 },
 "properties": {
  "id": 56,
-"name": "Mt Eklutna",
+"name": "C$ Express",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Mt Eklutna",
+"trail1": "C$ Express",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1853,15 +1853,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.53812,  61.240914 ] 
+"coordinates": [ -149.135206,  60.967987 ] 
 },
 "properties": {
  "id": 57,
-"name": "Muktuk Marstib Memorial",
+"name": "Cali Creek",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Muktuk Marstib Memorial",
+"trail1": "Cali Creek",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1886,15 +1886,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.680206,  61.146846 ] 
+"coordinates": [ -149.145766, 60.9803172 ] 
 },
 "properties": {
  "id": 58,
-"name": "Near Point",
+"name": "California Creek Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Near Point",
+"trail1": "California Creek Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1919,15 +1919,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.675564,  61.152366 ] 
+"coordinates": [ -149.864352, 61.1734486 ] 
 },
 "properties": {
  "id": 59,
-"name": "North Fork",
+"name": "Campbell Creek Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "North Fork",
+"trail1": "Campbell Creek Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1952,15 +1952,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.699438,  61.134184 ] 
+"coordinates": [ -149.776511, 61.0959143 ] 
 },
 "properties": {
  "id": 60,
-"name": "Panorama View",
+"name": "Cannonrd",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Panorama View",
+"trail1": "Cannonrd",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -1985,15 +1985,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.406509,  60.990257 ] 
+"coordinates": [ -149.62758, 61.8578103 ] 
 },
 "properties": {
  "id": 61,
-"name": "Penguin Creek",
+"name": "Canyon Creek",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Penguin Creek",
+"trail1": "Canyon Creek",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2018,15 +2018,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.423939,  60.979886 ] 
+"coordinates": [ -149.269283, 61.6960757 ] 
 },
 "properties": {
  "id": 62,
-"name": "Penguin Peak",
+"name": "Carle Wagon",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Penguin Peak",
+"trail1": "Carle Wagon",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2051,15 +2051,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.412564,  61.397395 ] 
+"coordinates": [ -149.721161,  61.225181 ] 
 },
 "properties": {
  "id": 63,
-"name": "Peters Valley",
+"name": "Centennial",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Peters Valley",
+"trail1": "Centennial",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2084,15 +2084,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.710329,  61.112389 ] 
+"coordinates": [ -150.051699, 61.1561211 ] 
 },
 "properties": {
  "id": 64,
-"name": "Picnic Loop",
+"name": "Chalet Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Picnic Loop",
+"trail1": "Chalet Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2117,15 +2117,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.49978,  60.999838 ] 
+"coordinates": [ -149.896916, 61.2048345 ] 
 },
 "properties": {
  "id": 65,
-"name": "Powerline",
+"name": "Chester Creek Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Powerline",
+"trail1": "Chester Creek Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2150,15 +2150,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.683117,  61.103058 ] 
+"coordinates": [ -148.605962, 61.7847362 ] 
 },
 "properties": {
  "id": 66,
-"name": "Powerline Access",
+"name": "Chickaloon",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Powerline Access",
+"trail1": "Chickaloon",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2183,15 +2183,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.608153,   61.07138 ] 
+"coordinates": [ -149.533702, 61.3746779 ] 
 },
 "properties": {
  "id": 67,
-"name": "Ptarmigan Pass",
+"name": "Christy Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Ptarmigan Pass",
+"trail1": "Christy Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2216,15 +2216,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.467867,  61.389369 ] 
+"coordinates": [ -150.225843, 62.3163146 ] 
 },
 "properties": {
  "id": 68,
-"name": "Ptarmigan Valley",
+"name": "Chulitna Bluff",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Ptarmigan Valley",
+"trail1": "Chulitna Bluff",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2249,15 +2249,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.269647,  61.221395 ] 
+"coordinates": [ -149.554045, 61.3709886 ] 
 },
 "properties": {
  "id": 69,
-"name": "Public Use Cabin",
+"name": "Coach's Cutoff",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Public Use Cabin",
+"trail1": "Coach's Cutoff",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2282,15 +2282,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [  -149.6776,   61.07935 ] 
+"coordinates": [ -149.979643, 61.1979887 ] 
 },
 "properties": {
  "id": 70,
-"name": "Rabbit Lake",
+"name": "Coastal Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Rabbit Lake",
+"trail1": "Coastal Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2315,15 +2315,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.265396,  61.209502 ] 
+"coordinates": [ -149.756278, 61.0762585 ] 
 },
 "properties": {
  "id": 71,
-"name": "Rapids Camp Loop",
+"name": "Cobblestone Hill Rd",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Rapids Camp Loop",
+"trail1": "Cobblestone Hill Rd",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2348,15 +2348,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.265976,  61.209882 ] 
+"coordinates": [ -150.041399, 61.1523497 ] 
 },
 "properties": {
  "id": 72,
-"name": "Rapids Camp Yurt",
+"name": "Compression",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Rapids Camp Yurt",
+"trail1": "Compression",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2381,15 +2381,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.284497,  61.225477 ] 
+"coordinates": [ -149.935234, 61.1681641 ] 
 },
 "properties": {
  "id": 73,
-"name": "River Loop",
+"name": "Connors Lake Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "River Loop",
+"trail1": "Connors Lake Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2414,15 +2414,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.281769,  61.221295 ] 
+"coordinates": [ -150.182432, 61.7182783 ] 
 },
 "properties": {
  "id": 74,
-"name": "River Loop Yurt",
+"name": "Corral Hill",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "River Loop Yurt",
+"trail1": "Corral Hill",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2447,15 +2447,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.271619,  61.230839 ] 
+"coordinates": [ -149.542476, 61.3735055 ] 
 },
 "properties": {
  "id": 75,
-"name": "RL Interp",
+"name": "Corral Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "RL Interp",
+"trail1": "Corral Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2480,15 +2480,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [  -149.2719,  61.230681 ] 
+"coordinates": [ -149.790372, 61.1547386 ] 
 },
 "properties": {
  "id": 76,
-"name": "RL Interp 2",
+"name": "Coyote Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "RL Interp 2",
+"trail1": "Coyote Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2513,15 +2513,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.273382,   61.23265 ] 
+"coordinates": [ -149.205105, 61.5866044 ] 
 },
 "properties": {
  "id": 77,
-"name": "RL Interp 3",
+"name": "Crevasse-Moraine",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "RL Interp 3",
+"trail1": "Crevasse-Moraine",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2546,15 +2546,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.270553,  61.233007 ] 
+"coordinates": [ -150.369035, 61.5360159 ] 
 },
 "properties": {
  "id": 78,
-"name": "Rodak Nature Loop",
+"name": "Crooked Lake",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Rodak Nature Loop",
+"trail1": "Crooked Lake",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2579,15 +2579,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.532959,  61.246937 ] 
+"coordinates": [ -146.450825, 62.3184025 ] 
 },
 "properties": {
  "id": 79,
-"name": "Rondevous Peak",
+"name": "Crosswind lake",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Rondevous Peak",
+"trail1": "Crosswind lake",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2612,15 +2612,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.540182,  61.242926 ] 
+"coordinates": [ -149.116118,  61.028207 ] 
 },
 "properties": {
  "id": 80,
-"name": "Rondevous Ridge",
+"name": "Crow Pass",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Rondevous Ridge",
+"trail1": "Crow Pass",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2645,15 +2645,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.610975,  61.087588 ] 
+"coordinates": [ -149.880137, 61.1856963 ] 
 },
 "properties": {
  "id": 81,
-"name": "Ship Lake Pass",
+"name": "Cuddy Family Midtown Park Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Ship Lake Pass",
+"trail1": "Cuddy Family Midtown Park Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2678,15 +2678,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.705728,  61.116244 ] 
+"coordinates": [ -147.814716, 61.8011019 ] 
 },
 "properties": {
  "id": 82,
-"name": "Silver Fern",
+"name": "Dan Creek",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Silver Fern",
+"trail1": "Dan Creek",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2711,15 +2711,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.710628,  61.112117 ] 
+"coordinates": [ -150.045721, 61.1580123 ] 
 },
 "properties": {
  "id": 83,
-"name": "Snowmobile Entrance",
+"name": "Dark Alley",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Snowmobile Entrance",
+"trail1": "Dark Alley",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2744,15 +2744,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.695924,  61.112235 ] 
+"coordinates": [ -149.706309,  61.123878 ] 
 },
 "properties": {
  "id": 84,
-"name": "Snowmobile Exit",
+"name": "Denali View",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Snowmobile Exit",
+"trail1": "Denali View",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2777,15 +2777,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.455977,  61.232545 ] 
+"coordinates": [ -149.268303,    61.2264 ] 
 },
 "properties": {
  "id": 85,
-"name": "South Fork ER",
+"name": "Dew Mound",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "South Fork ER",
+"trail1": "Dew Mound",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2810,15 +2810,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.712937,  61.137648 ] 
+"coordinates": [ -149.89182, 61.1448292 ] 
 },
 "properties": {
  "id": 86,
-"name": "South Fork Rim",
+"name": "Dimond (North Side)",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "South Fork Rim",
+"trail1": "Dimond (North Side)",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2843,15 +2843,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.708546,  61.140959 ] 
+"coordinates": [ -149.887157, 61.1444988 ] 
 },
 "properties": {
  "id": 87,
-"name": "Spencer",
+"name": "Dimond (South Side)",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Spencer",
+"trail1": "Dimond (South Side)",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2876,15 +2876,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.699447,  61.143967 ] 
+"coordinates": [ -149.685661, 61.1679229 ] 
 },
 "properties": {
  "id": 88,
-"name": "Spencer Loop",
+"name": "Dome Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Spencer Loop",
+"trail1": "Dome Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2909,15 +2909,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.139579,   60.97007 ] 
+"coordinates": [ -149.455977,  61.232545 ] 
 },
 "properties": {
  "id": 89,
-"name": "Spur 1",
+"name": "Eagle Lake",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Spur 1",
+"trail1": "Eagle Lake",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2942,15 +2942,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.146898,  60.982286 ] 
+"coordinates": [ -149.530515,  61.296565 ] 
 },
 "properties": {
  "id": 90,
-"name": "Spur 2",
+"name": "Eagle River Greenbelt",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Spur 2",
+"trail1": "Eagle River Greenbelt",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -2975,15 +2975,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.37045,  61.449082 ] 
+"coordinates": [  -149.5782, 61.2962722 ] 
 },
 "properties": {
  "id": 91,
-"name": "Thunderbird Falls",
+"name": "Eagle River High School Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Thunderbird Falls",
+"trail1": "Eagle River High School Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3008,15 +3008,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.731018,  61.018792 ] 
+"coordinates": [ -149.379326,  61.276367 ] 
 },
 "properties": {
  "id": 92,
-"name": "Track 3",
+"name": "Eagle River North Fork Access",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Track 3",
+"trail1": "Eagle River North Fork Access",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3041,15 +3041,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.733184,  61.018255 ] 
+"coordinates": [ -148.97247,   61.31499 ] 
 },
 "properties": {
  "id": 93,
-"name": "Track 7",
+"name": "East Fork Eklutha River",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Track 7",
+"trail1": "East Fork Eklutha River",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3074,15 +3074,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.604403,  60.984871 ] 
+"coordinates": [ -149.774998, 61.1564384 ] 
 },
 "properties": {
  "id": 94,
-"name": "Turnagain Arm",
+"name": "Eight Mile Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Turnagain Arm",
+"trail1": "Eight Mile Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3107,15 +3107,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.784675,  61.044991 ] 
+"coordinates": [ -148.974875,  61.285063 ] 
 },
 "properties": {
  "id": 95,
-"name": "Turnagain Arm Interpretive",
+"name": "Eklutna Lakeside",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Turnagain Arm Interpretive",
+"trail1": "Eklutna Lakeside",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3140,15 +3140,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.135165,  61.410408 ] 
+"coordinates": [ -149.13543,  61.409517 ] 
 },
 "properties": {
  "id": 96,
-"name": "Twin Peaks",
+"name": "Eklutna LAkeside",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Twin Peaks",
+"trail1": "Eklutna LAkeside",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3173,15 +3173,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.714476,  61.122064 ] 
+"coordinates": [ -149.13543,  61.409517 ] 
 },
 "properties": {
  "id": 97,
-"name": "White Spruce",
+"name": "Eklutna Spillway",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "White Spruce",
+"trail1": "Eklutna Spillway",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3206,15 +3206,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.663447,  61.117455 ] 
+"coordinates": [ -149.75783, 61.0580656 ] 
 },
 "properties": {
  "id": 98,
-"name": "Williwaw Lakes",
+"name": "Elevator",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Williwaw Lakes",
+"trail1": "Elevator",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3239,15 +3239,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.710569,  61.139035 ] 
+"coordinates": [ -150.047349, 61.1586178 ] 
 },
 "properties": {
  "id": 99,
-"name": "Wolverine Bowl",
+"name": "Elliots Climb",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Wolverine Bowl",
+"trail1": "Elliots Climb",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3272,15 +3272,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.698381,  61.142875 ] 
+"coordinates": [ -149.001183, 61.5260519 ] 
 },
 "properties": {
  "id": 100,
-"name": "Wolverine Bowl Loop",
+"name": "Envy",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Wolverine Bowl Loop",
+"trail1": "Envy",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3305,15 +3305,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.680206,  61.146846 ] 
+"coordinates": [ -148.909782, 61.7500316 ] 
 },
 "properties": {
  "id": 101,
-"name": "Wolverine Peak",
+"name": "Eska Creek Falls Multi-Use Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Wolverine Peak",
+"trail1": "Eska Creek Falls Multi-Use Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3338,15 +3338,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.273455,  61.234001 ] 
+"coordinates": [ -149.548717, 61.3720491 ] 
 },
 "properties": {
  "id": 102,
-"name": "Yurt Classrom",
+"name": "Executioner",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Yurt Classrom",
+"trail1": "Executioner",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3371,15 +3371,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.412912, 61.4324845 ] 
+"coordinates": [ -149.420191, 61.4301807 ] 
 },
 "properties": {
  "id": 103,
-"name": "10 Ridgetop",
+"name": "Existing Ridge Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "10 Ridgetop",
+"trail1": "Existing Ridge Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3404,15 +3404,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.780064,  61.162125 ] 
+"coordinates": [ -149.575927,  60.984346 ] 
 },
 "properties": {
  "id": 104,
-"name": "14 Mile Loop",
+"name": "Falls Creek",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "14 Mile Loop",
+"trail1": "Falls Creek",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3437,15 +3437,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.740318, 61.1585487 ] 
+"coordinates": [ -149.240183, 61.8188606 ] 
 },
 "properties": {
  "id": 105,
-"name": "2.1 Km Loop",
+"name": "Fern Mine",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "2.1 Km Loop",
+"trail1": "Fern Mine",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3470,15 +3470,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.402978, 61.4306733 ] 
+"coordinates": [ -149.683181, 61.1030949 ] 
 },
 "properties": {
  "id": 106,
-"name": "2.5 Km",
+"name": "Flattop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "2.5 Km",
+"trail1": "Flattop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3503,15 +3503,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.739152, 61.1556674 ] 
+"coordinates": [ -149.679564, 61.1003245 ] 
 },
 "properties": {
  "id": 107,
-"name": "2.5 Km Loop",
+"name": "Flattop Option",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "2.5 Km Loop",
+"trail1": "Flattop Option",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3536,15 +3536,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.749259, 61.1585618 ] 
+"coordinates": [ -149.683211,  61.103005 ] 
 },
 "properties": {
  "id": 108,
-"name": "4.5km Loop",
+"name": "Flattop Peak",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "4.5km Loop",
+"trail1": "Flattop Peak",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3569,15 +3569,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.752959, 61.1642497 ] 
+"coordinates": [ -149.676337,  61.093019 ] 
 },
 "properties": {
  "id": 109,
-"name": "4.5km Loop Trail",
+"name": "Flattop Peak Alternate",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "4.5km Loop Trail",
+"trail1": "Flattop Peak Alternate",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3602,15 +3602,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.405752, 61.4298687 ] 
+"coordinates": [ -150.028927, 61.1497418 ] 
 },
 "properties": {
  "id": 110,
-"name": "7.5 Km",
+"name": "Four Corners Connector Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "7.5 Km",
+"trail1": "Four Corners Connector Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3635,15 +3635,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.800995, 61.1479755 ] 
+"coordinates": [ -149.676153,  61.107303 ] 
 },
 "properties": {
  "id": 111,
-"name": "Abbott Loop Trail",
+"name": "Gasline",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Abbott Loop Trail",
+"trail1": "Gasline",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3668,15 +3668,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.751152, 61.1384179 ] 
+"coordinates": [ -149.728972, 61.1416242 ] 
 },
 "properties": {
  "id": 112,
-"name": "Abbott Trail",
+"name": "Gasline Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Abbott Trail",
+"trail1": "Gasline Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3701,15 +3701,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.707783, 61.0701505 ] 
+"coordinates": [ -149.201765, 61.8439803 ] 
 },
 "properties": {
  "id": 113,
-"name": "After Dinner Tr",
+"name": "Glacier Creek",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "After Dinner Tr",
+"trail1": "Glacier Creek",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3734,15 +3734,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.78904, 61.1545411 ] 
+"coordinates": [ -149.136045, 60.9622069 ] 
 },
 "properties": {
  "id": 114,
-"name": "Airstrip Loop",
+"name": "Glacier Creek/iditarod Trail System",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Airstrip Loop",
+"trail1": "Glacier Creek/iditarod Trail System",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3767,15 +3767,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.729974, 61.0572116 ] 
+"coordinates": [ -149.936976, 61.1532788 ] 
 },
 "properties": {
  "id": 115,
-"name": "Airstrip Trail",
+"name": "Gladys Wood Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Airstrip Trail",
+"trail1": "Gladys Wood Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3800,15 +3800,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.703881, 61.1276252 ] 
+"coordinates": [ -149.671447, 61.1038472 ] 
 },
 "properties": {
  "id": 116,
-"name": "Alder Trail",
+"name": "Glen Alps To Powerline A",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Alder Trail",
+"trail1": "Glen Alps To Powerline A",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3833,15 +3833,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.045417, 61.1710555 ] 
+"coordinates": [ -149.652033, 61.1021543 ] 
 },
 "properties": {
  "id": 117,
-"name": "Alex Sisson Loop",
+"name": "Glen Alps/ Middle Fork",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Alex Sisson Loop",
+"trail1": "Glen Alps/ Middle Fork",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3866,15 +3866,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.935935, 61.1689514 ] 
+"coordinates": [ -149.683181, 61.1030949 ] 
 },
 "properties": {
  "id": 118,
-"name": "Along Lake",
+"name": "Glenalps To Powerline B",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Along Lake",
+"trail1": "Glenalps To Powerline B",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3899,15 +3899,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.931215,  61.164759 ] 
+"coordinates": [ -149.683771, 61.1034492 ] 
 },
 "properties": {
  "id": 119,
-"name": "along lake to south",
+"name": "Glenalps View Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "along lake to south",
+"trail1": "Glenalps View Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3932,15 +3932,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.143422, 60.9502753 ] 
+"coordinates": [ -149.779084, 61.2266628 ] 
 },
 "properties": {
  "id": 120,
-"name": "Alyeska Basin Subdivision Trails",
+"name": "Glenn Hwy Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Alyeska Basin Subdivision Trails",
+"trail1": "Glenn Hwy Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3965,15 +3965,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.132165, 60.9617851 ] 
+"coordinates": [ -149.42004, 61.4297681 ] 
 },
 "properties": {
  "id": 121,
-"name": "Alyeska Highway Trail",
+"name": "Go Again",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Alyeska Highway Trail",
+"trail1": "Go Again",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -3998,15 +3998,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.064656, 61.1540888 ] 
+"coordinates": [ -149.707637,  61.140266 ] 
 },
 "properties": {
  "id": 122,
-"name": "Andrew Lekisch Trail",
+"name": "Golden Grass",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Andrew Lekisch Trail",
+"trail1": "Golden Grass",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4031,15 +4031,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.748283, 61.1406673 ] 
+"coordinates": [ -150.040153, 61.1477183 ] 
 },
 "properties": {
  "id": 123,
-"name": "Ann's Alley",
+"name": "Good Greeff",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Ann's Alley",
+"trail1": "Good Greeff",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4064,15 +4064,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.554045, 61.3709886 ] 
+"coordinates": [ -149.826253, 61.1952778 ] 
 },
 "properties": {
  "id": 124,
-"name": "Appendix",
+"name": "Goose Lake Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Appendix",
+"trail1": "Goose Lake Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4097,15 +4097,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.050272, 61.1655796 ] 
+"coordinates": [ -149.299796, 61.6987989 ] 
 },
 "properties": {
  "id": 125,
-"name": "Arlene's Way",
+"name": "Government Peak",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Arlene's Way",
+"trail1": "Government Peak",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4130,15 +4130,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.129356, 60.9686874 ] 
+"coordinates": [ -149.28848, 61.7056509 ] 
 },
 "properties": {
  "id": 126,
-"name": "Athabascan Physics Trail",
+"name": "GPRA",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Athabascan Physics Trail",
+"trail1": "GPRA",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4163,15 +4163,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.57274, 61.3004495 ] 
+"coordinates": [ -149.688434,  61.072439 ] 
 },
 "properties": {
  "id": 127,
-"name": "AWWU Trail",
+"name": "Grand View",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "AWWU Trail",
+"trail1": "Grand View",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4196,15 +4196,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.652033, 61.1021543 ] 
+"coordinates": [ -149.705225, 61.1351168 ] 
 },
 "properties": {
  "id": 128,
-"name": "Ballfield",
+"name": "Grass Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Ballfield",
+"trail1": "Grass Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4229,15 +4229,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.728265, 61.2317521 ] 
+"coordinates": [ -149.086412, 60.9972113 ] 
 },
 "properties": {
  "id": 129,
-"name": "Bartlett",
+"name": "Hand Tram Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Bartlett",
+"trail1": "Hand Tram Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4262,15 +4262,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.758834, 61.1923107 ] 
+"coordinates": [ -149.418332,  61.208614 ] 
 },
 "properties": {
  "id": 130,
-"name": "Baxter Bog",
+"name": "Hanging Valley",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Baxter Bog",
+"trail1": "Hanging Valley",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4295,15 +4295,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.760963,  61.165377 ] 
+"coordinates": [ -149.731183, 61.0847086 ] 
 },
 "properties": {
  "id": 131,
-"name": "Beaver Dam Trail",
+"name": "Heights Hill Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Beaver Dam Trail",
+"trail1": "Heights Hill Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4328,15 +4328,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.140859, 60.9708806 ] 
+"coordinates": [ -149.690485,   61.11679 ] 
 },
 "properties": {
  "id": 132,
-"name": "Beaver Pond Trail",
+"name": "Hemlock Knob",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Beaver Pond Trail",
+"trail1": "Hemlock Knob",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4361,15 +4361,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.785432, 61.0651684 ] 
+"coordinates": [ -149.591501,  61.089601 ] 
 },
 "properties": {
  "id": 133,
-"name": "Belarde",
+"name": "Hidden Lake",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Belarde",
+"trail1": "Hidden Lake",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4394,15 +4394,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.756339, 61.1414806 ] 
+"coordinates": [ -149.547336, 61.3979546 ] 
 },
 "properties": {
  "id": 134,
-"name": "Besh Lighted Loop",
+"name": "HILL",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Besh Lighted Loop",
+"trail1": "HILL",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4427,15 +4427,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.056673, 61.1536433 ] 
+"coordinates": [ -149.564745, 61.3644813 ] 
 },
 "properties": {
  "id": 135,
-"name": "Biathalon Loop",
+"name": "Hill Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Biathalon Loop",
+"trail1": "Hill Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4460,15 +4460,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.028927, 61.1497418 ] 
+"coordinates": [ -149.402711, 61.4306702 ] 
 },
 "properties": {
  "id": 136,
-"name": "Big Dipper",
+"name": "Hill Topper Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Big Dipper",
+"trail1": "Hill Topper Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4493,15 +4493,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.742671, 61.1500892 ] 
+"coordinates": [ -149.754569, 61.1408666 ] 
 },
 "properties": {
  "id": 137,
-"name": "Black Bear Trail",
+"name": "Hillside Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Black Bear Trail",
+"trail1": "Hillside Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4526,15 +4526,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.744683, 61.1478459 ] 
+"coordinates": [ -149.572787, 61.3035925 ] 
 },
 "properties": {
  "id": 138,
-"name": "BLM Ridge",
+"name": "HLB Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "BLM Ridge",
+"trail1": "HLB Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4559,15 +4559,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.765478, 61.1404528 ] 
+"coordinates": [ -149.782339, 61.1619723 ] 
 },
 "properties": {
  "id": 139,
-"name": "Bog Trail",
+"name": "Homecoming/poleline",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Bog Trail",
+"trail1": "Homecoming/poleline",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4592,15 +4592,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.041998, 61.1526398 ] 
+"coordinates": [ -149.792014, 61.1498073 ] 
 },
 "properties": {
  "id": 140,
-"name": "Bolling Alley",
+"name": "Homestead Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Bolling Alley",
+"trail1": "Homestead Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4625,15 +4625,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.418706, 61.4295838 ] 
+"coordinates": [ -149.717892, 61.1389059 ] 
 },
 "properties": {
  "id": 141,
-"name": "Bottom Cut Thru",
+"name": "Hornet's Nest",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Bottom Cut Thru",
+"trail1": "Hornet's Nest",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4658,15 +4658,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.546521, 61.3751593 ] 
+"coordinates": [ -150.018842, 61.1524556 ] 
 },
 "properties": {
  "id": 142,
-"name": "Bridge Loop",
+"name": "Horseshoe Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Bridge Loop",
+"trail1": "Horseshoe Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4691,15 +4691,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.025874, 61.1456101 ] 
+"coordinates": [ -150.040897, 61.1479784 ] 
 },
 "properties": {
  "id": 143,
-"name": "C$ Express",
+"name": "Ice Box",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "C$ Express",
+"trail1": "Ice Box",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4724,15 +4724,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.145766, 60.9803172 ] 
+"coordinates": [ -149.124491, 60.9686521 ] 
 },
 "properties": {
  "id": 144,
-"name": "California Creek Trail",
+"name": "Iditarod Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "California Creek Trail",
+"trail1": "Iditarod Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4757,15 +4757,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.864352, 61.1734486 ] 
+"coordinates": [ -149.417128, 61.4337414 ] 
 },
 "properties": {
  "id": 145,
-"name": "Campbell Creek Trail",
+"name": "In Cutoff To H",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Campbell Creek Trail",
+"trail1": "In Cutoff To H",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4790,15 +4790,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.776511, 61.0959143 ] 
+"coordinates": [ -149.405608, 61.4352629 ] 
 },
 "properties": {
  "id": 146,
-"name": "Cannonrd",
+"name": "In Far To Cutoff",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Cannonrd",
+"trail1": "In Far To Cutoff",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4823,15 +4823,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.721161,  61.225181 ] 
+"coordinates": [ -149.418685, 61.4318477 ] 
 },
 "properties": {
  "id": 147,
-"name": "Centennial",
+"name": "Inbound",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Centennial",
+"trail1": "Inbound",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4856,15 +4856,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.051699, 61.1561211 ] 
+"coordinates": [ -149.483909,  61.081824 ] 
 },
 "properties": {
  "id": 148,
-"name": "Chalet Loop",
+"name": "Indian Creek Pass",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Chalet Loop",
+"trail1": "Indian Creek Pass",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4889,15 +4889,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.896916, 61.2048345 ] 
+"coordinates": [ -149.170621,  60.943745 ] 
 },
 "properties": {
  "id": 149,
-"name": "Chester Creek Trail",
+"name": "Indian To Bird Bike",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Chester Creek Trail",
+"trail1": "Indian To Bird Bike",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4922,15 +4922,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.533702, 61.3746779 ] 
+"coordinates": [ -149.780064,  61.162125 ] 
 },
 "properties": {
  "id": 150,
-"name": "Christy Loop",
+"name": "Inner Loop Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Christy Loop",
+"trail1": "Inner Loop Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4955,15 +4955,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.554045, 61.3709886 ] 
+"coordinates": [ -149.728165, 61.1387453 ] 
 },
 "properties": {
  "id": 151,
-"name": "Coach's Cutoff",
+"name": "Janice's Jive",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Coach's Cutoff",
+"trail1": "Janice's Jive",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -4988,15 +4988,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.979643, 61.1979887 ] 
+"coordinates": [ -150.014602, 61.1474325 ] 
 },
 "properties": {
  "id": 152,
-"name": "Coastal Trail",
+"name": "Jodhpur Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Coastal Trail",
+"trail1": "Jodhpur Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5021,15 +5021,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.756278, 61.0762585 ] 
+"coordinates": [ -149.781134, 61.0403065 ] 
 },
 "properties": {
  "id": 153,
-"name": "Cobblestone Hill Rd",
+"name": "Johnson Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Cobblestone Hill Rd",
+"trail1": "Johnson Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5054,15 +5054,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.041399, 61.1523497 ] 
+"coordinates": [ -149.732465, 61.0197562 ] 
 },
 "properties": {
  "id": 154,
-"name": "Compression",
+"name": "Johnson Trail Spur",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Compression",
+"trail1": "Johnson Trail Spur",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5087,15 +5087,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.764949, 61.0899473 ] 
+"coordinates": [ -149.775754, 61.1406331 ] 
 },
 "properties": {
  "id": 155,
-"name": "Connect",
+"name": "Junior Nordic Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Connect",
+"trail1": "Junior Nordic Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5120,15 +5120,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.542476, 61.3735055 ] 
+"coordinates": [ -149.543804, 61.3780465 ] 
 },
 "properties": {
  "id": 156,
-"name": "Corral Loop",
+"name": "Junkyard",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Corral Loop",
+"trail1": "Junkyard",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5153,15 +5153,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.790372, 61.1547386 ] 
+"coordinates": [ -150.043044, 61.1523646 ] 
 },
 "properties": {
  "id": 157,
-"name": "Coyote Trail",
+"name": "Junkyard Hill",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Coyote Trail",
+"trail1": "Junkyard Hill",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5186,15 +5186,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.880137, 61.1856963 ] 
+"coordinates": [ -148.749895, 61.7337785 ] 
 },
 "properties": {
  "id": 158,
-"name": "Cuddy Family Midtown Park Loop",
+"name": "King River",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Cuddy Family Midtown Park Loop",
+"trail1": "King River",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5219,15 +5219,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.763927, 61.1763948 ] 
+"coordinates": [ -150.013655, 61.1517924 ] 
 },
 "properties": {
  "id": 159,
-"name": "Culvert Trail",
+"name": "Kitchen Sink",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Culvert Trail",
+"trail1": "Kitchen Sink",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5252,15 +5252,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.045721, 61.1580123 ] 
+"coordinates": [ -148.902314, 61.7400452 ] 
 },
 "properties": {
  "id": 160,
-"name": "Dark Alley",
+"name": "Knob Hill",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Dark Alley",
+"trail1": "Knob Hill",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5285,15 +5285,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.89182, 61.1448292 ] 
+"coordinates": [ -148.966439, 61.6226835 ] 
 },
 "properties": {
  "id": 161,
-"name": "Dimond (North Side)",
+"name": "Lazy Mountain",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Dimond (North Side)",
+"trail1": "Lazy Mountain",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5318,15 +5318,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.887157, 61.1444988 ] 
+"coordinates": [ -150.029763, 61.1460598 ] 
 },
 "properties": {
  "id": 162,
-"name": "Dimond (South Side)",
+"name": "Lee's Train",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Dimond (South Side)",
+"trail1": "Lee's Train",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5351,15 +5351,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.685661, 61.1679229 ] 
+"coordinates": [ -150.048178,  61.153495 ] 
 },
 "properties": {
  "id": 163,
-"name": "Dome Trail",
+"name": "Lekisch Dark Alley",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Dome Trail",
+"trail1": "Lekisch Dark Alley",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5384,15 +5384,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.75876, 61.0942119 ] 
+"coordinates": [ -150.050488, 61.1530223 ] 
 },
 "properties": {
  "id": 164,
-"name": "E 142nd Trail",
+"name": "Lekisch Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "E 142nd Trail",
+"trail1": "Lekisch Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5417,15 +5417,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.790441, 61.0651852 ] 
+"coordinates": [ -150.018212, 61.1599958 ] 
 },
 "properties": {
  "id": 165,
-"name": "E 172nd Trail",
+"name": "Little Campbell Lake Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "E 172nd Trail",
+"trail1": "Little Campbell Lake Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5450,15 +5450,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [  -149.5782, 61.2962722 ] 
+"coordinates": [ -149.692053,   61.13969 ] 
 },
 "properties": {
  "id": 166,
-"name": "Eagle River High School Trail",
+"name": "Little Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Eagle River High School Trail",
+"trail1": "Little Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5483,15 +5483,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.75983, 61.0940692 ] 
+"coordinates": [ -149.657858,   61.10226 ] 
 },
 "properties": {
  "id": 167,
-"name": "East Boundary Trail",
+"name": "Little Omalley",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "East Boundary Trail",
+"trail1": "Little Omalley",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5516,15 +5516,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.728699, 61.0567415 ] 
+"coordinates": [ -149.70378, 61.0580087 ] 
 },
 "properties": {
  "id": 168,
-"name": "East Rib To Mchugh Cr",
+"name": "Little Rc Gully Route",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "East Rib To Mchugh Cr",
+"trail1": "Little Rc Gully Route",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5549,15 +5549,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.774998, 61.1564384 ] 
+"coordinates": [ -149.42413, 61.4292779 ] 
 },
 "properties": {
  "id": 169,
-"name": "Eight Mile Trail",
+"name": "Logjam Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Eight Mile Trail",
+"trail1": "Logjam Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5582,15 +5582,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.75783, 61.0580656 ] 
+"coordinates": [ -149.581879,  61.132685 ] 
 },
 "properties": {
  "id": 170,
-"name": "Elevator",
+"name": "Long Lake",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Elevator",
+"trail1": "Long Lake",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5615,15 +5615,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.047349, 61.1586178 ] 
+"coordinates": [ -149.931184,  61.168723 ] 
 },
 "properties": {
  "id": 171,
-"name": "Elliots Climb",
+"name": "Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Elliots Climb",
+"trail1": "Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5648,15 +5648,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.572787, 61.3035925 ] 
+"coordinates": [ -149.714169,  61.151535 ] 
 },
 "properties": {
  "id": 172,
-"name": "ER Parks & Rec/HLB Trail",
+"name": "Lost Cabin Valley",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "ER Parks & Rec/HLB Trail",
+"trail1": "Lost Cabin Valley",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5681,15 +5681,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.548717, 61.3720491 ] 
+"coordinates": [ -149.796438,  61.052384 ] 
 },
 "properties": {
  "id": 173,
-"name": "Executioner",
+"name": "Lower Moen Hmstd",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Executioner",
+"trail1": "Lower Moen Hmstd",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5714,15 +5714,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.420191, 61.4301807 ] 
+"coordinates": [ -149.801945, 61.1874279 ] 
 },
 "properties": {
  "id": 174,
-"name": "Existing Ridge Trail",
+"name": "Mahaffey Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Existing Ridge Trail",
+"trail1": "Mahaffey Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5747,15 +5747,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.683181, 61.1030949 ] 
+"coordinates": [ -149.939129, 61.1712744 ] 
 },
 "properties": {
  "id": 175,
-"name": "Flattop",
+"name": "Main",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Flattop",
+"trail1": "Main",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5780,15 +5780,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.679564, 61.1003245 ] 
+"coordinates": [ -149.547396, 61.3738056 ] 
 },
 "properties": {
  "id": 176,
-"name": "Flattop Option",
+"name": "Mama's Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Flattop Option",
+"trail1": "Mama's Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5813,15 +5813,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.028927, 61.1497418 ] 
+"coordinates": [ -150.035574, 61.1535999 ] 
 },
 "properties": {
  "id": 177,
-"name": "Four Corners Connector Loop",
+"name": "Margauxs Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Four Corners Connector Loop",
+"trail1": "Margauxs Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5846,15 +5846,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.803194, 61.0791494 ] 
+"coordinates": [ -149.737649, 61.0616346 ] 
 },
 "properties": {
  "id": 178,
-"name": "Gasline To Rabbit Cr Rd",
+"name": "Margeurite Hills",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Gasline To Rabbit Cr Rd",
+"trail1": "Margeurite Hills",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5879,15 +5879,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.738978, 61.1465994 ] 
+"coordinates": [ -149.198358, 61.5661363 ] 
 },
 "properties": {
  "id": 179,
-"name": "Gasline Trail",
+"name": "Matanuska Greenbelt",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Gasline Trail",
+"trail1": "Matanuska Greenbelt",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5912,15 +5912,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.136045, 60.9622069 ] 
+"coordinates": [ -148.955718, 61.6117639 ] 
 },
 "properties": {
  "id": 180,
-"name": "Glacier Creek/iditarod Trail System",
+"name": "Matanuska Peak",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Glacier Creek/iditarod Trail System",
+"trail1": "Matanuska Peak",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5945,15 +5945,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.936976, 61.1532788 ] 
+"coordinates": [ -149.699638, 61.1660605 ] 
 },
 "properties": {
  "id": 181,
-"name": "Gladys Wood Trail",
+"name": "Maximilian",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Gladys Wood Trail",
+"trail1": "Maximilian",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -5978,15 +5978,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.671447, 61.1038472 ] 
+"coordinates": [ -149.58618,  61.039198 ] 
 },
 "properties": {
  "id": 182,
-"name": "Glen Alps To Powerline A",
+"name": "McHugh Lake",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Glen Alps To Powerline A",
+"trail1": "McHugh Lake",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6011,15 +6011,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.652033, 61.1021543 ] 
+"coordinates": [ -148.941616, 61.6112927 ] 
 },
 "properties": {
  "id": 183,
-"name": "Glen Alps/ Middle Fork",
+"name": "McRoberts Creek",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Glen Alps/ Middle Fork",
+"trail1": "McRoberts Creek",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6044,15 +6044,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.683181, 61.1030949 ] 
+"coordinates": [ -149.420003,  61.324163 ] 
 },
 "properties": {
  "id": 184,
-"name": "Glenalps To Powerline B",
+"name": "Meadow Creek",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Glenalps To Powerline B",
+"trail1": "Meadow Creek",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6077,15 +6077,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.683771, 61.1034492 ] 
+"coordinates": [  -149.5782, 61.2962722 ] 
 },
 "properties": {
  "id": 185,
-"name": "Glenalps View Loop",
+"name": "Mental Health Trust Loop Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Glenalps View Loop",
+"trail1": "Mental Health Trust Loop Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6110,15 +6110,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.779084, 61.2266628 ] 
+"coordinates": [ -149.66362, 61.1183668 ] 
 },
 "properties": {
  "id": 186,
-"name": "Glenn Hwy Trail",
+"name": "Middle Fork",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Glenn Hwy Trail",
+"trail1": "Middle Fork",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6143,15 +6143,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.560294,  61.344028 ] 
+"coordinates": [ -149.668466,    61.1025 ] 
 },
 "properties": {
  "id": 187,
-"name": "Glenn Hwy. Trail",
+"name": "Middle Fork Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Glenn Hwy. Trail",
+"trail1": "Middle Fork Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6176,15 +6176,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.42004, 61.4297681 ] 
+"coordinates": [ -150.041998, 61.1526398 ] 
 },
 "properties": {
  "id": 188,
-"name": "Go Again",
+"name": "Mighty Bike",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Go Again",
+"trail1": "Mighty Bike",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6209,15 +6209,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.040153, 61.1477183 ] 
+"coordinates": [ -149.462548,  61.318298 ] 
 },
 "properties": {
  "id": 189,
-"name": "Good Greeff",
+"name": "Mile High Ridge",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Good Greeff",
+"trail1": "Mile High Ridge",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6242,15 +6242,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.826253, 61.1952778 ] 
+"coordinates": [ -149.464797,   61.31347 ] 
 },
 "properties": {
  "id": 190,
-"name": "Goose Lake Trail",
+"name": "Mile High Saddle",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Goose Lake Trail",
+"trail1": "Mile High Saddle",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6275,15 +6275,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.705225, 61.1351168 ] 
+"coordinates": [ -149.919467, 61.1659336 ] 
 },
 "properties": {
  "id": 191,
-"name": "Grass Trail",
+"name": "Minnesota Moose Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Grass Trail",
+"trail1": "Minnesota Moose Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6308,15 +6308,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.086412, 60.9972113 ] 
+"coordinates": [ -149.196041, 61.7790213 ] 
 },
 "properties": {
  "id": 192,
-"name": "Hand Tram Trail",
+"name": "Mint Glacier",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Hand Tram Trail",
+"trail1": "Mint Glacier",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6341,15 +6341,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.731183, 61.0847086 ] 
+"coordinates": [ -149.412317, 61.4291583 ] 
 },
 "properties": {
  "id": 193,
-"name": "Heights Hill Trail",
+"name": "Mirror Lake Park",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Heights Hill Trail",
+"trail1": "Mirror Lake Park",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6374,15 +6374,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.547336, 61.3979546 ] 
+"coordinates": [ -150.052766, 61.1578338 ] 
 },
 "properties": {
  "id": 194,
-"name": "HILL",
+"name": "Mize Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "HILL",
+"trail1": "Mize Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6407,15 +6407,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.564745, 61.3644813 ] 
+"coordinates": [ -150.043106, 61.1518251 ] 
 },
 "properties": {
  "id": 195,
-"name": "Hill Loop",
+"name": "Mizes Folly",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Hill Loop",
+"trail1": "Mizes Folly",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6440,15 +6440,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.402711, 61.4306702 ] 
+"coordinates": [ -149.039118, 61.6726957 ] 
 },
 "properties": {
  "id": 196,
-"name": "Hill Topper Loop",
+"name": "Moose Creek Branch RR",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Hill Topper Loop",
+"trail1": "Moose Creek Branch RR",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6473,15 +6473,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.754569, 61.1408666 ] 
+"coordinates": [ -150.015818, 61.1492622 ] 
 },
 "properties": {
  "id": 197,
-"name": "Hillside Loop",
+"name": "Moose Hill",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Hillside Loop",
+"trail1": "Moose Hill",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6506,15 +6506,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.782339, 61.1619723 ] 
+"coordinates": [ -149.100467, 60.9693134 ] 
 },
 "properties": {
  "id": 198,
-"name": "Homecoming/poleline",
+"name": "Moose Meadow Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Homecoming/poleline",
+"trail1": "Moose Meadow Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6539,15 +6539,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.792014, 61.1498073 ] 
+"coordinates": [ -149.73954, 61.1585863 ] 
 },
 "properties": {
  "id": 199,
-"name": "Homestead Trail",
+"name": "Moose Ridge Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Homestead Trail",
+"trail1": "Moose Ridge Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6572,15 +6572,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.717892, 61.1389059 ] 
+"coordinates": [ -149.726174, 61.1632138 ] 
 },
 "properties": {
  "id": 200,
-"name": "Hornet's Nest",
+"name": "Moose Ridge Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Hornet's Nest",
+"trail1": "Moose Ridge Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6605,15 +6605,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.018842, 61.1524556 ] 
+"coordinates": [ -149.779341, 61.1648068 ] 
 },
 "properties": {
  "id": 201,
-"name": "Horseshoe Loop",
+"name": "Moose Track Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Horseshoe Loop",
+"trail1": "Moose Track Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6638,15 +6638,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.040897, 61.1479784 ] 
+"coordinates": [ -148.988036, 61.5849896 ] 
 },
 "properties": {
  "id": 202,
-"name": "Ice Box",
+"name": "Morgan Horse",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Ice Box",
+"trail1": "Morgan Horse",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6671,15 +6671,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.124491, 60.9686521 ] 
+"coordinates": [ -149.267766,  61.215676 ] 
 },
 "properties": {
  "id": 203,
-"name": "Iditarod Trail",
+"name": "Mountain Meadow",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Iditarod Trail",
+"trail1": "Mountain Meadow",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6704,15 +6704,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.417128, 61.4337414 ] 
+"coordinates": [ -149.511898,  61.337368 ] 
 },
 "properties": {
  "id": 204,
-"name": "In Cutoff To H",
+"name": "Mt Baldy",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "In Cutoff To H",
+"trail1": "Mt Baldy",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6737,15 +6737,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.405608, 61.4352629 ] 
+"coordinates": [ -149.377781,  61.391293 ] 
 },
 "properties": {
  "id": 205,
-"name": "In Far To Cutoff",
+"name": "Mt Eklutna",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "In Far To Cutoff",
+"trail1": "Mt Eklutna",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6770,15 +6770,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.418685, 61.4318477 ] 
+"coordinates": [ -150.165336, 61.7152838 ] 
 },
 "properties": {
  "id": 206,
-"name": "Inbound",
+"name": "Mud Lake",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Inbound",
+"trail1": "Mud Lake",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6803,15 +6803,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.019908, 61.1542926 ] 
+"coordinates": [ -149.53812,  61.240914 ] 
 },
 "properties": {
  "id": 207,
-"name": "Inner Lake Loop",
+"name": "Muktuk Marstib Memorial",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Inner Lake Loop",
+"trail1": "Muktuk Marstib Memorial",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6836,15 +6836,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.780064,  61.162125 ] 
+"coordinates": [ -149.737228, 61.1785966 ] 
 },
 "properties": {
  "id": 208,
-"name": "Inner Loop Trail",
+"name": "Muldoon Swamp",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Inner Loop Trail",
+"trail1": "Muldoon Swamp",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6869,15 +6869,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.728165, 61.1387453 ] 
+"coordinates": [ -149.42327, 61.4293274 ] 
 },
 "properties": {
  "id": 209,
-"name": "Janice's Jive",
+"name": "N Connect",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Janice's Jive",
+"trail1": "N Connect",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6902,15 +6902,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.014602, 61.1474325 ] 
+"coordinates": [ -149.680206,  61.146846 ] 
 },
 "properties": {
  "id": 210,
-"name": "Jodhpur Loop",
+"name": "Near Point",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Jodhpur Loop",
+"trail1": "Near Point",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6935,15 +6935,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.781134, 61.0403065 ] 
+"coordinates": [ -149.094315, 60.9750845 ] 
 },
 "properties": {
  "id": 211,
-"name": "Johnson Trail",
+"name": "Nordic Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Johnson Trail",
+"trail1": "Nordic Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -6968,15 +6968,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.732465, 61.0197562 ] 
+"coordinates": [ -149.732911, 61.1540025 ] 
 },
 "properties": {
  "id": 212,
-"name": "Johnson Trail Spur",
+"name": "North Gasline Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Johnson Trail Spur",
+"trail1": "North Gasline Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7001,15 +7001,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.775754, 61.1406331 ] 
+"coordinates": [ -149.718543, 61.1660244 ] 
 },
 "properties": {
  "id": 213,
-"name": "Junior Nordic Loop",
+"name": "North Gasline/powerline Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Junior Nordic Loop",
+"trail1": "North Gasline/powerline Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7034,15 +7034,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.543804, 61.3780465 ] 
+"coordinates": [ -149.542054, 61.3769536 ] 
 },
 "properties": {
  "id": 214,
-"name": "Junkyard",
+"name": "North Pasture",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Junkyard",
+"trail1": "North Pasture",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7067,15 +7067,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.043044, 61.1523646 ] 
+"coordinates": [ -149.733872, 61.1544177 ] 
 },
 "properties": {
  "id": 215,
-"name": "Junkyard Hill",
+"name": "Off Leash Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Junkyard Hill",
+"trail1": "Off Leash Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7100,15 +7100,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.013655, 61.1517924 ] 
+"coordinates": [ -150.035011, 61.1519661 ] 
 },
 "properties": {
  "id": 216,
-"name": "Kitchen Sink",
+"name": "Old 3.9",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Kitchen Sink",
+"trail1": "Old 3.9",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7133,15 +7133,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.018212, 61.1599958 ] 
+"coordinates": [ -150.023933, 61.1467536 ] 
 },
 "properties": {
  "id": 217,
-"name": "Lake Loop",
+"name": "Old 6.9 Loop (icebox/mizes Folly)",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Lake Loop",
+"trail1": "Old 6.9 Loop (icebox/mizes Folly)",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7166,15 +7166,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.935234, 61.1681641 ] 
+"coordinates": [ -149.797327, 61.0545759 ] 
 },
 "properties": {
  "id": 218,
-"name": "Lakeside Loop",
+"name": "Old Hwy Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Lakeside Loop",
+"trail1": "Old Hwy Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7199,15 +7199,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.029763, 61.1460598 ] 
+"coordinates": [ -149.729982, 61.0185138 ] 
 },
 "properties": {
  "id": 219,
-"name": "Lee's Train",
+"name": "Old Mchugh Creek Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Lee's Train",
+"trail1": "Old Mchugh Creek Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7232,15 +7232,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.048178,  61.153495 ] 
+"coordinates": [ -149.784491, 61.1682872 ] 
 },
 "properties": {
  "id": 220,
-"name": "Lekisch Dark Alley",
+"name": "Old Rondy Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Lekisch Dark Alley",
+"trail1": "Old Rondy Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7265,15 +7265,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.050488, 61.1530223 ] 
+"coordinates": [ -150.043653, 61.1518215 ] 
 },
 "properties": {
  "id": 221,
-"name": "Lekisch Loop",
+"name": "Old Six",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Lekisch Loop",
+"trail1": "Old Six",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7298,15 +7298,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.812535, 61.0770269 ] 
+"coordinates": [ -149.412912, 61.4324845 ] 
 },
 "properties": {
  "id": 222,
-"name": "Little Rabbit Creek",
+"name": "Out Cut To Far H",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Little Rabbit Creek",
+"trail1": "Out Cut To Far H",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7331,15 +7331,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.70378, 61.0580087 ] 
+"coordinates": [ -149.418477, 61.4320406 ] 
 },
 "properties": {
  "id": 223,
-"name": "Little Rc Gully Route",
+"name": "Out H To Cutoff",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Little Rc Gully Route",
+"trail1": "Out H To Cutoff",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7364,15 +7364,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.42413, 61.4292779 ] 
+"coordinates": [ -149.41847, 61.4318228 ] 
 },
 "properties": {
  "id": 224,
-"name": "Logjam Trail",
+"name": "Outbound",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Logjam Trail",
+"trail1": "Outbound",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7397,15 +7397,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.931184,  61.168723 ] 
+"coordinates": [ -149.720489,  61.179799 ] 
 },
 "properties": {
  "id": 225,
-"name": "Loop",
+"name": "Outgoing Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Loop",
+"trail1": "Outgoing Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7430,15 +7430,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.796438,  61.052384 ] 
+"coordinates": [ -149.699438,  61.134184 ] 
 },
 "properties": {
  "id": 226,
-"name": "Lower Moen Hmstd",
+"name": "Panorama View",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Lower Moen Hmstd",
+"trail1": "Panorama View",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7463,15 +7463,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.801945, 61.1874279 ] 
+"coordinates": [ -149.72741, 61.0606028 ] 
 },
 "properties": {
  "id": 227,
-"name": "Mahaffey/APU",
+"name": "Payne Path",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Mahaffey/APU",
+"trail1": "Payne Path",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7496,15 +7496,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.939129, 61.1712744 ] 
+"coordinates": [ -149.433487,  60.974056 ] 
 },
 "properties": {
  "id": 228,
-"name": "Main",
+"name": "Penguin Creek",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Main",
+"trail1": "Penguin Creek",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7529,15 +7529,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.547396, 61.3738056 ] 
+"coordinates": [ -149.423939,  60.979886 ] 
 },
 "properties": {
  "id": 229,
-"name": "Mama's Loop",
+"name": "Penguin Peak",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Mama's Loop",
+"trail1": "Penguin Peak",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7562,15 +7562,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.035574, 61.1535999 ] 
+"coordinates": [ -149.412564,  61.397395 ] 
 },
 "properties": {
  "id": 230,
-"name": "Margauxs Loop",
+"name": "Peters Valley",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Margauxs Loop",
+"trail1": "Peters Valley",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7595,15 +7595,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.737649, 61.0616346 ] 
+"coordinates": [ -149.710329,  61.112389 ] 
 },
 "properties": {
  "id": 231,
-"name": "Margeurite Hills",
+"name": "Picnic Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Margeurite Hills",
+"trail1": "Picnic Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7628,15 +7628,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.699638, 61.1660605 ] 
+"coordinates": [ -149.025722, 61.4686751 ] 
 },
 "properties": {
  "id": 232,
-"name": "Maximilian",
+"name": "Pioneer Ridge/Austin Helmer",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Maximilian",
+"trail1": "Pioneer Ridge/Austin Helmer",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7661,15 +7661,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.73774,  61.021924 ] 
+"coordinates": [ -148.996655, 61.5418305 ] 
 },
 "properties": {
  "id": 233,
-"name": "Mchugh",
+"name": "Plumley-Maud",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Mchugh",
+"trail1": "Plumley-Maud",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7694,15 +7694,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [  -149.5782, 61.2962722 ] 
+"coordinates": [ -149.791025, 61.0479439 ] 
 },
 "properties": {
  "id": 234,
-"name": "Mental Health Trust Loop Trail",
+"name": "Potter Interp. Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Mental Health Trust Loop Trail",
+"trail1": "Potter Interp. Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7727,15 +7727,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.66362, 61.1183668 ] 
+"coordinates": [ -149.756815, 61.0403152 ] 
 },
 "properties": {
  "id": 235,
-"name": "Middle Fork",
+"name": "Potter Mchugh Ridge",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Middle Fork",
+"trail1": "Potter Mchugh Ridge",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7760,15 +7760,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.041998, 61.1526398 ] 
+"coordinates": [ -149.728699, 61.0567415 ] 
 },
 "properties": {
  "id": 236,
-"name": "Mighty Bike",
+"name": "Potter McHugh Ridge",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Mighty Bike",
+"trail1": "Potter McHugh Ridge",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7793,15 +7793,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.919467, 61.1659336 ] 
+"coordinates": [ -149.775756,  61.044883 ] 
 },
 "properties": {
  "id": 237,
-"name": "Minnesota Moose Loop",
+"name": "POtter McHugh Ridge",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Minnesota Moose Loop",
+"trail1": "POtter McHugh Ridge",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7826,15 +7826,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.412317, 61.4291583 ] 
+"coordinates": [ -149.49978,  60.999838 ] 
 },
 "properties": {
  "id": 238,
-"name": "Mirror Lake Park",
+"name": "Powerline",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Mirror Lake Park",
+"trail1": "Powerline",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7859,15 +7859,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.052766, 61.1578338 ] 
+"coordinates": [ -149.683117,  61.103058 ] 
 },
 "properties": {
  "id": 239,
-"name": "Mize Loop",
+"name": "Powerline Access",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Mize Loop",
+"trail1": "Powerline Access",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7892,15 +7892,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.043106, 61.1518251 ] 
+"coordinates": [ -149.70761, 61.1402275 ] 
 },
 "properties": {
  "id": 240,
-"name": "Mizes Folly",
+"name": "Powerline/near Point",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Mizes Folly",
+"trail1": "Powerline/near Point",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7925,15 +7925,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.015818, 61.1492622 ] 
+"coordinates": [ -149.132165, 60.9617851 ] 
 },
 "properties": {
  "id": 241,
-"name": "Moose Hill",
+"name": "Preliminary Iditarod Realignment (2002)",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Moose Hill",
+"trail1": "Preliminary Iditarod Realignment (2002)",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7958,15 +7958,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.100467, 60.9693134 ] 
+"coordinates": [ -149.041422, 61.7072151 ] 
 },
 "properties": {
  "id": 242,
-"name": "Moose Meadow Trail",
+"name": "Premier Mine",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Moose Meadow Trail",
+"trail1": "Premier Mine",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -7991,15 +7991,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.73954, 61.1585863 ] 
+"coordinates": [ -149.694079, 61.1430838 ] 
 },
 "properties": {
  "id": 243,
-"name": "Moose Ridge Loop",
+"name": "Prospect/middle Fork",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Moose Ridge Loop",
+"trail1": "Prospect/middle Fork",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8024,15 +8024,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.726174, 61.1632138 ] 
+"coordinates": [ -149.608153,   61.07138 ] 
 },
 "properties": {
  "id": 244,
-"name": "Moose Ridge Trail",
+"name": "Ptarmigan Pass",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Moose Ridge Trail",
+"trail1": "Ptarmigan Pass",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8057,15 +8057,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.779341, 61.1648068 ] 
+"coordinates": [ -149.467867,  61.389369 ] 
 },
 "properties": {
  "id": 245,
-"name": "Moose Track Trail",
+"name": "Ptarmigan Valley",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Moose Track Trail",
+"trail1": "Ptarmigan Valley",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8090,15 +8090,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.764381, 61.0897126 ] 
+"coordinates": [ -150.037065, 61.1477044 ] 
 },
 "properties": {
  "id": 246,
-"name": "Mud Bog Trail",
+"name": "QFB",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Mud Bog Trail",
+"trail1": "QFB",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8123,15 +8123,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.737228, 61.1785966 ] 
+"coordinates": [ -149.728165, 61.1387453 ] 
 },
 "properties": {
  "id": 247,
-"name": "Muldoon Swamp",
+"name": "Queen Bee Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Muldoon Swamp",
+"trail1": "Queen Bee Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8156,15 +8156,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.742948, 61.1439345 ] 
+"coordinates": [ -149.761736,  61.096787 ] 
 },
 "properties": {
  "id": 248,
-"name": "Multi-use To Bivouc",
+"name": "Rabbit Creek Greenbelt",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Multi-use To Bivouc",
+"trail1": "Rabbit Creek Greenbelt",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8189,15 +8189,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.42327, 61.4293274 ] 
+"coordinates": [ -149.764981, 61.0899275 ] 
 },
 "properties": {
  "id": 249,
-"name": "N Connect",
+"name": "Rabbit Creek Meadow",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "N Connect",
+"trail1": "Rabbit Creek Meadow",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8222,15 +8222,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.76225, 61.0939948 ] 
+"coordinates": [  -149.6776,   61.07935 ] 
 },
 "properties": {
  "id": 250,
-"name": "N. Picket Trail",
+"name": "Rabbit Lake",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "N. Picket Trail",
+"trail1": "Rabbit Lake",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8255,15 +8255,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.094315, 60.9750845 ] 
+"coordinates": [ -149.776649, 61.1408111 ] 
 },
 "properties": {
  "id": 251,
-"name": "Nordic Trail",
+"name": "Randys Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Nordic Trail",
+"trail1": "Randys Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8288,15 +8288,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.906328, 61.2185012 ] 
+"coordinates": [ -149.265976,  61.209882 ] 
 },
 "properties": {
  "id": 252,
-"name": "North Coastal Trail",
+"name": "Rapids Camp Yurt",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "North Coastal Trail",
+"trail1": "Rapids Camp Yurt",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8321,15 +8321,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.732911, 61.1540025 ] 
+"coordinates": [ -150.018675, 61.1551576 ] 
 },
 "properties": {
  "id": 253,
-"name": "North Gasline Trail",
+"name": "Raspberry Parking Lot Connector",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "North Gasline Trail",
+"trail1": "Raspberry Parking Lot Connector",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8354,15 +8354,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.718543, 61.1660244 ] 
+"coordinates": [ -149.776511, 61.0959143 ] 
 },
 "properties": {
  "id": 254,
-"name": "North Gasline/powerline Trail",
+"name": "RC Spur",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "North Gasline/powerline Trail",
+"trail1": "RC Spur",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8387,15 +8387,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.542054, 61.3769536 ] 
+"coordinates": [ -149.202734, 61.8042005 ] 
 },
 "properties": {
  "id": 255,
-"name": "North Pasture",
+"name": "Reed Lakes",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "North Pasture",
+"trail1": "Reed Lakes",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8420,15 +8420,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.733872, 61.1544177 ] 
+"coordinates": [ -149.74971, 61.1437525 ] 
 },
 "properties": {
  "id": 256,
-"name": "Off Leash Trail",
+"name": "Richter Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Off Leash Trail",
+"trail1": "Richter Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8453,15 +8453,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.035011, 61.1519661 ] 
+"coordinates": [ -149.759424, 61.0914928 ] 
 },
 "properties": {
  "id": 257,
-"name": "Old 3.9",
+"name": "Ridge Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Old 3.9",
+"trail1": "Ridge Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8486,15 +8486,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.023933, 61.1467536 ] 
+"coordinates": [ -149.270553,  61.233007 ] 
 },
 "properties": {
  "id": 258,
-"name": "Old 6.9 Loop (icebox/mizes Folly)",
+"name": "Rodak Nature Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Old 6.9 Loop (icebox/mizes Folly)",
+"trail1": "Rodak Nature Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8519,15 +8519,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.797327, 61.0545759 ] 
+"coordinates": [ -150.035398, 61.1568182 ] 
 },
 "properties": {
  "id": 259,
-"name": "Old Hwy Trail",
+"name": "Roller Coaster",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Old Hwy Trail",
+"trail1": "Roller Coaster",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8552,15 +8552,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.729982, 61.0185138 ] 
+"coordinates": [ -150.165336, 61.7152838 ] 
 },
 "properties": {
  "id": 260,
-"name": "Old Mchugh Creek Trail",
+"name": "Rolly Creek",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Old Mchugh Creek Trail",
+"trail1": "Rolly Creek",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8585,15 +8585,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.784491, 61.1682872 ] 
+"coordinates": [ -150.25064, 61.6768734 ] 
 },
 "properties": {
  "id": 261,
-"name": "Old Rondy Trail",
+"name": "Rolly Creek Link",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Old Rondy Trail",
+"trail1": "Rolly Creek Link",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8618,15 +8618,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.043653, 61.1518215 ] 
+"coordinates": [ -149.532959,  61.246937 ] 
 },
 "properties": {
  "id": 262,
-"name": "Old Six",
+"name": "Rondevous Peak",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Old Six",
+"trail1": "Rondevous Peak",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8651,15 +8651,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.798725,  61.176374 ] 
+"coordinates": [ -149.540182,  61.242926 ] 
 },
 "properties": {
  "id": 263,
-"name": "Old Three Mile Trail",
+"name": "Rondevous Ridge",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Old Three Mile Trail",
+"trail1": "Rondevous Ridge",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8684,15 +8684,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.764769, 61.0920822 ] 
+"coordinates": [ -149.803137, 61.1663815 ] 
 },
 "properties": {
  "id": 264,
-"name": "Open Bog Trail",
+"name": "Rondy Cut Off Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Open Bog Trail",
+"trail1": "Rondy Cut Off Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8717,15 +8717,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.412912, 61.4324845 ] 
+"coordinates": [ -149.735871,  61.149814 ] 
 },
 "properties": {
  "id": 265,
-"name": "Out Cut To Far H",
+"name": "Rover's Run Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Out Cut To Far H",
+"trail1": "Rover's Run Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8750,15 +8750,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.418477, 61.4320406 ] 
+"coordinates": [ -149.749064, 61.1540208 ] 
 },
 "properties": {
  "id": 266,
-"name": "Out H To Cutoff",
+"name": "Run Rover Run",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Out H To Cutoff",
+"trail1": "Run Rover Run",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8783,15 +8783,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.41847, 61.4318228 ] 
+"coordinates": [ -149.798906, 61.1986709 ] 
 },
 "properties": {
  "id": 267,
-"name": "Outbound",
+"name": "Russian Jack Spur",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Outbound",
+"trail1": "Russian Jack Spur",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8816,15 +8816,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.720489,  61.179799 ] 
+"coordinates": [ -149.420813, 61.4281537 ] 
 },
 "properties": {
  "id": 268,
-"name": "Outgoing Trail",
+"name": "S Connect",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Outgoing Trail",
+"trail1": "S Connect",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8849,15 +8849,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.72741, 61.0606028 ] 
+"coordinates": [ -150.028514, 61.1536778 ] 
 },
 "properties": {
  "id": 269,
-"name": "Payne Path",
+"name": "S Turns",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Payne Path",
+"trail1": "S Turns",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8882,15 +8882,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.86604, 61.1725017 ] 
+"coordinates": [ -150.015203, 61.1459991 ] 
 },
 "properties": {
  "id": 270,
-"name": "Peanut Farm",
+"name": "Sand Box",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Peanut Farm",
+"trail1": "Sand Box",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8915,15 +8915,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.764981, 61.0899275 ] 
+"coordinates": [ -149.750923, 61.0842695 ] 
 },
 "properties": {
  "id": 271,
-"name": "Picket Spur Trail",
+"name": "School",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Picket Spur Trail",
+"trail1": "School",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8948,15 +8948,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.791025, 61.0479439 ] 
+"coordinates": [ -149.420813, 61.4281537 ] 
 },
 "properties": {
  "id": 272,
-"name": "Potter Interp. Trail",
+"name": "School Track",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Potter Interp. Trail",
+"trail1": "School Track",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -8981,15 +8981,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.756815, 61.0403152 ] 
+"coordinates": [ -149.724593, 61.0865928 ] 
 },
 "properties": {
  "id": 273,
-"name": "Potter Mchugh Ridge",
+"name": "Sec 36 Hmstd Rd",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Potter Mchugh Ridge",
+"trail1": "Sec 36 Hmstd Rd",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9014,15 +9014,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.695298,  61.112127 ] 
+"coordinates": [ -149.041422, 61.7072151 ] 
 },
 "properties": {
  "id": 274,
-"name": "Powerline/gasline",
+"name": "Seventeen Mile Lake",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Powerline/gasline",
+"trail1": "Seventeen Mile Lake",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9047,15 +9047,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.70761, 61.1402275 ] 
+"coordinates": [ -148.982944, 61.5174028 ] 
 },
 "properties": {
  "id": 275,
-"name": "Powerline/near Point",
+"name": "Sexton",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Powerline/near Point",
+"trail1": "Sexton",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9080,15 +9080,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.75515, 61.0948657 ] 
+"coordinates": [ -149.766103, 61.1696505 ] 
 },
 "properties": {
  "id": 276,
-"name": "Prator Spur",
+"name": "Shield's Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Prator Spur",
+"trail1": "Shield's Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9113,15 +9113,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.132165, 60.9617851 ] 
+"coordinates": [ -149.886294, 61.2234091 ] 
 },
 "properties": {
  "id": 277,
-"name": "Preliminary Iditarod Realignment (2002)",
+"name": "Ship Creek",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Preliminary Iditarod Realignment (2002)",
+"trail1": "Ship Creek",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9146,15 +9146,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.694079, 61.1430838 ] 
+"coordinates": [ -149.610975,  61.087588 ] 
 },
 "properties": {
  "id": 278,
-"name": "Prospect/middle Fork",
+"name": "Ship Lake Pass",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Prospect/middle Fork",
+"trail1": "Ship Lake Pass",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9179,15 +9179,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.037065, 61.1477044 ] 
+"coordinates": [ -149.753831, 61.1406988 ] 
 },
 "properties": {
  "id": 279,
-"name": "QFB",
+"name": "Short Cut",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "QFB",
+"trail1": "Short Cut",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9212,15 +9212,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.728165, 61.1387453 ] 
+"coordinates": [ -149.705728,  61.116244 ] 
 },
 "properties": {
  "id": 280,
-"name": "Queen Bee Loop",
+"name": "Silver Fern",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Queen Bee Loop",
+"trail1": "Silver Fern",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9245,15 +9245,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.761736,  61.096787 ] 
+"coordinates": [ -150.05499, 61.1649616 ] 
 },
 "properties": {
  "id": 281,
-"name": "Rabbit Creek Greenbelt",
+"name": "Sisson Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Rabbit Creek Greenbelt",
+"trail1": "Sisson Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9278,15 +9278,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.776649, 61.1408111 ] 
+"coordinates": [ -149.772966,  61.163003 ] 
 },
 "properties": {
  "id": 282,
-"name": "Randys Loop",
+"name": "Six Mile Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Randys Loop",
+"trail1": "Six Mile Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9311,15 +9311,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.018675, 61.1551576 ] 
+"coordinates": [ -149.696068, 61.1491206 ] 
 },
 "properties": {
  "id": 283,
-"name": "Raspberry Parking Lot Connector",
+"name": "Ski Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Raspberry Parking Lot Connector",
+"trail1": "Ski Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9344,15 +9344,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.76225, 61.0939948 ] 
+"coordinates": [ -149.937208, 61.1705786 ] 
 },
 "properties": {
  "id": 284,
-"name": "RC Meadow 1",
+"name": "SLEDING HILL",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "RC Meadow 1",
+"trail1": "SLEDING HILL",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9377,15 +9377,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.762745, 61.0945804 ] 
+"coordinates": [ -149.687511, 61.0651775 ] 
 },
 "properties": {
  "id": 285,
-"name": "RC Meadow 2",
+"name": "Snow Bear Path",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "RC Meadow 2",
+"trail1": "Snow Bear Path",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9410,15 +9410,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.764465, 61.0943571 ] 
+"coordinates": [ -149.740378, 61.0546565 ] 
 },
 "properties": {
  "id": 286,
-"name": "RC Meadow 3",
+"name": "So Baldy Traverse",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "RC Meadow 3",
+"trail1": "So Baldy Traverse",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9443,15 +9443,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.764471, 61.0943564 ] 
+"coordinates": [ -149.424056, 61.4277698 ] 
 },
 "properties": {
  "id": 287,
-"name": "RC Meadow 4",
+"name": "Soccer Field",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "RC Meadow 4",
+"trail1": "Soccer Field",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9476,15 +9476,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.761509, 61.0944831 ] 
+"coordinates": [ -149.712937,  61.137648 ] 
 },
 "properties": {
  "id": 288,
-"name": "RC Meadow 5",
+"name": "South Fork Rim",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "RC Meadow 5",
+"trail1": "South Fork Rim",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9509,15 +9509,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.776511, 61.0959143 ] 
+"coordinates": [ -149.803194, 61.0791494 ] 
 },
 "properties": {
  "id": 289,
-"name": "RC Spur",
+"name": "Southpark Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "RC Spur",
+"trail1": "Southpark Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9542,15 +9542,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.764769, 61.0920822 ] 
+"coordinates": [ -149.74433, 61.0576908 ] 
 },
 "properties": {
  "id": 290,
-"name": "Real Ridge",
+"name": "Southside Switchback",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Real Ridge",
+"trail1": "Southside Switchback",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9575,15 +9575,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.74971, 61.1437525 ] 
+"coordinates": [ -149.925607, 61.1640828 ] 
 },
 "properties": {
  "id": 291,
-"name": "Richter Loop",
+"name": "Southwest",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Richter Loop",
+"trail1": "Southwest",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9608,15 +9608,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.759424, 61.0914928 ] 
+"coordinates": [ -149.708546,  61.140959 ] 
 },
 "properties": {
  "id": 292,
-"name": "Ridge Loop",
+"name": "Spencer",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Ridge Loop",
+"trail1": "Spencer",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9641,15 +9641,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.035398, 61.1568182 ] 
+"coordinates": [ -149.73405, 61.1468817 ] 
 },
 "properties": {
  "id": 293,
-"name": "Roller Coaster",
+"name": "Spencer's Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Roller Coaster",
+"trail1": "Spencer's Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9674,15 +9674,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.803137, 61.1663815 ] 
+"coordinates": [ -149.699447,  61.143967 ] 
 },
 "properties": {
  "id": 294,
-"name": "Rondy Cut Off Trail",
+"name": "Spencer Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Rondy Cut Off Trail",
+"trail1": "Spencer Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9707,15 +9707,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.735871,  61.149814 ] 
+"coordinates": [ -149.934839, 61.1706318 ] 
 },
 "properties": {
  "id": 295,
-"name": "Rover's Run Trail",
+"name": "Spruce Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Rover's Run Trail",
+"trail1": "Spruce Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9740,15 +9740,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.749064, 61.1540208 ] 
+"coordinates": [ -149.900617,  61.204464 ] 
 },
 "properties": {
  "id": 296,
-"name": "Run Rover Run",
+"name": "Sullivan Nature Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Run Rover Run",
+"trail1": "Sullivan Nature Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9773,15 +9773,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.798906, 61.1986709 ] 
+"coordinates": [ -148.946972, 61.5650128 ] 
 },
 "properties": {
  "id": 297,
-"name": "Russian Jack Spur",
+"name": "Swan Lake Canoe Route",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Russian Jack Spur",
+"trail1": "Swan Lake Canoe Route",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9806,15 +9806,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.420813, 61.4281537 ] 
+"coordinates": [ -150.061259, 62.2859527 ] 
 },
 "properties": {
  "id": 298,
-"name": "S Connect",
+"name": "Talkeetna Lakes Park",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "S Connect",
+"trail1": "Talkeetna Lakes Park",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9839,15 +9839,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.028514, 61.1536778 ] 
+"coordinates": [ -149.901212, 61.7792243 ] 
 },
 "properties": {
  "id": 299,
-"name": "S Turns",
+"name": "Talkeetna Mail (Herning)",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "S Turns",
+"trail1": "Talkeetna Mail (Herning)",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9872,15 +9872,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.015203, 61.1459991 ] 
+"coordinates": [ -149.736577, 61.1548349 ] 
 },
 "properties": {
  "id": 300,
-"name": "Sand Box",
+"name": "Tank Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Sand Box",
+"trail1": "Tank Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9905,15 +9905,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.750923, 61.0842695 ] 
+"coordinates": [ -150.049542, 61.1571589 ] 
 },
 "properties": {
  "id": 301,
-"name": "School",
+"name": "Tashas Turn (connector)",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "School",
+"trail1": "Tashas Turn (connector)",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9938,15 +9938,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.420813, 61.4281537 ] 
+"coordinates": [ -149.751575, 61.1388987 ] 
 },
 "properties": {
  "id": 302,
-"name": "School Track",
+"name": "The Burn Lighted Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "School Track",
+"trail1": "The Burn Lighted Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -9971,15 +9971,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.724593, 61.0865928 ] 
+"coordinates": [ -150.033975, 61.1547997 ] 
 },
 "properties": {
  "id": 303,
-"name": "Sec 36 Hmstd Rd",
+"name": "The Football",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Sec 36 Hmstd Rd",
+"trail1": "The Football",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10004,15 +10004,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.766103, 61.1696505 ] 
+"coordinates": [ -149.715043, 61.1423053 ] 
 },
 "properties": {
  "id": 304,
-"name": "Shield's Trail",
+"name": "The Hive",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Shield's Trail",
+"trail1": "The Hive",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10037,15 +10037,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.886294, 61.2234091 ] 
+"coordinates": [ -150.023947, 61.1467541 ] 
 },
 "properties": {
  "id": 305,
-"name": "Ship Creek",
+"name": "The Wall",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Ship Creek",
+"trail1": "The Wall",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10070,15 +10070,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.831136,  61.227374 ] 
+"coordinates": [ -149.37045,  61.449082 ] 
 },
 "properties": {
  "id": 306,
-"name": "Ship Creek Trail",
+"name": "Thunderbird Falls",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Ship Creek Trail",
+"trail1": "Thunderbird Falls",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10103,15 +10103,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.753831, 61.1406988 ] 
+"coordinates": [ -149.133939, 60.9619624 ] 
 },
 "properties": {
  "id": 307,
-"name": "Short Cut",
+"name": "Tiny Creek Trails",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Short Cut",
+"trail1": "Tiny Creek Trails",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10136,15 +10136,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.05499, 61.1649616 ] 
+"coordinates": [ -150.03837,  61.152877 ] 
 },
 "properties": {
  "id": 308,
-"name": "Sisson Loop",
+"name": "Toilet Bowl",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Sisson Loop",
+"trail1": "Toilet Bowl",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10169,15 +10169,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.772966,  61.163003 ] 
+"coordinates": [ -150.011742, 61.1589953 ] 
 },
 "properties": {
  "id": 309,
-"name": "Six Mile Trail",
+"name": "Tower Power",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Six Mile Trail",
+"trail1": "Tower Power",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10202,15 +10202,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.696068, 61.1491206 ] 
+"coordinates": [ -149.731018,  61.018792 ] 
 },
 "properties": {
  "id": 310,
-"name": "Ski Trail",
+"name": "Track 3",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Ski Trail",
+"trail1": "Track 3",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10235,15 +10235,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.937208, 61.1705786 ] 
+"coordinates": [ -149.733184,  61.018255 ] 
 },
 "properties": {
  "id": 311,
-"name": "SLEDING HILL",
+"name": "Track 7",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "SLEDING HILL",
+"trail1": "Track 7",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10268,15 +10268,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.687511, 61.0651775 ] 
+"coordinates": [ -149.604403,  60.984871 ] 
 },
 "properties": {
  "id": 312,
-"name": "Snow Bear Path",
+"name": "Turnagain Arm",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Snow Bear Path",
+"trail1": "Turnagain Arm",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10301,15 +10301,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.740378, 61.0546565 ] 
+"coordinates": [ -149.784675,  61.044991 ] 
 },
 "properties": {
  "id": 313,
-"name": "So Baldy Traverse",
+"name": "Turnagain Arm Interpretive",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "So Baldy Traverse",
+"trail1": "Turnagain Arm Interpretive",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10334,15 +10334,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.775756,  61.044883 ] 
+"coordinates": [ -149.135165,  61.410408 ] 
 },
 "properties": {
  "id": 314,
-"name": "So Potter Ridge",
+"name": "Twin Peaks",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "So Potter Ridge",
+"trail1": "Twin Peaks",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10367,15 +10367,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.424056, 61.4277698 ] 
+"coordinates": [ -149.418763, 61.4301728 ] 
 },
 "properties": {
  "id": 315,
-"name": "Soccer Field",
+"name": "U-turn Cut Thru",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Soccer Field",
+"trail1": "U-turn Cut Thru",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10400,15 +10400,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.80281, 61.0785429 ] 
+"coordinates": [ -149.814548,  61.195256 ] 
 },
 "properties": {
  "id": 316,
-"name": "Southpark Lp",
+"name": "UAA Ski",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Southpark Lp",
+"trail1": "UAA Ski",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10433,15 +10433,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.74433, 61.0576908 ] 
+"coordinates": [ -149.75875, 61.1432829 ] 
 },
 "properties": {
  "id": 317,
-"name": "Southside Switchback",
+"name": "Unnnamed",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Southside Switchback",
+"trail1": "Unnnamed",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10466,15 +10466,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.925607, 61.1640828 ] 
+"coordinates": [ -149.710168, 61.1122058 ] 
 },
 "properties": {
  "id": 318,
-"name": "Southwest",
+"name": "Upper Huffman Access",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Southwest",
+"trail1": "Upper Huffman Access",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10499,15 +10499,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.73405, 61.1468817 ] 
+"coordinates": [ -149.710628,  61.112117 ] 
 },
 "properties": {
  "id": 319,
-"name": "Spencer Short Cut",
+"name": "Upper Huffman Entrance",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Spencer Short Cut",
+"trail1": "Upper Huffman Entrance",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10532,15 +10532,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.934839, 61.1706318 ] 
+"coordinates": [ -149.774334, 61.0615863 ] 
 },
 "properties": {
  "id": 320,
-"name": "Spruce Loop",
+"name": "Upper Moen",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Spruce Loop",
+"trail1": "Upper Moen",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10565,15 +10565,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.906328, 61.2185012 ] 
+"coordinates": [ -149.328957, 61.7728753 ] 
 },
 "properties": {
  "id": 321,
-"name": "Spur Oscar Anderson",
+"name": "Upper Willow Creek",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Spur Oscar Anderson",
+"trail1": "Upper Willow Creek",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10598,15 +10598,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.900617,  61.204464 ] 
+"coordinates": [ -149.699918, 61.0705561 ] 
 },
 "properties": {
  "id": 322,
-"name": "Sullivan Nature Trail",
+"name": "View Rock Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Sullivan Nature Trail",
+"trail1": "View Rock Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10631,15 +10631,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.736577, 61.1548349 ] 
+"coordinates": [ -149.767742, 61.1596271 ] 
 },
 "properties": {
  "id": 323,
-"name": "Tank Trail",
+"name": "Viewpoint Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Tank Trail",
+"trail1": "Viewpoint Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10664,15 +10664,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.049542, 61.1571589 ] 
+"coordinates": [ -149.130721, 60.9488089 ] 
 },
 "properties": {
  "id": 324,
-"name": "Tashas Turn (connector)",
+"name": "Virgin Creek Trail System",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Tashas Turn (connector)",
+"trail1": "Virgin Creek Trail System",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10697,15 +10697,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.804202, 61.0783507 ] 
+"coordinates": [ -149.130721, 60.9488089 ] 
 },
 "properties": {
  "id": 325,
-"name": "Terrace Wood Connection",
+"name": "Wagon Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Terrace Wood Connection",
+"trail1": "Wagon Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10730,15 +10730,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.751575, 61.1388987 ] 
+"coordinates": [ -150.150196,  61.713678 ] 
 },
 "properties": {
  "id": 326,
-"name": "The Burn Lighted Loop",
+"name": "West Gateway",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "The Burn Lighted Loop",
+"trail1": "West Gateway",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10763,15 +10763,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.033975, 61.1547997 ] 
+"coordinates": [ -149.823278, 61.2007935 ] 
 },
 "properties": {
  "id": 327,
-"name": "The Football",
+"name": "Whaley Sch. Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "The Football",
+"trail1": "Whaley Sch. Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10796,15 +10796,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.715043, 61.1423053 ] 
+"coordinates": [ -149.714476,  61.122064 ] 
 },
 "properties": {
  "id": 328,
-"name": "The Hive",
+"name": "White Spruce",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "The Hive",
+"trail1": "White Spruce",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10829,15 +10829,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.023947, 61.1467541 ] 
+"coordinates": [ -149.663447,  61.117455 ] 
 },
 "properties": {
  "id": 329,
-"name": "The Wall",
+"name": "Williwaw Lakes",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "The Wall",
+"trail1": "Williwaw Lakes",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10862,15 +10862,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.824536,  61.204101 ] 
+"coordinates": [ -149.093449, 60.9709205 ] 
 },
 "properties": {
  "id": 330,
-"name": "Tikishla Park Trail",
+"name": "Winner Creek Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Tikishla Park Trail",
+"trail1": "Winner Creek Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10895,15 +10895,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.133939, 60.9619624 ] 
+"coordinates": [ -149.042237, 61.7161485 ] 
 },
 "properties": {
  "id": 331,
-"name": "Tiny Creek Trails",
+"name": "Wishbone Lake",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Tiny Creek Trails",
+"trail1": "Wishbone Lake",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10928,15 +10928,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.928755, 61.1664123 ] 
+"coordinates": [ -149.710569,  61.139035 ] 
 },
 "properties": {
  "id": 332,
-"name": "To Lake",
+"name": "Wolverine Bowl",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "To Lake",
+"trail1": "Wolverine Bowl",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10961,15 +10961,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.935051, 61.1706556 ] 
+"coordinates": [ -149.698381,  61.142875 ] 
 },
 "properties": {
  "id": 333,
-"name": "to main",
+"name": "Wolverine Bowl Loop",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "to main",
+"trail1": "Wolverine Bowl Loop",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -10994,15 +10994,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.03837,  61.152877 ] 
+"coordinates": [ -149.680206,  61.146846 ] 
 },
 "properties": {
  "id": 334,
-"name": "Toilet Bowl",
+"name": "Wolverine Peak",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Toilet Bowl",
+"trail1": "Wolverine Peak",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -11027,15 +11027,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.79578, 61.1865806 ] 
+"coordinates": [ -149.785925, 61.2169686 ] 
 },
 "properties": {
  "id": 335,
-"name": "Tour Of Anchorage",
+"name": "Wonder Park Sch. Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Tour Of Anchorage",
+"trail1": "Wonder Park Sch. Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -11060,15 +11060,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -150.011742, 61.1589953 ] 
+"coordinates": [ -150.296888, 61.6948043 ] 
 },
 "properties": {
  "id": 336,
-"name": "Tower Power",
+"name": "Woodcutter",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "Tower Power",
+"trail1": "Woodcutter",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -11093,15 +11093,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.418763, 61.4301728 ] 
+"coordinates": [ -149.793555, 61.1603418 ] 
 },
 "properties": {
  "id": 337,
-"name": "U-turn Cut Thru",
+"name": "Woodway Loop Trail",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "U-turn Cut Thru",
+"trail1": "Woodway Loop Trail",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -11126,15 +11126,15 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.814548,  61.195256 ] 
+"coordinates": [ -149.737649, 61.0616346 ] 
 },
 "properties": {
  "id": 338,
-"name": "UAA Ski",
+"name": "X Hmstd Rd",
 "source_id":          3,
 "steward_id":          3,
 "length":        1.4,
-"trail1": "UAA Ski",
+"trail1": "X Hmstd Rd",
 "accessible": null,
 "roadbike": null,
 "hike": "y",
@@ -11159,505 +11159,10 @@
  "type": "Feature",
 "geometry": {
  "type": "Point",
-"coordinates": [ -149.75875, 61.1432829 ] 
-},
-"properties": {
- "id": 339,
-"name": "Unnnamed",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Unnnamed",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA STREET_MAINTENANCE",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 339 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.728972, 61.1416242 ] 
-},
-"properties": {
- "id": 340,
-"name": "Upper Gasline Trail",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Upper Gasline Trail",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 340 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.710168, 61.1122058 ] 
-},
-"properties": {
- "id": 341,
-"name": "Upper Huffman Access",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Upper Huffman Access",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 341 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.774334, 61.0615863 ] 
-},
-"properties": {
- "id": 342,
-"name": "Upper Moen",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Upper Moen",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA STREET_MAINTENANCE",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 342 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.699918, 61.0705561 ] 
-},
-"properties": {
- "id": 343,
-"name": "View Rock Trail",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "View Rock Trail",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "US Army",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 343 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.767742, 61.1596271 ] 
-},
-"properties": {
- "id": 344,
-"name": "Viewpoint Trail",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Viewpoint Trail",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "US Army",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 344 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.130721, 60.9488089 ] 
-},
-"properties": {
- "id": 345,
-"name": "Virgin Creek Trail System",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Virgin Creek Trail System",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "US Army",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 345 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.729974, 61.0572116 ] 
-},
-"properties": {
- "id": 346,
-"name": "W Face Baldy",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "W Face Baldy",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 346 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.130721, 60.9488089 ] 
-},
-"properties": {
- "id": 347,
-"name": "Wagon Trail",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Wagon Trail",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 347 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.744213, 61.0577363 ] 
-},
-"properties": {
- "id": 348,
-"name": "West Face",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "West Face",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 348 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.823278, 61.2007935 ] 
-},
-"properties": {
- "id": 349,
-"name": "Whaley Sch. Trail",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Whaley Sch. Trail",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 349 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.093449, 60.9709205 ] 
-},
-"properties": {
- "id": 350,
-"name": "Winner Creek Trail",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Winner Creek Trail",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 350 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.785925, 61.2169686 ] 
-},
-"properties": {
- "id": 351,
-"name": "Wonder Park Sch. Trail",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Wonder Park Sch. Trail",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 351 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.793555, 61.1603418 ] 
-},
-"properties": {
- "id": 352,
-"name": "Woodway Loop Trail",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Woodway Loop Trail",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 352 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.737649, 61.0616346 ] 
-},
-"properties": {
- "id": 353,
-"name": "X Hmstd Rd",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "X Hmstd Rd",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 353 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
 "coordinates": [ -149.715043, 61.1423053 ] 
 },
 "properties": {
- "id": 354,
+ "id": 339,
 "name": "Yellow Jacket",
 "source_id":          3,
 "steward_id":          3,
@@ -11681,1426 +11186,7 @@
 "steward_phone": "999-999-9999",
 "steward_url": "http://www.google.com" 
 },
-"id": 354 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.221977, 61.7741641 ] 
-},
-"properties": {
- "id": 355,
-"name": "Archangel",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Archangel",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 355 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.064389, 61.7134317 ] 
-},
-"properties": {
- "id": 356,
-"name": "Baxter Mine",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Baxter Mine",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 356 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -150.210815, 61.7053334 ] 
-},
-"properties": {
- "id": 357,
-"name": "Big Swamp",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Big Swamp",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 357 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.62758, 61.8578103 ] 
-},
-"properties": {
- "id": 358,
-"name": "Canyon Creek",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Canyon Creek",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 358 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.269283, 61.6960757 ] 
-},
-"properties": {
- "id": 359,
-"name": "Carle Wagon",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Carle Wagon",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 359 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -148.605962, 61.7847362 ] 
-},
-"properties": {
- "id": 360,
-"name": "Chickaloon",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Chickaloon",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 360 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -150.225843, 62.3163146 ] 
-},
-"properties": {
- "id": 361,
-"name": "Chulitna Bluff",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Chulitna Bluff",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 361 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -150.182432, 61.7182783 ] 
-},
-"properties": {
- "id": 362,
-"name": "Corral Hill",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Corral Hill",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 362 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.205105, 61.5866044 ] 
-},
-"properties": {
- "id": 363,
-"name": "Crevasse-Moraine",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Crevasse-Moraine",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 363 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -150.369035, 61.5360159 ] 
-},
-"properties": {
- "id": 364,
-"name": "Crooked Lake",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Crooked Lake",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 364 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -146.450825, 62.3184025 ] 
-},
-"properties": {
- "id": 365,
-"name": "Crosswind lake",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Crosswind lake",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 365 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -147.814716, 61.8011019 ] 
-},
-"properties": {
- "id": 366,
-"name": "Dan Creek",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Dan Creek",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 366 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.001183, 61.5260519 ] 
-},
-"properties": {
- "id": 367,
-"name": "Envy",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Envy",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 367 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -148.909782, 61.7500316 ] 
-},
-"properties": {
- "id": 368,
-"name": "Eska Creek Falls Multi-Use Trail",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Eska Creek Falls Multi-Use Trail",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 368 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.240183, 61.8188606 ] 
-},
-"properties": {
- "id": 369,
-"name": "Fern Mine",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Fern Mine",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 369 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.201765, 61.8439803 ] 
-},
-"properties": {
- "id": 370,
-"name": "Glacier Creek",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Glacier Creek",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 370 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.299796, 61.6987989 ] 
-},
-"properties": {
- "id": 371,
-"name": "Government Peak",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Government Peak",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 371 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.28848, 61.7056509 ] 
-},
-"properties": {
- "id": 372,
-"name": "GPRA",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "GPRA",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 372 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -148.749895, 61.7337785 ] 
-},
-"properties": {
- "id": 373,
-"name": "King River",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "King River",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 373 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -148.902314, 61.7400452 ] 
-},
-"properties": {
- "id": 374,
-"name": "Knob Hill",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Knob Hill",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 374 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -148.966439, 61.6226835 ] 
-},
-"properties": {
- "id": 375,
-"name": "Lazy Mountain",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Lazy Mountain",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 375 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.198358, 61.5661363 ] 
-},
-"properties": {
- "id": 376,
-"name": "Matanuska Greenbelt",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Matanuska Greenbelt",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 376 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -148.955718, 61.6117639 ] 
-},
-"properties": {
- "id": 377,
-"name": "Matanuska Peak",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Matanuska Peak",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "US Army",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 377 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -148.941616, 61.6112927 ] 
-},
-"properties": {
- "id": 378,
-"name": "McRoberts Creek",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "McRoberts Creek",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 378 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.196041, 61.7790213 ] 
-},
-"properties": {
- "id": 379,
-"name": "Mint Glacier",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Mint Glacier",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 379 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.039118, 61.6726957 ] 
-},
-"properties": {
- "id": 380,
-"name": "Moose Creek Branch RR",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Moose Creek Branch RR",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 380 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -148.988036, 61.5849896 ] 
-},
-"properties": {
- "id": 381,
-"name": "Morgan Horse",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Morgan Horse",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 381 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -150.165336, 61.7152838 ] 
-},
-"properties": {
- "id": 382,
-"name": "Mud Lake",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Mud Lake",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 382 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.025722, 61.4686751 ] 
-},
-"properties": {
- "id": 383,
-"name": "Pioneer Ridge/Austin Helmer",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Pioneer Ridge/Austin Helmer",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 383 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -148.996655, 61.5418305 ] 
-},
-"properties": {
- "id": 384,
-"name": "Plumley-Maud",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Plumley-Maud",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 384 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.041422, 61.7072151 ] 
-},
-"properties": {
- "id": 385,
-"name": "Premier Mine",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Premier Mine",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 385 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.202734, 61.8042005 ] 
-},
-"properties": {
- "id": 386,
-"name": "Reed Lakes",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Reed Lakes",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 386 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -150.165336, 61.7152838 ] 
-},
-"properties": {
- "id": 387,
-"name": "Rolly Creek",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Rolly Creek",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 387 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -150.25064, 61.6768734 ] 
-},
-"properties": {
- "id": 388,
-"name": "Rolly Creek Link",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Rolly Creek Link",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 388 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.041422, 61.7072151 ] 
-},
-"properties": {
- "id": 389,
-"name": "Seventeen Mile Lake",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Seventeen Mile Lake",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 389 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -148.982944, 61.5174028 ] 
-},
-"properties": {
- "id": 390,
-"name": "Sexton",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Sexton",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 390 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -148.946972, 61.5650128 ] 
-},
-"properties": {
- "id": 391,
-"name": "Swan Lake Canoe Route",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Swan Lake Canoe Route",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 391 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -150.061259, 62.2859527 ] 
-},
-"properties": {
- "id": 392,
-"name": "Talkeetna Lakes Park",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Talkeetna Lakes Park",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 392 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.901212, 61.7792243 ] 
-},
-"properties": {
- "id": 393,
-"name": "Talkeetna Mail (Herning)",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Talkeetna Mail (Herning)",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "NA",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 393 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.328957, 61.7728753 ] 
-},
-"properties": {
- "id": 394,
-"name": "Upper Willow Creek",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Upper Willow Creek",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "US Army",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 394 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -150.150196,  61.713678 ] 
-},
-"properties": {
- "id": 395,
-"name": "West Gateway",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "West Gateway",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 395 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -149.042237, 61.7161485 ] 
-},
-"properties": {
- "id": 396,
-"name": "Wishbone Lake",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Wishbone Lake",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 396 
-},
-{
- "type": "Feature",
-"geometry": {
- "type": "Point",
-"coordinates": [ -150.296888, 61.6948043 ] 
-},
-"properties": {
- "id": 397,
-"name": "Woodcutter",
-"source_id":          3,
-"steward_id":          3,
-"length":        1.4,
-"trail1": "Woodcutter",
-"accessible": null,
-"roadbike": null,
-"hike": "y",
-"mtnbike": null,
-"equestrian": null,
-"xcntryski": null,
-"conditions": null,
-"trlsurface": null,
-"dogs": null,
-"source": "TestOrganization",
-"steward": "TestOrganization",
-"source_fullname": "Made up for testing",
-"source_phone": "999-999-9999",
-"source_url": "http://www.google.com",
-"steward_fullname": "MOA Parks and Rec.",
-"steward_phone": "999-999-9999",
-"steward_url": "http://www.google.com" 
-},
-"id": 397 
+"id": 339 
 } 
 ] 
 }
