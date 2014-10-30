@@ -34,6 +34,10 @@
     dat <- cbind(dat, new_id = seq(dim(dat)[1]))
     
     lines <- c(chugach_trails@lines, anc_trails@lines, matsu_trails@lines)
+    #########ADD FIELDS################
+    levels(dat$LIGHTING) <- c("n", "y")
+    dat[(is.na(dat$LIGHTING)),]$LIGHTING <- "n"
+    
     
     ##########DATA CLEANING############
     
@@ -84,11 +88,11 @@
                          "14 mile loop", "Raspberry Parking Lot Connector", "New Seward Hwy. Trail", "Shortcut", "Ski Trail", "RABBIT CREEK PARK TRAIL", 
                          "Alder Trail", "Cannonrd", "Middle Fork", "School", "Glenn Alps View Loop", "Glenn Alps Powerline B", "Glenn Alps Powerline A", 
                          "Flattop Peak Alternate", "Flattop Option", "Ballfield", "Margeurite Hills", "Tranagain Arm Interpretive", "Baldy Traverse", "Trail 7", 
-                         "Track 3", "Soccer Field", "N Connect", "Logjam Trail", "S Connect", "School Track", "Go Again")
+                         "Track 3", "Soccer Field", "N Connect", "Logjam Trail", "S Connect", "Gladys Wood Trail", "School Track", "Go Again")
     
     bad_trails <- dat$TRAIL_NAME %in% bad_trails 
-    #dat <- dat[!bad_trails,]
-    #lines <- lines[!bad_trails]
+    dat <- dat[!bad_trails,]
+    lines <- lines[!bad_trails]
     
     #dat <- dat[c(102),]
     #lines <- lines[c(102)]
@@ -105,7 +109,7 @@
     dat[dat$TRAIL_NAME == "Tikishla Park Trail",]$TRAIL_NAME <- "Chester Creek Trail"
     dat[dat$TRAIL_NAME == "Peanut Farm",]$TRAIL_NAME <- "Campbell Creek Trail"
     dat[dat$TRAIL_NAME == "to main",]$TRAIL_NAME <- "Spruce Loop"
-    #dat[dat$TRAIL_NAME == "Main",]$TRAIL_NAME <- "Connors Lake Trail"
+    dat[dat$TRAIL_NAME == "Main",]$TRAIL_NAME <- "Connors Lake Trail"
     dat[dat$TRAIL_NAME == "Along Lake",]$TRAIL_NAME <- "Connors Lake Loop"
     dat[dat$TRAIL_NAME == "Lakeside Loop",]$TRAIL_NAME <- "Connors Lake Loop"
     dat[dat$TRAIL_NAME == "To Lake",]$TRAIL_NAME <- "Connors Lake Loop"
@@ -120,7 +124,7 @@
     dat[dat$TRAIL_NAME == "Spencer Short Cut",]$TRAIL_NAME <- "Spencer's Loop"
     dat[dat$TRAIL_NAME == "Upper Gasline Trail",]$TRAIL_NAME <- "Gasline Trail"
     dat[dat$TRAIL_NAME == "North Fork",]$TRAIL_NAME <- "Long Lake"
-    dat[dat$TRAIL_NAME == "Alder Trail",]$TRAIL_NAME <- "Alder"
+    dat[dat$TRAIL_NAME == "Alder 2",]$TRAIL_NAME <- "Alder"
     dat[dat$TRAIL_NAME == "Prator Spur",]$TRAIL_NAME <- "Rabbit Creek Greenbelt"
     dat[dat$TRAIL_NAME == "RC Meadow 1",]$TRAIL_NAME <- "Rabbit Creek Meadow"
     dat[dat$TRAIL_NAME == "RC Meadow 2",]$TRAIL_NAME <- "Rabbit Creek Meadow"    
@@ -172,6 +176,10 @@
     dat[dat$TRAIL_NAME == "Eklutna Lake Spillway",]$TRAIL_NAME <- "Eklutna LAkeside"
     dat[dat$TRAIL_NAME == "Spur 1",]$TRAIL_NAME <- "Cali Creek"
     dat[dat$TRAIL_NAME == "Spur 2",]$TRAIL_NAME <- "Cali Creek"
+    dat[dat$TRAIL_NAME == "Southwest",]$TRAIL_NAME <- "Connors Lake Trail"
+    dat[dat$TRAIL_NAME == "Whaley Sch. Trail",]$TRAIL_NAME <- "Chester Creek Trail"
+    #dat[dat$TRAIL_NAME == "",]$TRAIL_NAME <- ""
+    
     ###################################
     
     dat$MANAGEMENT <- as.character(dat$MANAGEMENT)
@@ -271,7 +279,7 @@
                                                            roadbike = NULL, 
                                                            hike = "y", 
                                                            mtnbike = NULL, 
-                                                           equestrian = NULL, 
+                                                           equestrian = as.character(dat[lines_rows,]$LIGHTING[1]), 
                                                            xcntryski = NULL,
                                                            conditions = NULL, 
                                                            trlsurface = NULL,
