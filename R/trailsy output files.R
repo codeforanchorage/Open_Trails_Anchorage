@@ -19,6 +19,10 @@
     anc_trails <- readOGR(dsn=".", layer="trails")
     anc_trails <- spTransform(anc_trails, CRS("+init=epsg:4326")) 
     
+    setwd(paste0(oldWD, "/data/Kincaid_Single_Track"))
+    kincaid_single_track <- readOGR(dsn=".", layer="Kincaid_Single_Track_North_Section_2013")
+    kincaid_single_track <- spTransform(anc_trails, CRS("+init=epsg:4326")) 
+    
     #setwd(paste0(oldWD, "/data/Mat_Su_Shapefile"))
     #matsu_trails <- readOGR(dsn=".", layer="MSB_Trails_Legal_Aug2014")
     #matsu_trails <- spTransform(matsu_trails, CRS("+init=epsg:4326")) 
@@ -30,10 +34,10 @@
     setwd(oldWD)
     
     #trail variables are in dat as a dataframe. trail segments are in lines as a list. Both need to be manipulated for cleaning 
-    dat <- rbind.fill(data.frame(TRAIL_NAME = chugach_trails@data$TRAIL_NAME), anc_trails@data)# , matsu_trails@data)
+    dat <- rbind.fill(data.frame(TRAIL_NAME = chugach_trails@data$TRAIL_NAME), anc_trails@data, kincaid_single_track@data)# , matsu_trails@data)
     dat <- cbind(dat, new_id = seq(dim(dat)[1]))
     
-    lines <- c(chugach_trails@lines, anc_trails@lines#, matsu_trails@lines)
+    lines <- c(chugach_trails@lines, anc_trails@lines, kincaid_single_track@lines)#, matsu_trails@lines)
     #########ADD FIELDS################
     levels(dat$LIGHTING) <- c("n", "y")
     dat[(is.na(dat$LIGHTING)),]$LIGHTING <- "n"
